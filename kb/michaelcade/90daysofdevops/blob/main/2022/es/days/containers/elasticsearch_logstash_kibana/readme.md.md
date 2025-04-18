@@ -1,0 +1,55 @@
+# Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/es/Days/Containers/elasticsearch-logstash-kibana/README.md
+Language: multiple
+
+## Snippet: Defining ELK Stack Services in Docker Compose YAML
+Description: This snippet shows the structure of the docker-compose.yml file, defining services for Elasticsearch, Logstash, and Kibana. It specifies the Docker images and versions to be used for each service.
+Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/es/Days/Containers/elasticsearch-logstash-kibana/README.md#2025-04-17_snippet_0
+Language: yaml
+
+```yaml
+services:
+  elasticsearch:
+    image: elasticsearch:7.8.0
+    ...
+  logstash:
+    image: logstash:7.8.0
+    ...
+  kibana:
+    image: kibana:7.8.0
+    ...
+```
+
+## Snippet: Verifying ELK Stack Deployment with Docker PS
+Description: This bash command lists the running containers, showing the status of the ELK stack services, their container IDs, image versions, and port mappings.
+Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/es/Days/Containers/elasticsearch-logstash-kibana/README.md#2025-04-17_snippet_2
+Language: bash
+
+```bash
+$ docker ps
+CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS                    PORTS                                                                                            NAMES
+173f0634ed33        logstash:7.8.0        "/usr/local/bin/dock…"   43 seconds ago      Up 41 seconds             0.0.0.0:5000->5000/tcp, 0.0.0.0:5044->5044/tcp, 0.0.0.0:9600->9600/tcp, 0.0.0.0:5000->5000/udp   log
+b448fd3e9b30        kibana:7.8.0          "/usr/local/bin/dumb…"   43 seconds ago      Up 42 seconds             0.0.0.0:5601->5601/tcp                                                                           kib
+366d358fb03d        elasticsearch:7.8.0   "/tini -- /usr/local…"   43 seconds ago      Up 42 seconds (healthy)   0.0.0.0:9200->9200/tcp, 0.0.0.0:9300->9300/tcp                                                   es
+```
+
+## Snippet: Deploying ELK Stack with Docker Compose
+Description: This bash command deploys the ELK stack using Docker Compose. It creates a network and starts the defined services in detached mode.
+Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/es/Days/Containers/elasticsearch-logstash-kibana/README.md#2025-04-17_snippet_1
+Language: bash
+
+```bash
+$ docker-compose up -d
+Creating network "elasticsearch-logstash-kibana_elastic" with driver "bridge"
+Creating es ... done
+Creating log ... done
+Creating kib ... done
+```
+
+## Snippet: Stopping and Removing ELK Stack Containers
+Description: This bash command stops and removes the ELK stack containers that were deployed using Docker Compose.
+Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/es/Days/Containers/elasticsearch-logstash-kibana/README.md#2025-04-17_snippet_3
+Language: bash
+
+```bash
+$ docker-compose down
+```

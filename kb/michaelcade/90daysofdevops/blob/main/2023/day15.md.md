@@ -1,0 +1,115 @@
+# Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2023/day15.md
+Language: console
+
+## Snippet: Generating SBOM for Ubuntu Container Image using Syft
+Description: This code snippet demonstrates how to use the syft tool to generate a Software Bill of Materials (SBOM) for the ubuntu:latest container image. The output includes a list of installed packages, their versions, and types.
+Source: https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2023/day15.md#2025-04-17_snippet_0
+Language: console
+
+```console
+$ syft ubuntu
+ ✔ Parsed image
+ ✔ Cataloged packages      [101 packages]
+NAME                 VERSION                                  TYPE
+adduser              3.118ubuntu5                             deb
+apt                  2.4.8                                    deb
+base-files           12ubuntu4.2                              deb
+base-passwd          3.5.52build1                             deb
+bash                 5.1-6ubuntu1                             deb
+bsdutils             1:2.37.2-4ubuntu3                        deb
+coreutils            8.32-4.1ubuntu1                          deb
+dash                 0.5.11+git20210903+057cd650a4ed-3build1  deb
+debconf              1.5.79ubuntu1                            deb
+debianutils          5.5-1ubuntu2                             deb
+diffutils            1:3.8-0ubuntu2                           deb
+dpkg                 1.21.1ubuntu2.1                          deb
+e2fsprogs            1.46.5-2ubuntu1.1                        deb
+findutils            4.8.0-1ubuntu3                           deb
+gcc-12-base          12.1.0-2ubuntu1~22.04                    deb
+gpgv                 2.2.27-3ubuntu2.1                        deb
+grep                 3.7-1build1                              deb
+gzip                 1.10-4ubuntu4.1                          deb
+hostname             3.23ubuntu2                              deb
+init-system-helpers  1.62                                     deb
+libacl1              2.3.1-1                                  deb
+libapt-pkg6.0        2.4.8                                    deb
+libattr1             1:2.5.1-1build1                          deb
+libaudit-common      1:3.0.7-1build1                          deb
+libaudit1            1:3.0.7-1build1                          deb
+libblkid1            2.37.2-4ubuntu3                          deb
+libbz2-1.0           1.0.8-5build1                            deb
+libc-bin             2.35-0ubuntu3.1                          deb
+libc6                2.35-0ubuntu3.1                          deb
+libcap-ng0           0.7.9-2.2build3                          deb
+libcap2              1:2.44-1build3                           deb
+libcom-err2          1.46.5-2ubuntu1.1                        deb
+libcrypt1            1:4.4.27-1                               deb
+libdb5.3             5.3.28+dfsg1-0.8ubuntu3                  deb
+libdebconfclient0    0.261ubuntu1                             deb
+libext2fs2           1.46.5-2ubuntu1.1                        deb
+libffi8              3.4.2-4                                  deb
+libgcc-s1            12.1.0-2ubuntu1~22.04                    deb
+libgcrypt20          1.9.4-3ubuntu3                           deb
+libgmp10             2:6.2.1+dfsg-3ubuntu1                    deb
+libgnutls30          3.7.3-4ubuntu1.1                         deb
+libgpg-error0        1.43-3                                   deb
+libgssapi-krb5-2     1.19.2-2                                 deb
+libhogweed6          3.7.3-1build2                            deb
+libidn2-0            2.3.2-2build1                            deb
+libk5crypto3         1.19.2-2                                 deb
+libkeyutils1         1.6.1-2ubuntu3                           deb
+libkrb5-3            1.19.2-2                                 deb
+libkrb5support0      1.19.2-2                                 deb
+liblz4-1             1.9.3-2build2                            deb
+liblzma5             5.2.5-2ubuntu1                           deb
+libmount1            2.37.2-4ubuntu3                          deb
+libncurses6          6.3-2                                    deb
+libncursesw6         6.3-2                                    deb
+libnettle8           3.7.3-1build2                            deb
+libnsl2              1.3.0-2build2                            deb
+libp11-kit0          0.24.0-6build1                           deb
+libpam-modules       1.4.0-11ubuntu2                          deb
+libpam-modules-bin   1.4.0-11ubuntu2                          deb
+libpam-runtime       1.4.0-11ubuntu2                          deb
+libpam0g             1.4.0-11ubuntu2                          deb
+libpcre2-8-0         10.39-3ubuntu0.1                         deb
+libpcre3             2:8.39-13ubuntu0.22.04.1                 deb
+libprocps8           2:3.3.17-6ubuntu2                        deb
+libseccomp2          2.5.3-2ubuntu2                           deb
+libselinux1          3.3-1build2                              deb
+libsemanage-common   3.3-1build2                              deb
+libsemanage2         3.3-1build2                              deb
+libsepol2            3.3-1build1                              deb
+libsmartcols1        2.37.2-4ubuntu3                          deb
+libss2               1.46.5-2ubuntu1.1                        deb
+libssl3              3.0.2-0ubuntu1.7                         deb
+libstdc++6           12.1.0-2ubuntu1~22.04                    deb
+libsystemd0          249.11-0ubuntu3.6                        deb
+libtasn1-6           4.18.0-4build1                           deb
+libtinfo6            6.3-2                                    deb
+libtirpc-common      1.3.2-2ubuntu0.1                         deb
+libtirpc3            1.3.2-2ubuntu0.1                         deb
+libudev1             249.11-0ubuntu3.6                        deb
+libunistring2        1.0-1                                    deb
+libuuid1             2.37.2-4ubuntu3                          deb
+libxxhash0           0.8.1-1                                  deb
+libzstd1             1.4.8+dfsg-3build1                       deb
+login                1:4.8.1-2ubuntu2                         deb
+logsave              1.46.5-2ubuntu1.1                        deb
+lsb-base             11.1.0ubuntu4                            deb
+mawk                 1.3.4.20200120-3                         deb
+mount                2.37.2-4ubuntu3                          deb
+ncurses-base         6.3-2                                    deb
+ncurses-bin          6.3-2                                    deb
+passwd               1:4.8.1-2ubuntu2                         deb
+perl-base            5.34.0-3ubuntu1.1                        deb
+procps               2:3.3.17-6ubuntu2                        deb
+sed                  4.8-1ubuntu2                             deb
+sensible-utils       0.0.17                                   deb
+sysvinit-utils       3.01-1ubuntu1                            deb
+tar                  1.34+dfsg-1build3                        deb
+ubuntu-keyring       2021.03.26                               deb
+usrmerge             25ubuntu2                                deb
+util-linux           2.37.2-4ubuntu3                          deb
+zlib1g               1:1.2.11.dfsg-2ubuntu9.2                 deb
+```
