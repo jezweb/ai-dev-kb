@@ -1,0 +1,296 @@
+[
+  {
+    "filename": "angular_cdk_clipboard_package_documentation.md",
+    "title": "Angular CDK Clipboard Package Documentation",
+    "summary": "Angular CDK Clipboard Package Documentation (Covers: Buffered Copying for Longer Text with PendingCopy in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_coercion_utilities.md",
+    "title": "Angular CDK Coercion Utilities",
+    "summary": "Angular CDK Coercion Utilities (Covers: Using Angular CDK coercion utilities for type conversion of @Input properties)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_dialog_service_documentation.md",
+    "title": "Angular CDK Dialog Service Documentation",
+    "summary": "Angular CDK Dialog Service Documentation (Covers: Passing Data to a Dialog Component, Creating a Dialog Component with DialogRef Injection, Accessing Dialog Data in a Component)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_cdk_drag_and_drop_module_documentation.md",
+    "title": "Angular CDK Drag and Drop Module Documentation",
+    "summary": "Angular CDK Drag and Drop Module Documentation (Covers: Animation Styles for Angular CDK Drag and Drop, Attaching Data to Drag and Drop Components in Angular CDK, Using cdkDropListGroup to Connect Multiple Drop Lists in Angular...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_cdk_menu_module_documentation.md",
+    "title": "Angular CDK Menu Module Documentation",
+    "summary": "Angular CDK Menu Module Documentation (Covers: Implementing a Context Menu in Angular CDK, Creating Nested Context Menus in Angular CDK, Implementing Radio Menu Items in Angular CDK...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_cdk_observers_package_documentation.md",
+    "title": "Angular CDK Observers Package Documentation",
+    "summary": "Angular CDK Observers Package Documentation (Covers: Implementing cdkObserveContent Directive in Angular HTML Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_overlay_package_documentation.md",
+    "title": "Angular CDK Overlay Package Documentation",
+    "summary": "Angular CDK Overlay Package Documentation (Covers: Providing FullscreenOverlayContainer in Angular Module)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_portals_package_documentation.md",
+    "title": "Angular CDK Portals Package Documentation",
+    "summary": "Angular CDK Portals Package Documentation (Covers: Creating a TemplatePortal with HTML and TypeScript in Angular, Using CdkPortal with HTML Templates in Angular)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_cdk_scrolling_package_documentation.md",
+    "title": "Angular CDK Scrolling Package Documentation",
+    "summary": "Angular CDK Scrolling Package Documentation (Covers: Virtual Scrolling with Custom Data Source, Horizontal Virtual Scrolling Implementation, Virtual Scrolling with Context Variables)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_google_maps_mapadvancedmarker_component_documentation.md",
+    "title": "Angular Google Maps MapAdvancedMarker Component Documentation",
+    "summary": "Angular Google Maps MapAdvancedMarker Component Documentation (Covers: Implementing MapAdvancedMarker in Angular TypeScript Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_google_maps_mapmarker_component_documentation.md",
+    "title": "Angular Google Maps MapMarker Component Documentation",
+    "summary": "Angular Google Maps MapMarker Component Documentation (Covers: Implementing MapMarker Component in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_google_maps_marker_clusterer_component.md",
+    "title": "Angular Google Maps Marker Clusterer Component",
+    "summary": "Angular Google Maps Marker Clusterer Component (Covers: Implementing a Google Map with Marker Clustering in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_layout_package_documentation.md",
+    "title": "Angular Layout Package Documentation",
+    "summary": "Angular Layout Package Documentation (Covers: Observing Viewport Changes with BreakpointObserver in TypeScript, Using Predefined Breakpoints with BreakpointObserver in TypeScript, Checking Viewport Size with BreakpointObserver in TypeScript)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_autocomplete_component_documentation.md",
+    "title": "Angular Material Autocomplete Component Documentation",
+    "summary": "Angular Material Autocomplete Component Documentation (Covers: Attaching Autocomplete Panel to a Different Element in Angular Material)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_badge_component_documentation.md",
+    "title": "Angular Material Badge Component Documentation",
+    "summary": "Angular Material Badge Component Documentation (Covers: Customizing Badge Position in Angular Material, Configuring Badge Overlap in Angular Material, Setting Badge Size in Angular Material)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_bi-directionality_documentation.md",
+    "title": "Angular Material Bi-directionality Documentation",
+    "summary": "Angular Material Bi-directionality Documentation (Covers: Implementing Directionality in Angular Components)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_button_toggle_component_documentation.md",
+    "title": "Angular Material Button Toggle Component Documentation",
+    "summary": "Angular Material Button Toggle Component Documentation (Covers: Implementing Accessible Button Toggle with Icon in Angular Material)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_card_component_documentation.md",
+    "title": "Angular Material Card Component Documentation",
+    "summary": "Angular Material Card Component Documentation (Covers: Using Basic mat-card Element in Angular Material, Using Card Content Element in Angular Material, Using Card Title Group in Angular Material...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_material_checkbox_documentation.md",
+    "title": "Angular Material Checkbox Documentation",
+    "summary": "Angular Material Checkbox Documentation (Covers: Configuring MatCheckbox Click Behavior in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_chips_documentation.md",
+    "title": "Angular Material Chips Documentation",
+    "summary": "Angular Material Chips Documentation (Covers: Implementing a Chip Grid with Input in Angular Material, Creating a Static Chip List in Angular Material, Implementing a Removable Chip in Angular Material...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "angular_material_coding_standards.md",
+    "title": "Angular Material Coding Standards",
+    "summary": "Angular Material Coding Standards (Covers: Implementing Fluent APIs in TypeScript, API Design: Avoiding Boolean Arguments in TypeScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_datepicker_documentation.md",
+    "title": "Angular Material Datepicker Documentation",
+    "summary": "Angular Material Datepicker Documentation (Covers: Implementing Generic Datepicker Component, Setting Date Locale in Angular Material Date Picker, Connecting Date Range Input with Picker in Angular Material...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "angular_material_dialog_component_documentation.md",
+    "title": "Angular Material Dialog Component Documentation",
+    "summary": "Angular Material Dialog Component Documentation (Covers: Implementing a Dialog Component in TypeScript, Opening a Dialog with MatDialog in TypeScript, Passing Data to Dialog Component in TypeScript...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_material_divider_component_documentation.md",
+    "title": "Angular Material Divider Component Documentation",
+    "summary": "Angular Material Divider Component Documentation (Covers: Material List with Inset Dividers Implementation in HTML)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_matsnackbar_documentation.md",
+    "title": "Angular Material MatSnackBar Documentation",
+    "summary": "Angular Material MatSnackBar Documentation (Covers: Sharing Data with Custom Snackbar Component in Angular, Handling Snackbar Events and Dismissal in Angular, Opening Basic Snackbar Messages in Angular...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_material_menu_component_documentation.md",
+    "title": "Angular Material Menu Component Documentation",
+    "summary": "Angular Material Menu Component Documentation (Covers: Toggling Angular Material Menu Programmatically in TypeScript, Implementing Lazy Rendering for Angular Material Menu in HTML)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_paginator_component_documentation.md",
+    "title": "Angular Material Paginator Component Documentation",
+    "summary": "Angular Material Paginator Component Documentation (Covers: Demonstrating Basic Paginator Usage in HTML, Setting Accessibility Attributes for Paginator in HTML)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_progress_bar_component.md",
+    "title": "Angular Material Progress Bar Component",
+    "summary": "Angular Material Progress Bar Component (Covers: Implementing Indeterminate Progress Bar in Angular Material, Implementing Query Progress Bar in Angular Material, Implementing Buffer Progress Bar in Angular Material...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_material_radio_button_component_documentation.md",
+    "title": "Angular Material Radio Button Component Documentation",
+    "summary": "Angular Material Radio Button Component Documentation (Covers: Binding Aria Label in Angular Material Radio Button)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_ripple_documentation.md",
+    "title": "Angular Material Ripple Documentation",
+    "summary": "Angular Material Ripple Documentation (Covers: Programmatic Ripple Control in TypeScript with Angular Material, Disabling Ripple Animation in Global Configuration, Configuring Global Ripple Options in Angular Module...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_material_select_component.md",
+    "title": "Angular Material Select Component",
+    "summary": "Angular Material Select Component (Covers: Handling Multiple Selection in Angular Material Select, Importing MatInputModule for Native Select in Angular)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_slider_component_documentation.md",
+    "title": "Angular Material Slider Component Documentation",
+    "summary": "Angular Material Slider Component Documentation (Covers: Range Selection with Angular Material Slider, Discrete Thumb Label in Angular Material Slider, Basic Value Selection with Angular Material Slider)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_sort_component_documentation.md",
+    "title": "Angular Material Sort Component Documentation",
+    "summary": "Angular Material Sort Component Documentation (Covers: Accessible Sort Header Implementation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_tabs_documentation.md",
+    "title": "Angular Material Tabs Documentation",
+    "summary": "Angular Material Tabs Documentation (Covers: Aligning Tab Labels in Angular Material Tab Groups, Using Custom Tab Labels with mat-tab-label Directive in Angular Material, Controlling Tab Animation Duration in Angular Material...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_material_toolbar_component_documentation.md",
+    "title": "Angular Material Toolbar Component Documentation",
+    "summary": "Angular Material Toolbar Component Documentation (Covers: Implementing Multiple Toolbar Rows with mat-toolbar-row in Angular Material, Positioning Toolbar Content with Flexbox in Angular Material, Styling Toolbar Content with CSS Flexbox)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_tooltip_component_documentation.md",
+    "title": "Angular Material Tooltip Component Documentation",
+    "summary": "Angular Material Tooltip Component Documentation (Covers: Modifying Default Tooltip Behavior in Angular Material, Setting Tooltip Delay in Angular Material, Displaying Basic Tooltip in Angular Material...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_material_tree_component_documentation.md",
+    "title": "Angular Material Tree Component Documentation",
+    "summary": "Angular Material Tree Component Documentation (Covers: Implementing a Flat Tree Structure with mat-tree in Angular Material, Implementing a Nested Tree Structure with mat-tree in Angular Material, Implementing Node Activation Handlers in Angular Material Tree...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_youtube_player_component_documentation.md",
+    "title": "Angular YouTube Player Component Documentation",
+    "summary": "Angular YouTube Player Component Documentation (Covers: Initializing Basic YouTube Player Component in Angular, Configuring YouTube Player API Loading with Module)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "cdk_tree_component_documentation.md",
+    "title": "CDK Tree Component Documentation",
+    "summary": "CDK Tree Component Documentation (Covers: Implementing a Nested Tree Structure with CDK Tree in HTML, Implementing a Nested Tree Node with Node Outlet in HTML, Implementing Node Activation Events for Accessibility in HTML)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "cdktable_angular's_unopinionated_data_table_component.md",
+    "title": "CdkTable: Angular's Unopinionated Data Table Component",
+    "summary": "CdkTable: Angular's Unopinionated Data Table Component (Covers: Implementing TrackBy Function in CdkTable, Defining Column Templates for CdkTable in Angular, Enabling Row Recycling in CdkTable for Performance...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "google_maps_circle_component_documentation.md",
+    "title": "Google Maps Circle Component Documentation",
+    "summary": "Google Maps Circle Component Documentation (Covers: MapCircle Template Implementation in Angular HTML)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "googlemap_component_for_angular.md",
+    "title": "GoogleMap Component for Angular",
+    "summary": "GoogleMap Component for Angular (Covers: Implementing GoogleMap Component in Angular TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "liveannouncer_documentation.md",
+    "title": "LiveAnnouncer Documentation",
+    "summary": "LiveAnnouncer Documentation (Covers: Implementing LiveAnnouncer in an Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "mapdirectionsrenderer_in_angular_google_maps.md",
+    "title": "MapDirectionsRenderer in Angular Google Maps",
+    "summary": "MapDirectionsRenderer in Angular Google Maps (Covers: Defining MapDirectionsResponse Interface in TypeScript, Rendering Directions in Google Maps with Angular Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "mapheatmaplayer_for_angular_google_maps.md",
+    "title": "MapHeatmapLayer for Angular Google Maps",
+    "summary": "MapHeatmapLayer for Angular Google Maps (Covers: Implementing a Heatmap Layer in Angular Google Maps Component, Rendering MapHeatmapLayer in HTML Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "mapkmllayer_component_for_google_maps_in_angular.md",
+    "title": "MapKmlLayer Component for Google Maps in Angular",
+    "summary": "MapKmlLayer Component for Google Maps in Angular (Covers: Rendering Google Map with KML Layer in Angular Template, Implementing MapKmlLayer in Angular Component)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "mappolygon_component_in_angular_google_maps.md",
+    "title": "MapPolygon Component in Angular Google Maps",
+    "summary": "MapPolygon Component in Angular Google Maps (Covers: Implementing MapPolygon in Angular TypeScript Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "material_3_custom_theme_schematic_documentation.md",
+    "title": "Material 3 Custom Theme Schematic Documentation",
+    "summary": "Material 3 Custom Theme Schematic Documentation (Covers: Applying High Contrast Overrides with Media Queries in Sass)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_matbottomsheet_in_angular_material.md",
+    "title": "Using MatBottomSheet in Angular Material",
+    "summary": "Using MatBottomSheet in Angular Material (Covers: Opening a Bottom Sheet in Angular Material, Managing Bottom Sheet Lifecycle in Angular Material, Configuring Global Defaults for Bottom Sheets in Angular Material)",
+    "snippet_count": 3
+  }
+]

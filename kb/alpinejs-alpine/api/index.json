@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "alpine.js_$id_utility.md",
+    "title": "Alpine.js $id Utility",
+    "summary": "Alpine.js $id Utility (Covers: Grouping IDs with x-id Directive in Alpine.js, Nesting ID Scopes with x-id in Alpine.js, Basic Usage of $id in Alpine.js...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "alpine.js_$nexttick_documentation.md",
+    "title": "Alpine.js $nextTick Documentation",
+    "summary": "Alpine.js $nextTick Documentation (Covers: Promise-based $nextTick Usage in Alpine.js, Basic $nextTick Usage with Callback in Alpine.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "alpine.js_$refs_magic_property.md",
+    "title": "Alpine.js $refs Magic Property",
+    "summary": "Alpine.js $refs Magic Property (Covers: Using $refs to Remove an Element in Alpine.js, Limitation of $refs with Dynamic Binding in Alpine.js V3)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "alpine.js_directives_documentation.md",
+    "title": "Alpine.js Directives Documentation",
+    "summary": "Alpine.js Directives Documentation (Covers: Defining Alpine.js Directive Metadata in Markdown)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_x-data_directive_documentation.md",
+    "title": "Alpine.js x-data Directive Documentation",
+    "summary": "Alpine.js x-data Directive Documentation (Covers: Converting a Multi-element Component to a Single-element Component, Initializing a Basic Alpine.js Component with x-data, Adding Methods to Alpine.js Components with x-data...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "alpine.js_x-effect_directive.md",
+    "title": "Alpine.js x-effect Directive",
+    "summary": "Alpine.js x-effect Directive (Covers: Using x-effect to Monitor Property Changes in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_x-if_directive_documentation.md",
+    "title": "Alpine.js x-if Directive Documentation",
+    "summary": "Alpine.js x-if Directive Documentation (Covers: Using x-if directive with template tag in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_x-ignore_directive_documentation.md",
+    "title": "Alpine.js x-ignore Directive Documentation",
+    "summary": "Alpine.js x-ignore Directive Documentation (Covers: Using x-ignore Directive in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_x-init_directive_documentation.md",
+    "title": "Alpine.js x-init Directive Documentation",
+    "summary": "Alpine.js x-init Directive Documentation (Covers: Async Data Fetching with x-init in Alpine.js, Basic x-init Usage in Alpine.js, Auto-evaluated init() Method in Alpine.js Components...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "alpine.js_x-ref_directive.md",
+    "title": "Alpine.js x-ref Directive",
+    "summary": "Alpine.js x-ref Directive (Covers: Using x-ref and $refs to Access DOM Elements in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_x-show_directive_documentation.md",
+    "title": "Alpine.js x-show Directive Documentation",
+    "summary": "Alpine.js x-show Directive Documentation (Covers: Basic x-show Usage in Alpine.js, x-show with Transitions in Alpine.js, x-show with Important Modifier in Alpine.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "alpine.js_x-teleport_directive_documentation.md",
+    "title": "Alpine.js x-teleport Directive Documentation",
+    "summary": "Alpine.js x-teleport Directive Documentation (Covers: Nesting Modals with x-teleport in Alpine.js, Basic x-teleport Usage for Modal in Alpine.js, Event Forwarding with x-teleport in Alpine.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "alpine.js_x-transition_directive.md",
+    "title": "Alpine.js x-transition Directive",
+    "summary": "Alpine.js x-transition Directive (Covers: Basic x-transition Usage with Alpine.js, Customizing Transition Duration in Alpine.js, Setting Different Enter and Leave Durations in Alpine.js...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "understanding_x-model_directive_in_alpine.js.md",
+    "title": "Understanding x-model Directive in Alpine.js",
+    "summary": "Understanding x-model Directive in Alpine.js (Covers: Basic Text Input Binding with x-model in Alpine.js, Text Input Binding with x-model in Alpine.js, Radio Input Binding in Alpine.js...)",
+    "snippet_count": 19
+  },
+  {
+    "filename": "using_x-bind_directive_in_alpine.js.md",
+    "title": "Using x-bind Directive in Alpine.js",
+    "summary": "Using x-bind Directive in Alpine.js (Covers: Basic x-bind Usage in Alpine.js, Class Object Syntax in Alpine.js, Shorthand Syntax for x-bind in Alpine.js...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "using_x-cloak_directive_in_alpine.js.md",
+    "title": "Using x-cloak directive in Alpine.js",
+    "summary": "Using x-cloak directive in Alpine.js (Covers: Using x-cloak with x-text binding, Basic x-cloak usage with x-show, Configuring CSS for x-cloak functionality...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "using_x-html_directive_in_alpine.js.md",
+    "title": "Using x-html Directive in Alpine.js",
+    "summary": "Using x-html Directive in Alpine.js (Covers: Displaying User Username with x-html in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_x-modelable_in_alpine.js.md",
+    "title": "Using x-modelable in Alpine.js",
+    "summary": "Using x-modelable in Alpine.js (Covers: Binding Variables with x-modelable in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_x-text_directive_in_alpine.js.md",
+    "title": "Using x-text Directive in Alpine.js",
+    "summary": "Using x-text Directive in Alpine.js (Covers: Setting Text Content with x-text in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "x-id_directive_in_alpine.js.md",
+    "title": "x-id Directive in Alpine.js",
+    "summary": "x-id Directive in Alpine.js (Covers: Creating Unique IDs with x-id and $id in Alpine.js)",
+    "snippet_count": 1
+  }
+]

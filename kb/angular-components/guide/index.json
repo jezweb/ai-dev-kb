@@ -1,0 +1,224 @@
+[
+  {
+    "filename": "angular_cdk_platform_api_documentation.md",
+    "title": "Angular CDK Platform API Documentation",
+    "summary": "Angular CDK Platform API Documentation (Covers: TypeScript Platform Module API Declarations)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_testing_infrastructure.md",
+    "title": "Angular CDK Testing Infrastructure",
+    "summary": "Angular CDK Testing Infrastructure (Covers: Using Parallel Function with Angular Component Harnesses, Creating Component Harnesses for Menu Components, Implementing Filterable Component Harnesses with HarnessPredicate...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "angular_components_-_breakpoints_module.md",
+    "title": "Angular Components - Breakpoints Module",
+    "summary": "Angular Components - Breakpoints Module (Covers: Using BreakpointObserver to Detect Handset Breakpoint in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_components_a11y_package_documentation.md",
+    "title": "Angular Components A11y Package Documentation",
+    "summary": "Angular Components A11y Package Documentation (Covers: Using FocusMonitor in TypeScript, Using LiveAnnouncer in TypeScript, Using cdkTrapFocus Directive in HTML...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_components_changelog.md",
+    "title": "Angular Components Changelog",
+    "summary": "Angular Components Changelog (Covers: Adding Mixed Orientation Support for Drag and Drop in Angular CDK, Migrating from TreeControl to LevelAccessor/ChildrenAccessor, Version Header Format in Markdown)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_components_changelog_documentation.md",
+    "title": "Angular Components Changelog Documentation",
+    "summary": "Angular Components Changelog Documentation (Covers: Enhancing Autocomplete Panel Width in Angular Material, Importing from Angular CDK After Breaking Changes, Reworking Popover Edit Host Listeners for Ivy in Angular Material...)",
+    "snippet_count": 17
+  },
+  {
+    "filename": "angular_components_project_with_yarn_pnp_compatibility.md",
+    "title": "Angular Components Project with Yarn PnP Compatibility",
+    "summary": "Angular Components Project with Yarn PnP Compatibility (Covers: Generating Angular Components and Other Artifacts)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_components_scroll_strategies.md",
+    "title": "Angular Components Scroll Strategies",
+    "summary": "Angular Components Scroll Strategies (Covers: Configuring Overlay with a Scroll Strategy in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_2_theming_guide.md",
+    "title": "Angular Material 2 Theming Guide",
+    "summary": "Angular Material 2 Theming Guide (Covers: Customizing Strong Focus Indicators in Angular Material with SCSS, Applying Theme to All Components in SCSS, Creating a Complete Material Theme in SCSS)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_component_harnesses_testing_guide.md",
+    "title": "Angular Material Component Harnesses Testing Guide",
+    "summary": "Angular Material Component Harnesses Testing Guide (Covers: Interacting with Components using MatButtonHarness Methods, Testing Angular Material Component With Harnesses, Loading MatButtonHarnesses with getAllHarnesses and getHarness Methods)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_components_robots.txt_configuration.md",
+    "title": "Angular Material Components Robots.txt Configuration",
+    "summary": "Angular Material Components Robots.txt Configuration (Covers: Configuring Robots.txt for Angular Material Documentation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_core_api_report.md",
+    "title": "Angular Material Core API Report",
+    "summary": "Angular Material Core API Report (Covers: Defining ThemePalette Type for Angular Material Components, Defining MatOption and MatOptgroup Components, Implementing NativeDateAdapter in TypeScript)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_datepicker_testing_api.md",
+    "title": "Angular Material Datepicker Testing API",
+    "summary": "Angular Material Datepicker Testing API (Covers: Type Definitions for Angular Material Datepicker Testing)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_form_field_component_documentation.md",
+    "title": "Angular Material Form Field Component Documentation",
+    "summary": "Angular Material Form Field Component Documentation (Covers: Configuring Default Form Field Appearance in Angular, Configuring Default Floating Label Behavior in Angular Form Fields)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_form_field_testing_api_report.md",
+    "title": "Angular Material Form Field Testing API Report",
+    "summary": "Angular Material Form Field Testing API Report (Covers: TypeScript API Definitions for Angular Material Form Field Testing)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_icon_component_usage_guide.md",
+    "title": "Angular Material Icon Component Usage Guide",
+    "summary": "Angular Material Icon Component Usage Guide (Covers: Displaying a Font Icon with Ligature in Angular Material, Displaying an SVG Icon from a Named Icon Set in Angular Material, Implementing Accessible Icon with Hidden Text in Angular Material...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_material_input_testing_api_documentation.md",
+    "title": "Angular Material Input Testing API Documentation",
+    "summary": "Angular Material Input Testing API Documentation (Covers: Defining Input Testing Harnesses in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_list_component_api.md",
+    "title": "Angular Material List Component API",
+    "summary": "Angular Material List Component API (Covers: Defining MatSelectionList Component Class)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_list_component_documentation.md",
+    "title": "Angular Material List Component Documentation",
+    "summary": "Angular Material List Component Documentation (Covers: Creating Simple Lists with Angular Material, Implementing Multi-line Lists in Angular Material, Creating Lists with Multiple Sections in Angular Material...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_material_progress_bar_testing_api.md",
+    "title": "Angular Material Progress Bar Testing API",
+    "summary": "Angular Material Progress Bar Testing API (Covers: Defining MatProgressBarHarness Class and Interfaces in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_progress_spinner_component_guide.md",
+    "title": "Angular Material Progress Spinner Component Guide",
+    "summary": "Angular Material Progress Spinner Component Guide (Covers: Basic Usage of Angular Material Progress Spinner Component, Using Angular Material Spinner Component, Using Angular Material Progress Spinner with Indeterminate Mode)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_sidenav_drawer_components_documentation.md",
+    "title": "Angular Material Sidenav & Drawer Components Documentation",
+    "summary": "Angular Material Sidenav & Drawer Components Documentation (Covers: Basic Sidenav Layout with Left Positioning, Sidenav Width Styling)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_material_sort_testing_api_documentation.md",
+    "title": "Angular Material Sort Testing API Documentation",
+    "summary": "Angular Material Sort Testing API Documentation (Covers: Defining Testing Harnesses for Angular Material Sort Components in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_stepper_testing_api_documentation.md",
+    "title": "Angular Material Stepper Testing API Documentation",
+    "summary": "Angular Material Stepper Testing API Documentation (Covers: Defining Angular Material Stepper Testing Harnesses and Interfaces)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_table_component_guide.md",
+    "title": "Angular Material Table Component Guide",
+    "summary": "Angular Material Table Component Guide (Covers: Implementing MatTable with display: flex in Angular Material, Adding Footer Row to Angular Material Table, Styling Selection Column for Angular Material Table...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "angular_material_table_testing_api_documentation.md",
+    "title": "Angular Material Table Testing API Documentation",
+    "summary": "Angular Material Table Testing API Documentation (Covers: Defining Angular Material Table Testing API in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_tabs_testing_api_documentation.md",
+    "title": "Angular Material Tabs Testing API Documentation",
+    "summary": "Angular Material Tabs Testing API Documentation (Covers: Defining Angular Material Tabs Testing Harnesses and Interfaces)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_theming_guide.md",
+    "title": "Angular Material Theming Guide",
+    "summary": "Angular Material Theming Guide (Covers: Customizing Typography in Angular Material Theme, Implementing Basic Angular Material Theme with Sass, Adjusting Density in Angular Material Theme...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_material_v9_hammerjs_migration_guide.md",
+    "title": "Angular Material V9 HammerJS Migration Guide",
+    "summary": "Angular Material V9 HammerJS Migration Guide (Covers: Removing HammerJS script import from HTML)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_report_for_@angular_cdk_testing.md",
+    "title": "API Report for @angular/cdk_testing",
+    "summary": "API Report for @angular/cdk_testing (Covers: Defining AsyncFactoryFn Type in TypeScript, Defining ComponentHarness Abstract Class in TypeScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "api_report_for_@angular_cdk_testing_testbed.md",
+    "title": "API Report for @angular/cdk_testing_testbed",
+    "summary": "API Report for @angular/cdk_testing_testbed (Covers: Implementing UnitTestElement Class for Angular Component Testing)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_report_for_@angular_material_snack-bar_testing.md",
+    "title": "API Report for @angular/material_snack-bar_testing",
+    "summary": "API Report for @angular/material_snack-bar_testing (Covers: Defining MatSnackBarHarness Class in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "custom_form_field_control_guide.md",
+    "title": "Custom Form Field Control Guide",
+    "summary": "Custom Form Field Control Guide (Covers: Implementing Error State for Custom Angular Form Field Control, Implementing Disabled State for Custom Angular Form Field Control, Using Custom Angular Form Field Control in Template...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "focus_trap_documentation_in_angular_components.md",
+    "title": "Focus Trap Documentation in Angular Components",
+    "summary": "Focus Trap Documentation in Angular Components (Covers: Implementing Focus Trap with cdkTrapFocus in Angular HTML Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "getting_started_with_angular_material.md",
+    "title": "Getting Started with Angular Material",
+    "summary": "Getting Started with Angular Material (Covers: Installing Angular Material with Angular CLI, Using Angular Material Slide Toggle in HTML Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "google_maps_infowindow_integration_with_angular_components.md",
+    "title": "Google Maps InfoWindow Integration with Angular Components",
+    "summary": "Google Maps InfoWindow Integration with Angular Components (Covers: Google Maps Template with InfoWindow Implementation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "rendering_data_rows_in_angular_components.md",
+    "title": "Rendering Data Rows in Angular Components",
+    "summary": "Rendering Data Rows in Angular Components (Covers: Defining RenderRow Interface in TypeScript for Angular Table Components)",
+    "snippet_count": 1
+  }
+]

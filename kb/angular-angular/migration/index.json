@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "angular_input_migration_test_cases.md",
+    "title": "Angular Input Migration Test Cases",
+    "summary": "Angular Input Migration Test Cases (Covers: Required Inputs with Various Type References, Using Input Signals in Object Shorthand Properties, Component with Non-Migratable Input...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_input_signal_migration_tests.md",
+    "title": "Angular Input Signal Migration Tests",
+    "summary": "Angular Input Signal Migration Tests (Covers: Type Narrowing with Angular Input Properties in TypeScript, Applying Modifiers to Angular Input Properties in TypeScript, Importing and Using Angular's input() Function in TypeScript...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_v20.0.0-next.5_release_notes.md",
+    "title": "Angular v20.0.0-next.5 Release Notes",
+    "summary": "Angular v20.0.0-next.5 Release Notes (Covers: Adding Transient Info to RouterLink Input in Angular, ChangeDetectorRef Deprecation Notice - Angular Core)",
+    "snippet_count": 2
+  }
+]

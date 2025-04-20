@@ -1,0 +1,8 @@
+[
+  {
+    "filename": "upgrading_from_alpine.js_v2_to_v3.md",
+    "title": "Upgrading from Alpine.js V2 to V3",
+    "summary": "Upgrading from Alpine.js V2 to V3 (Covers: Cascading Scope with x-data in Alpine.js V3, Using x-transition Instead of x-show.transition in Alpine.js V3, Using Alpine Lifecycle Events Instead of deferLoadingAlpine...)",
+    "snippet_count": 13
+  }
+]

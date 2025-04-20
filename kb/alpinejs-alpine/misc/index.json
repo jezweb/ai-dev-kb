@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "alpine.data_documentation.md",
+    "title": "Alpine.data Documentation",
+    "summary": "Alpine.data Documentation (Covers: Creating a Reusable Dropdown Component with Alpine.data, Defining a Dropdown Component in a Separate File, Passing Parameters to Alpine.data Components...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "alpine.js_$data_magic_property.md",
+    "title": "Alpine.js $data Magic Property",
+    "summary": "Alpine.js $data Magic Property (Covers: Accessing Alpine.js Data Scope with $data)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_$dispatch_method.md",
+    "title": "Alpine.js $dispatch Method",
+    "summary": "Alpine.js $dispatch Method (Covers: Cross-Component Communication with $dispatch in Alpine.js, Event Propagation Example with Alpine.js, Dispatching Basic Events in Alpine.js...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "alpine.js_$el_property_documentation.md",
+    "title": "Alpine.js $el Property Documentation",
+    "summary": "Alpine.js $el Property Documentation (Covers: Using $el to Modify DOM Content in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_$root_magic_property.md",
+    "title": "Alpine.js $root Magic Property",
+    "summary": "Alpine.js $root Magic Property (Covers: Accessing Root Element Data with $root in Alpine.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_$watch_magic_method.md",
+    "title": "Alpine.js $watch Magic Method",
+    "summary": "Alpine.js $watch Magic Method (Covers: Watching a Component Property with $watch in Alpine.js, Accessing Old Values in $watch Callback in Alpine.js, Watching Nested Properties with $watch in Alpine.js...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "alpine.js_anchor_plugin_documentation.md",
+    "title": "Alpine.js Anchor Plugin Documentation",
+    "summary": "Alpine.js Anchor Plugin Documentation (Covers: Installing Alpine.js Anchor Plugin via NPM, Customizing Anchor Positioning with Modifiers in Alpine.js, Using x-anchor Directive for Dropdown Positioning in Alpine.js...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "alpine.js_bind()_documentation.md",
+    "title": "Alpine.js bind() Documentation",
+    "summary": "Alpine.js bind() Documentation (Covers: Reusable Attribute Binding with Alpine.bind(), Basic Alpine.js Attribute Binding)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "alpine.js_collapse_plugin_documentation.md",
+    "title": "Alpine.js Collapse Plugin Documentation",
+    "summary": "Alpine.js Collapse Plugin Documentation (Covers: Basic Usage of x-collapse Directive in Alpine.js, Using Duration Modifier with Alpine.js Collapse Plugin, Using Min Modifier with Alpine.js Collapse Plugin...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "alpine.js_focus_plugin_documentation.md",
+    "title": "Alpine.js Focus Plugin Documentation",
+    "summary": "Alpine.js Focus Plugin Documentation (Covers: Advanced Focus Control with Custom Triggers in Alpine.js, Using x-trap Directive in Alpine.js, Basic Focus Navigation with Arrow Keys in Alpine.js...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "alpine.js_intersect_plugin_documentation.md",
+    "title": "Alpine.js Intersect Plugin Documentation",
+    "summary": "Alpine.js Intersect Plugin Documentation (Covers: Using x-intersect:enter and x-intersect:leave in Alpine.js, Using x-intersect Directive in Alpine.js, Using Modifiers with x-intersect in Alpine.js...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "alpine.js_magic_properties_documentation.md",
+    "title": "Alpine.js Magic Properties Documentation",
+    "summary": "Alpine.js Magic Properties Documentation (Covers: Defining Magic Properties Section in Alpine.js Documentation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_mask_plugin_documentation.md",
+    "title": "Alpine.js Mask Plugin Documentation",
+    "summary": "Alpine.js Mask Plugin Documentation (Covers: Dynamic Credit Card Input Masking, Function-based Dynamic Credit Card Masking, Initializing Alpine Mask Plugin in JavaScript Bundle...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "alpine.js_morph_plugin_documentation.md",
+    "title": "Alpine.js Morph Plugin Documentation",
+    "summary": "Alpine.js Morph Plugin Documentation (Covers: Alpine.js Morph Basic Usage Example, Alpine.js Morph Lifecycle Hooks Configuration, Installing Alpine.js Morph via CDN...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "alpine.js_persist_plugin_documentation.md",
+    "title": "Alpine.js Persist Plugin Documentation",
+    "summary": "Alpine.js Persist Plugin Documentation (Covers: Using Alpine.$persist Global with Alpine.store, Implementing Custom Storage for Persistence in Alpine.js, Basic Usage of $persist Method in Alpine.js...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "alpine.js_resize_plugin_documentation.md",
+    "title": "Alpine.js Resize Plugin Documentation",
+    "summary": "Alpine.js Resize Plugin Documentation (Covers: Using x-resize Directive in Alpine.js, Using x-resize with .document Modifier in Alpine.js, Installing Alpine.js Resize Plugin via CDN...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "alpine.js_sort_plugin_documentation.md",
+    "title": "Alpine.js Sort Plugin Documentation",
+    "summary": "Alpine.js Sort Plugin Documentation (Covers: Implementing Sorting Groups in Alpine.js Sort Plugin, Basic Usage of Alpine.js Sort Plugin, Using Drag Handles in Alpine.js Sort Plugin...)",
+    "snippet_count": 11
+  },
+  {
+    "filename": "extending_alpine.js.md",
+    "title": "Extending Alpine.js",
+    "summary": "Extending Alpine.js (Covers: Creating Reactive Alpine.js Custom Directives, Extending Alpine.js via Script Tag, Evaluating Expressions in Alpine.js Custom Directives...)",
+    "snippet_count": 14
+  },
+  {
+    "filename": "templating_in_alpine.js.md",
+    "title": "Templating in Alpine.js",
+    "summary": "Templating in Alpine.js (Covers: Conditional Rendering with x-if in Alpine.js, Looping Elements with x-for in Alpine.js, Toggling Elements with x-show in Alpine.js...)",
+    "snippet_count": 13
+  },
+  {
+    "filename": "using_$store_in_alpine.js.md",
+    "title": "Using $store in Alpine.js",
+    "summary": "Using $store in Alpine.js (Covers: Using Object-Based Store with $store for Dark Mode Toggle in Alpine.js, Using Single-Value Store with $store for Dark Mode Toggle in Alpine.js)",
+    "snippet_count": 2
+  }
+]

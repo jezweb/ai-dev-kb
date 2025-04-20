@@ -1,0 +1,464 @@
+[
+  {
+    "filename": "animatable_properties_in_anime.js_-_css_variables_animation.md",
+    "title": "Animatable Properties in Anime.js - CSS Variables Animation",
+    "summary": "Animatable Properties in Anime.js - CSS Variables Animation (Covers: Animating CSS Variables with Anime.js, HTML Structure for CSS Variables Animation Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animatejs_animation_callbacks_documentation.md",
+    "title": "AnimateJS Animation Callbacks Documentation",
+    "summary": "AnimateJS Animation Callbacks Documentation (Covers: HTML Structure for AnimateJS Loop Counter Example, Implementing onLoop Callback in AnimateJS Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_scroll_events_with_anime.js.md",
+    "title": "Animating Scroll Events with Anime.js",
+    "summary": "Animating Scroll Events with Anime.js (Covers: Animating a Square on Scroll with Anime.js, HTML Structure for Scroll Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_with_scroll_and_event_callbacks_in_anime.js.md",
+    "title": "Animating with Scroll and Event Callbacks in Anime.js",
+    "summary": "Animating with Scroll and Event Callbacks in Anime.js (Covers: Animating Elements on Scroll with Anime.js in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_callbacks_in_anime.js.md",
+    "title": "Animation Callbacks in Anime.js",
+    "summary": "Animation Callbacks in Anime.js (Covers: Configuring Animation Callbacks in Anime.js, Using onBegin Callback in Anime.js Animation, Setting Default onRender Callback Globally in Anime.js...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "animation_callbacks_in_animejs.md",
+    "title": "Animation Callbacks in AnimeJS",
+    "summary": "Animation Callbacks in AnimeJS (Covers: Configuring Global Default for onUpdate Callback in AnimeJS, Implementing onBeforeUpdate Callback in AnimeJS Animation, Implementing onUpdate Callback in AnimeJS Animation)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "animation_callbacks_oncomplete_in_anime.js.md",
+    "title": "Animation Callbacks: onComplete in Anime.js",
+    "summary": "Animation Callbacks: onComplete in Anime.js (Covers: Using onComplete Callback in Anime.js Animation, HTML Structure for Anime.js onComplete Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_cancellation_in_animejs.md",
+    "title": "Animation Cancellation in AnimeJS",
+    "summary": "Animation Cancellation in AnimeJS (Covers: HTML Structure for AnimeJS Animation Demo)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_methods_-_resume()_in_animejs.md",
+    "title": "Animation Methods - resume() in AnimeJS",
+    "summary": "Animation Methods - resume() in AnimeJS (Covers: HTML Structure for AnimeJS Animation Controls Demo)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_methods_-_revert()_in_animejs.md",
+    "title": "Animation Methods - revert() in AnimeJS",
+    "summary": "Animation Methods - revert() in AnimeJS (Covers: Using revert() Method to Cancel and Revert AnimeJS Animations in JavaScript, HTML Structure for AnimeJS revert() Demo with Interactive Buttons)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_methods_in_anime.js.md",
+    "title": "Animation Methods in Anime.js",
+    "summary": "Animation Methods in Anime.js (Covers: Using seek() Method in Anime.js Animation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_methods_in_animejs.md",
+    "title": "Animation Methods in AnimeJS",
+    "summary": "Animation Methods in AnimeJS (Covers: Implementing Animation Refresh with AnimeJS in JavaScript, HTML Structure for AnimeJS Animation Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_methods_in_animejs_complete()_method.md",
+    "title": "Animation Methods in AnimeJS: complete() Method",
+    "summary": "Animation Methods in AnimeJS: complete() Method (Covers: HTML Structure for AnimeJS Animation Demo)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_methods_pause_in_anime.js.md",
+    "title": "Animation Methods: Pause in Anime.js",
+    "summary": "Animation Methods: Pause in Anime.js (Covers: HTML Structure for Anime.js Pause Demo, Implementing Animation Pause Functionality with Anime.js in JavaScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_playback_rate_documentation_for_anime.js.md",
+    "title": "Animation Playback Rate Documentation for Anime.js",
+    "summary": "Animation Playback Rate Documentation for Anime.js (Covers: Setting Global Default Playback Rate in Anime.js, HTML Structure for Animation Speed Control Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_playback_settings_-_alternate_option.md",
+    "title": "Animation Playback Settings - Alternate Option",
+    "summary": "Animation Playback Settings - Alternate Option (Covers: Configuring Alternate Option in anime.js Animations, Setting Global Default for Alternate in anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_playback_settings_-_loop_delay_in_animejs.md",
+    "title": "Animation Playback Settings - Loop Delay in AnimeJS",
+    "summary": "Animation Playback Settings - Loop Delay in AnimeJS (Covers: Setting Global Loop Delay in AnimeJS, Configuring Loop Delay for Specific Animation in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_playback_settings_documentation_for_animejs.md",
+    "title": "Animation Playback Settings Documentation for AnimeJS",
+    "summary": "Animation Playback Settings Documentation for AnimeJS (Covers: Configuring Animation Playback Settings in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_playback_settings_in_anime.js.md",
+    "title": "Animation Playback Settings in Anime.js",
+    "summary": "Animation Playback Settings in Anime.js (Covers: Implementing playbackEase Animation in Anime.js (JavaScript))",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animation_playback_settings_in_anime.js_-_delay_configuration.md",
+    "title": "Animation Playback Settings in Anime.js - Delay Configuration",
+    "summary": "Animation Playback Settings in Anime.js - Delay Configuration (Covers: Creating Animation with Delay in Anime.js, Setting Global Default Delay in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animation_playback_settings_in_animejs_reversed_property.md",
+    "title": "Animation Playback Settings in AnimeJS: Reversed Property",
+    "summary": "Animation Playback Settings in AnimeJS: Reversed Property (Covers: Setting Global Default for Reversed Animation in AnimeJS, HTML Structure for Reversed Animation Examples, Creating Normal and Reversed Animations with AnimeJS)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "animation_stretching_methods_in_anime.js.md",
+    "title": "Animation Stretching Methods in Anime.js",
+    "summary": "Animation Stretching Methods in Anime.js (Covers: HTML Structure for Animation Demo, Using stretch() Method in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_animation_alternate_method_documentation.md",
+    "title": "Anime.js Animation Alternate Method Documentation",
+    "summary": "Anime.js Animation Alternate Method Documentation (Covers: Implementing Alternate Animation with Anime.js in JavaScript, HTML Structure for Anime.js Alternate Animation Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_animation_composition_modes.md",
+    "title": "Anime.js Animation Composition Modes",
+    "summary": "Anime.js Animation Composition Modes (Covers: HTML Structure for Composition Mode Demonstration in Anime.js, Setting Global Default Composition Mode in Anime.js, Implementing Different Composition Modes with Interactive Animation Example in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_animation_documentation.md",
+    "title": "Anime.js Animation Documentation",
+    "summary": "Anime.js Animation Documentation (Covers: Importing and Using the animate() Method in Anime.js, Creating Complex Animations with Keyframes and Property-Specific Parameters, Importing and Using the WAAPI Version of Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_animation_keyframes_documentation.md",
+    "title": "Anime.js Animation Keyframes Documentation",
+    "summary": "Anime.js Animation Keyframes Documentation (Covers: Creating a Complex Animation with Keyframes in Anime.js, Defining Duration-Based Keyframes in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_animation_methods_documentation.md",
+    "title": "Anime.js Animation Methods Documentation",
+    "summary": "Anime.js Animation Methods Documentation (Covers: Implementing Reverse Animation with Anime.js, Accessing Animation Methods in Anime.js, Creating an Animation Instance in Anime.js...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "anime.js_animation_methods_play().md",
+    "title": "Anime.js Animation Methods: play()",
+    "summary": "Anime.js Animation Methods: play() (Covers: Using play() Method with Event Listener in Anime.js, HTML Structure for Anime.js play() Method Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_animation_methods_restart().md",
+    "title": "Anime.js Animation Methods: restart()",
+    "summary": "Anime.js Animation Methods: restart() (Covers: Using restart() Method with Anime.js, HTML Structure for Anime.js restart() Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_animation_targets_documentation.md",
+    "title": "Anime.js Animation Targets Documentation",
+    "summary": "Anime.js Animation Targets Documentation (Covers: Basic Anime.js Animation Configuration)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_animation_value_types_documentation.md",
+    "title": "Anime.js Animation Value Types Documentation",
+    "summary": "Anime.js Animation Value Types Documentation (Covers: Setting Animation Values in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_installation_guide.md",
+    "title": "Anime.js Installation Guide",
+    "summary": "Anime.js Installation Guide (Covers: Installing Anime.js with NPM, Using Anime.js ES6 Modules from local file, Importing Anime.js methods as ES6 modules...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "anime.js_keyframe_animation_documentation.md",
+    "title": "Anime.js Keyframe Animation Documentation",
+    "summary": "Anime.js Keyframe Animation Documentation (Covers: Complex Keyframe Animation with Multiple Properties - JavaScript, Basic Keyframe Animation Example - JavaScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_keyframes_animation_documentation.md",
+    "title": "Anime.js Keyframes Animation Documentation",
+    "summary": "Anime.js Keyframes Animation Documentation (Covers: Implementing Complex Keyframe Animation with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_loop_animation_setting_documentation.md",
+    "title": "Anime.js Loop Animation Setting Documentation",
+    "summary": "Anime.js Loop Animation Setting Documentation (Covers: Implementing Various Loop Behaviors in Anime.js, Setting Global Default Loop Value in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_padstart_utility_function_documentation.md",
+    "title": "Anime.js padStart Utility Function Documentation",
+    "summary": "Anime.js padStart Utility Function Documentation (Covers: Creating and Using padStart Function with Examples, Using padStart Utility Function in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_scope_method_registration_and_usage.md",
+    "title": "Anime.js Scope Method Registration and Usage",
+    "summary": "Anime.js Scope Method Registration and Usage (Covers: Anime.js Scope Creation and Method Registration, Executing Method from Anime.js Scope)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_scopes_managing_animations_in_responsive_environments.md",
+    "title": "Anime.js Scopes: Managing Animations in Responsive Environments",
+    "summary": "Anime.js Scopes: Managing Animations in Responsive Environments (Covers: Creating an Anime.js Scope with Media Queries (JavaScript))",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_stagger_grid_animation.md",
+    "title": "Anime.js Stagger Grid Animation",
+    "summary": "Anime.js Stagger Grid Animation (Covers: Anime.js Stagger Grid Animation, HTML Grid Structure)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_timeline_restart()_method_documentation.md",
+    "title": "Anime.js Timeline restart() Method Documentation",
+    "summary": "Anime.js Timeline restart() Method Documentation (Covers: Implementing Timeline restart() Method in Anime.js, HTML Structure for Anime.js Timeline Demo)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_web_animation_api_improvements_documentation.md",
+    "title": "Anime.js Web Animation API Improvements Documentation",
+    "summary": "Anime.js Web Animation API Improvements Documentation (Covers: Using WAAPI with Scope for Media Queries in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_animation_keyframes_documentation.md",
+    "title": "AnimeJS Animation Keyframes Documentation",
+    "summary": "AnimeJS Animation Keyframes Documentation (Covers: Animating with Percentage-Based Keyframes in AnimeJS, Animating with Tween Values Array in AnimeJS, Animating with Duration-Based Keyframes in AnimeJS...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "animejs_animation_playback_settings_documentation.md",
+    "title": "AnimeJS Animation Playback Settings Documentation",
+    "summary": "AnimeJS Animation Playback Settings Documentation (Covers: Setting Global Autoplay Default in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_animation_playback_settings_duration.md",
+    "title": "AnimeJS Animation Playback Settings: Duration",
+    "summary": "AnimeJS Animation Playback Settings: Duration (Covers: Setting Global Default Duration in AnimeJS, Implementing Multiple Animations with Different Durations in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_animation_properties_documentation.md",
+    "title": "AnimeJS Animation Properties Documentation",
+    "summary": "AnimeJS Animation Properties Documentation (Covers: Initializing Basic AnimeJS Animation in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_animation_tween_value_types.md",
+    "title": "AnimeJS Animation Tween Value Types",
+    "summary": "AnimeJS Animation Tween Value Types (Covers: Defining Function-Based Animation Values with AnimeJS, HTML Structure for AnimeJS Animation Targets)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_dom_element_animation_targets_documentation.md",
+    "title": "AnimeJS DOM Element Animation Targets Documentation",
+    "summary": "AnimeJS DOM Element Animation Targets Documentation (Covers: HTML Structure for AnimeJS Animation Demo, Animating DOM Elements with AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_utilities_documentation_-_cleaninlinestyles.md",
+    "title": "AnimeJS Utilities Documentation - cleanInlineStyles",
+    "summary": "AnimeJS Utilities Documentation - cleanInlineStyles (Covers: HTML Structure for Animation Demo, Implementing cleanInlineStyles with Animations)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_web_animation_api_-_iterations_vs_loop_parameter.md",
+    "title": "AnimeJS Web Animation API - Iterations vs Loop Parameter",
+    "summary": "AnimeJS Web Animation API - Iterations vs Loop Parameter (Covers: Comparing AnimeJS WAAPI adapter with native Web Animation API)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_css_variable_animation.md",
+    "title": "AnimeJS: CSS Variable Animation",
+    "summary": "AnimeJS: CSS Variable Animation (Covers: HTML Structure for CSS Variable Animation Demo, Animating CSS Variables with AnimeJS WAAPI method)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "api_differences_between_anime.js_and_web_animation_api.md",
+    "title": "API Differences between Anime.js and Web Animation API",
+    "summary": "API Differences between Anime.js and Web Animation API (Covers: Using Anime.js with Async/Await, Complete Anime.js Example with Promise Handling, Native WAAPI Animation with Promise.all...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "configuring_animation_speed_in_anime.js.md",
+    "title": "Configuring Animation Speed in Anime.js",
+    "summary": "Configuring Animation Speed in Anime.js (Covers: Adjusting Global Animation Speed with Anime.js in JavaScript, Animating Elements with Anime.js in JavaScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "configuring_scroll_animation_synchronization_in_anime.js.md",
+    "title": "Configuring Scroll Animation Synchronization in Anime.js",
+    "summary": "Configuring Scroll Animation Synchronization in Anime.js (Covers: Animating Scroll with Synchronization Mode in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "controlling_animation_engine_pause_behavior_in_anime.js.md",
+    "title": "Controlling Animation Engine Pause Behavior in Anime.js",
+    "summary": "Controlling Animation Engine Pause Behavior in Anime.js (Covers: Toggling Engine Pause Behavior, Setting Engine Pause Behavior, Managing Timer Updates in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "controlling_animation_frame_rate_with_anime.js_in_javascript.md",
+    "title": "Controlling Animation Frame Rate with Anime.js in JavaScript",
+    "summary": "Controlling Animation Frame Rate with Anime.js in JavaScript (Covers: Structuring HTML for Particle Animation and User Input)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_dynamic_animations_with_anime.js.md",
+    "title": "Creating Dynamic Animations with Anime.js",
+    "summary": "Creating Dynamic Animations with Anime.js (Covers: Adding Methods to Scope with Media Query Handling - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_scoped_animations_and_draggables_in_anime.js.md",
+    "title": "Creating Scoped Animations and Draggables in Anime.js",
+    "summary": "Creating Scoped Animations and Draggables in Anime.js (Covers: Creating Scoped Animations and Draggables in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_staggered_animations_with_anime.js.md",
+    "title": "Creating Staggered Animations with Anime.js",
+    "summary": "Creating Staggered Animations with Anime.js (Covers: Using Anime.js Stagger Functionality in JavaScript, HTML Structure for Staggered Animations with Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "css_transform_animation_with_animejs.md",
+    "title": "CSS Transform Animation with AnimeJS",
+    "summary": "CSS Transform Animation with AnimeJS (Covers: Animating CSS Transforms with AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "defining_scope_defaults_for_animations_in_anime.js.md",
+    "title": "Defining Scope Defaults for Animations in Anime.js",
+    "summary": "Defining Scope Defaults for Animations in Anime.js (Covers: Creating Animation Scopes with Anime.js in JavaScript, HTML Structure for Anime.js Animation Scopes)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "delay_parameter_in_anime.js_animation.md",
+    "title": "Delay Parameter in Anime.js Animation",
+    "summary": "Delay Parameter in Anime.js Animation (Covers: HTML Structure for Anime.js Animation Target, Setting Global Default Delay in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "easing_in_anime.js_web_animation_api.md",
+    "title": "Easing in Anime.js Web Animation API",
+    "summary": "Easing in Anime.js Web Animation API (Covers: Implementing Staggered Animation with Custom Easing, Using Custom Easing with Anime.js WAAPI)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "function-based_values_in_web_animation_api.md",
+    "title": "Function-based Values in Web Animation API",
+    "summary": "Function-based Values in Web Animation API (Covers: Animating Elements with Function-based Values using Anime.js, Advanced Anime.js Animation with Dynamic Duration)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "hardware_accelerated_animations_in_anime.js.md",
+    "title": "Hardware Accelerated Animations in Anime.js",
+    "summary": "Hardware Accelerated Animations in Anime.js (Covers: Comparing WAAPI and JavaScript Animations with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "improvements_to_web_animation_api_in_anime.js.md",
+    "title": "Improvements to Web Animation API in Anime.js",
+    "summary": "Improvements to Web Animation API in Anime.js (Covers: Animating with Individual Property Parameters using Anime.js WAAPI, Animating Multiple Properties with Default Units in Anime.js WAAPI, Animating with Anime.js WAAPI Module...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "individual_css_transforms_in_web_animation_api.md",
+    "title": "Individual CSS Transforms in Web Animation API",
+    "summary": "Individual CSS Transforms in Web Animation API (Covers: Animating Individual CSS Transforms with anime.js Web Animation API, HTML Structure for Animating Squares with anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "linking_animation_to_scrollobserver_with_animejs.md",
+    "title": "Linking Animation to ScrollObserver with animejs",
+    "summary": "Linking Animation to ScrollObserver with animejs (Covers: Linking an Animation with ScrollObserver in animejs)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "managing_scroll_animations_with_anime.js_-_javascript.md",
+    "title": "Managing Scroll Animations with Anime.js - JavaScript",
+    "summary": "Managing Scroll Animations with Anime.js - JavaScript (Covers: Animating Elements on Scroll using Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "synchronizing_animation_speed_with_anime.js.md",
+    "title": "Synchronizing Animation Speed with Anime.js",
+    "summary": "Synchronizing Animation Speed with Anime.js (Covers: Initializing Animation and Speed Control with Anime.js in JavaScript, Creating HTML Structure for Animation and Speed Control)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "synchronizing_scroll_with_anime.js_animations.md",
+    "title": "Synchronizing Scroll with Anime.js Animations",
+    "summary": "Synchronizing Scroll with Anime.js Animations (Covers: Animating Element with Scroll Synchronization using Anime.js in JavaScript, HTML Structure for Scroll Synchronized Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "syncing_waapi_animations_with_anime.js_timeline.md",
+    "title": "Syncing WAAPI Animations with Anime.js Timeline",
+    "summary": "Syncing WAAPI Animations with Anime.js Timeline (Covers: Synchronizing WAAPI Animations with Anime.js Timeline)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_modifiers_in_animejs_animation.md",
+    "title": "Using Modifiers in AnimeJS Animation",
+    "summary": "Using Modifiers in AnimeJS Animation (Covers: Setting Global Modifiers in AnimeJS, Applying Different Modifiers in AnimeJS Animations)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "web_animation_api_-_convert_ease_function.md",
+    "title": "Web Animation API - Convert Ease Function",
+    "summary": "Web Animation API - Convert Ease Function (Covers: Converting Spring Easing Function to WAAPI Compatible Linear Easing, Applying Multiple Spring Animations Using WAAPI)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "web_animation_api_differences_anime.js_vs._native_waapi.md",
+    "title": "Web Animation API Differences: Anime.js vs. Native WAAPI",
+    "summary": "Web Animation API Differences: Anime.js vs. Native WAAPI (Covers: Animating Elements with Native Web Animation API)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "web_animation_api_in_anime.js.md",
+    "title": "Web Animation API in Anime.js",
+    "summary": "Web Animation API in Anime.js (Covers: Importing and Using WAAPI with Anime.js, Creating a Staggered Animation with WAAPI)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "web_animation_api_in_anime.js_documentation.md",
+    "title": "Web Animation API in Anime.js Documentation",
+    "summary": "Web Animation API in Anime.js Documentation (Covers: Comparing WAAPI and JavaScript Animations in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "web_animation_api_multi-target_animation_documentation.md",
+    "title": "Web Animation API Multi-Target Animation Documentation",
+    "summary": "Web Animation API Multi-Target Animation Documentation (Covers: HTML Structure for Animation, WAAPI Native Implementation for Multiple Elements)",
+    "snippet_count": 2
+  }
+]

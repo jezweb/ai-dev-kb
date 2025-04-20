@@ -1,0 +1,662 @@
+[
+  {
+    "filename": "adding_timers_to_animejs_timeline.md",
+    "title": "Adding Timers to AnimeJS Timeline",
+    "summary": "Adding Timers to AnimeJS Timeline (Covers: Creating and Adding Timer to AnimeJS Timeline)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animatable_properties_in_anime.js.md",
+    "title": "Animatable Properties in Anime.js",
+    "summary": "Animatable Properties in Anime.js (Covers: Animating CSS Properties with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_and_controlling_engine_with_anime.js_in_javascript.md",
+    "title": "Animating and Controlling Engine with Anime.js in JavaScript",
+    "summary": "Animating and Controlling Engine with Anime.js in JavaScript (Covers: Adding Animations and Managing Engine State with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_elements_on_scroll_-_anime.js_-_javascript.md",
+    "title": "Animating Elements on Scroll - Anime.js - JavaScript",
+    "summary": "Animating Elements on Scroll - Anime.js - JavaScript (Covers: Animating Elements on Scroll with Enter Callback - Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_elements_on_scroll_with_anime.js.md",
+    "title": "Animating Elements on Scroll with Anime.js",
+    "summary": "Animating Elements on Scroll with Anime.js (Covers: Animating Elements with Scroll Observer in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_html_attributes_with_anime.js.md",
+    "title": "Animating HTML Attributes with Anime.js",
+    "summary": "Animating HTML Attributes with Anime.js (Covers: Importing Anime.js and Animating Input Value)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_javascript_object_properties_with_anime.js.md",
+    "title": "Animating JavaScript Object Properties with Anime.js",
+    "summary": "Animating JavaScript Object Properties with Anime.js (Covers: Displaying Animated Object State in HTML, Animating JavaScript Object Properties with Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_javascript_objects_with_anime.js.md",
+    "title": "Animating JavaScript Objects with Anime.js",
+    "summary": "Animating JavaScript Objects with Anime.js (Covers: Animating JavaScript Object Properties with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_scroll_updates_with_anime.js.md",
+    "title": "Animating Scroll Updates with Anime.js",
+    "summary": "Animating Scroll Updates with Anime.js (Covers: Scroll Layout Structure - HTML, Animating Scroll Updates with Anime.js - JavaScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_scroll-based_playback_with_anime.js.md",
+    "title": "Animating Scroll-based Playback with Anime.js",
+    "summary": "Animating Scroll-based Playback with Anime.js (Covers: Animating Elements with Scroll-based Autoplay - JavaScript/Anime.js, Scroll Container and Content Structure - HTML)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_staggered_grids_using_anime.js_in_javascript.md",
+    "title": "Animating Staggered Grids Using Anime.js in JavaScript",
+    "summary": "Animating Staggered Grids Using Anime.js in JavaScript (Covers: Animating a Staggered Grid in JavaScript using Anime.js, HTML Structure for Staggered Grid Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animating_svg_attributes_with_anime.js.md",
+    "title": "Animating SVG Attributes with Anime.js",
+    "summary": "Animating SVG Attributes with Anime.js (Covers: Animating SVG Polygon Points with Anime.js, Animating SVG Filter Effects with Anime.js, SVG Markup with Displacement Filter)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "animating_with_precision_in_anime.js.md",
+    "title": "Animating with Precision in Anime.js",
+    "summary": "Animating with Precision in Anime.js (Covers: Setting Animation Precision in Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animating_with_reverse_staggering_in_anime.js.md",
+    "title": "Animating with Reverse Staggering in Anime.js",
+    "summary": "Animating with Reverse Staggering in Anime.js (Covers: Animating with Reverse Stagger in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_animatable_properties_documentation.md",
+    "title": "Anime.js Animatable Properties Documentation",
+    "summary": "Anime.js Animatable Properties Documentation (Covers: Creating an Animatable Object in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_array_targets_documentation.md",
+    "title": "Anime.js Array Targets Documentation",
+    "summary": "Anime.js Array Targets Documentation (Covers: Animating Multiple Targets with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_documentation_percentage-based_keyframes.md",
+    "title": "Anime.js Documentation: Percentage-based Keyframes",
+    "summary": "Anime.js Documentation: Percentage-based Keyframes (Covers: Complete Anime.js Animation with Percentage-based Keyframes, Defining Percentage-based Keyframes in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_documentation_tween_parameters.md",
+    "title": "Anime.js Documentation: Tween Parameters",
+    "summary": "Anime.js Documentation: Tween Parameters (Covers: Configuring Global and Local Tween Parameters in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_draggable_axes_parameters_-_x_parameter.md",
+    "title": "Anime.js Draggable Axes Parameters - X Parameter",
+    "summary": "Anime.js Draggable Axes Parameters - X Parameter (Covers: Configuring X-axis Draggable Behavior in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_draggable_velocity_multiplier.md",
+    "title": "Anime.js Draggable Velocity Multiplier",
+    "summary": "Anime.js Draggable Velocity Multiplier (Covers: Initializing Draggable with Velocity Multiplier, HTML Structure for Draggable Elements)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_engine_parameters_documentation.md",
+    "title": "Anime.js Engine Parameters Documentation",
+    "summary": "Anime.js Engine Parameters Documentation (Covers: Importing Anime.js Engine)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_engine_properties_documentation.md",
+    "title": "Anime.js Engine Properties Documentation",
+    "summary": "Anime.js Engine Properties Documentation (Covers: Importing Engine Properties in Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_scope_properties_documentation.md",
+    "title": "Anime.js Scope Properties Documentation",
+    "summary": "Anime.js Scope Properties Documentation (Covers: Creating and Managing Scope in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_scope_revert_documentation.md",
+    "title": "Anime.js Scope Revert Documentation",
+    "summary": "Anime.js Scope Revert Documentation (Covers: Creating and Adding Scopes, Creating an Anime.js Scope Constructor, Adding Event Listeners to Buttons...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "anime.js_scope_with_media_queries.md",
+    "title": "Anime.js Scope with Media Queries",
+    "summary": "Anime.js Scope with Media Queries (Covers: Defining Anime.js Scope with Media Queries)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_scroll_documentation.md",
+    "title": "Anime.js Scroll Documentation",
+    "summary": "Anime.js Scroll Documentation (Covers: Anime.js Scroll Animation Example, Anime.js Timer with Scroll, Import onScroll from Anime.js...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "anime.js_scrollobserver_relative_position_values.md",
+    "title": "Anime.js ScrollObserver Relative Position Values",
+    "summary": "Anime.js ScrollObserver Relative Position Values (Covers: Anime.js Scroll Animation with Relative Positions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_scrollobserver_revert_method.md",
+    "title": "Anime.js ScrollObserver Revert Method",
+    "summary": "Anime.js ScrollObserver Revert Method (Covers: Initializing ScrollObserver with Scroll-Based Animation, HTML Structure for Scroll Container)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_scrollobserver_thresholds.md",
+    "title": "Anime.js ScrollObserver Thresholds",
+    "summary": "Anime.js ScrollObserver Thresholds (Covers: Anime.js ScrollObserver Thresholds Example, Anime.js ScrollObserver Object Syntax)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_scrollobserver_thresholds_and_positions.md",
+    "title": "Anime.js ScrollObserver Thresholds and Positions",
+    "summary": "Anime.js ScrollObserver Thresholds and Positions (Covers: Animating with ScrollObserver using Position Shorthands - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_scrollobserver_thresholds_with_numeric_values.md",
+    "title": "Anime.js ScrollObserver Thresholds with Numeric Values",
+    "summary": "Anime.js ScrollObserver Thresholds with Numeric Values (Covers: Anime.js Scroll Animation with Numeric Thresholds, HTML Structure for Scroll Container and Animated Element)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_stagger_documentation.md",
+    "title": "Anime.js Stagger Documentation",
+    "summary": "Anime.js Stagger Documentation (Covers: Anime.js Stagger Example, Configuring Anime.js Stagger Parameters)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_stagger_modifier_documentation.md",
+    "title": "Anime.js Stagger Modifier Documentation",
+    "summary": "Anime.js Stagger Modifier Documentation (Covers: Anime.js Stagger Modifier with boxShadow)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_svg_drawing_documentation.md",
+    "title": "anime.js SVG Drawing Documentation",
+    "summary": "anime.js SVG Drawing Documentation (Covers: Animating SVG drawing with anime.js, Defining draw property values, Creating drawable SVG element)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_timeline_alternate_parameter_documentation.md",
+    "title": "Anime.js Timeline Alternate Parameter Documentation",
+    "summary": "Anime.js Timeline Alternate Parameter Documentation (Covers: Creating a Timeline with Alternate and Loop Parameters in Anime.js, Setting Global Default for Alternate Parameter in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_timeline_documentation.md",
+    "title": "Anime.js Timeline Documentation",
+    "summary": "Anime.js Timeline Documentation (Covers: Manipulating Timeline in Anime.js, Creating a Timeline in Anime.js, HTML Structure for Anime.js Animation)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_timeline_onupdate_callback_documentation.md",
+    "title": "Anime.js Timeline onUpdate Callback Documentation",
+    "summary": "Anime.js Timeline onUpdate Callback Documentation (Covers: Implementing onUpdate in an Anime.js Timeline, HTML Structure for Anime.js Animation Demo, Setting Global onUpdate Default in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_timeline_play_method_documentation.md",
+    "title": "Anime.js Timeline Play Method Documentation",
+    "summary": "Anime.js Timeline Play Method Documentation (Covers: Implementing Timeline.play() Method in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timeline_playback_rate_documentation.md",
+    "title": "Anime.js Timeline Playback Rate Documentation",
+    "summary": "Anime.js Timeline Playback Rate Documentation (Covers: Setting Global Default Playback Rate in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timeline_resume_method_documentation.md",
+    "title": "Anime.js Timeline Resume Method Documentation",
+    "summary": "Anime.js Timeline Resume Method Documentation (Covers: HTML Structure for Anime.js Timeline Demo)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timeline_reverse_method_documentation.md",
+    "title": "Anime.js Timeline Reverse Method Documentation",
+    "summary": "Anime.js Timeline Reverse Method Documentation (Covers: Implementing Timeline Reverse Animation with Anime.js, HTML Structure for Anime.js Timeline Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_timeline_seek_method_documentation.md",
+    "title": "Anime.js Timeline Seek Method Documentation",
+    "summary": "Anime.js Timeline Seek Method Documentation (Covers: Timeline Seek Method Implementation in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timeline_stretch_method_documentation.md",
+    "title": "Anime.js Timeline Stretch Method Documentation",
+    "summary": "Anime.js Timeline Stretch Method Documentation (Covers: Timeline Stretch Method Implementation in JavaScript, HTML Structure for Timeline Animation Controls)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_timer_autoplay_documentation.md",
+    "title": "Anime.js Timer Autoplay Documentation",
+    "summary": "Anime.js Timer Autoplay Documentation (Covers: Setting Global Autoplay Default in Anime.js, Creating Manual Timer Control with Anime.js, HTML Structure for Timer Display and Controls)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "anime.js_timer_callbacks_documentation.md",
+    "title": "Anime.js Timer Callbacks Documentation",
+    "summary": "Anime.js Timer Callbacks Documentation (Covers: Creating a Timer with Callbacks in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timer_documentation_duration_property.md",
+    "title": "Anime.js Timer Documentation: Duration Property",
+    "summary": "Anime.js Timer Documentation: Duration Property (Covers: Creating an Anime.js Timer with Duration Setting, HTML Structure for Timer Display)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "anime.js_timer_properties_documentation.md",
+    "title": "Anime.js Timer Properties Documentation",
+    "summary": "Anime.js Timer Properties Documentation (Covers: Creating a Timer in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_tween_parameters_documentation.md",
+    "title": "Anime.js Tween Parameters Documentation",
+    "summary": "Anime.js Tween Parameters Documentation (Covers: Configuring Tween Parameters in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_vanilla_javascript_integration.md",
+    "title": "Anime.js Vanilla JavaScript Integration",
+    "summary": "Anime.js Vanilla JavaScript Integration (Covers: Creating a Bounce Animation Loop, Importing Anime.js Modules, Animating Logo Rotation on Click...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "animejs_animatable_documentation.md",
+    "title": "AnimeJS Animatable Documentation",
+    "summary": "AnimeJS Animatable Documentation (Covers: Initializing Animatable in AnimeJS, Using Animatable with Mouse Movement in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_animatable_properties_documentation.md",
+    "title": "Animejs Animatable Properties Documentation",
+    "summary": "Animejs Animatable Properties Documentation (Covers: Defining Animatable Properties in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_css_selector_targets_documentation.md",
+    "title": "AnimeJS CSS Selector Targets Documentation",
+    "summary": "AnimeJS CSS Selector Targets Documentation (Covers: Targeting Elements with AnimeJS CSS Selectors)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_draggable_axes_parameters_documentation.md",
+    "title": "Animejs Draggable Axes Parameters Documentation",
+    "summary": "Animejs Draggable Axes Parameters Documentation (Covers: Configuring Draggable Axis Mapping with Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_draggable_callbacks_documentation.md",
+    "title": "AnimeJS Draggable Callbacks Documentation",
+    "summary": "AnimeJS Draggable Callbacks Documentation (Covers: Implementing Draggable onSnap Callback in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_draggable_library_documentation.md",
+    "title": "AnimeJS Draggable Library Documentation",
+    "summary": "AnimeJS Draggable Library Documentation (Covers: Configuring Draggable Component with Axes Parameters in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_stagger_documentation.md",
+    "title": "AnimeJS Stagger Documentation",
+    "summary": "AnimeJS Stagger Documentation (Covers: Implementing Time Staggering with AnimeJS, Using stagger function with AnimeJS for multi-target animations, HTML Structure for Staggered Animation Demo)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "animejs_timeline_callbacks_documentation.md",
+    "title": "AnimeJS Timeline Callbacks Documentation",
+    "summary": "AnimeJS Timeline Callbacks Documentation (Covers: Defining Timeline Callbacks in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timeline_cancel_method_documentation.md",
+    "title": "AnimeJS Timeline Cancel Method Documentation",
+    "summary": "AnimeJS Timeline Cancel Method Documentation (Covers: Using Timeline cancel() Method with AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timeline_documentation.md",
+    "title": "AnimeJS Timeline Documentation",
+    "summary": "AnimeJS Timeline Documentation (Covers: Creating and Adding Animations to a Timeline in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timeline_revert_method_documentation.md",
+    "title": "AnimeJS Timeline Revert Method Documentation",
+    "summary": "AnimeJS Timeline Revert Method Documentation (Covers: Implementing Timeline Revert Animation with AnimeJS - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timeline_synchronization_documentation.md",
+    "title": "AnimeJS Timeline Synchronization Documentation",
+    "summary": "AnimeJS Timeline Synchronization Documentation (Covers: Basic Timeline Synchronization in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timer_callbacks_documentation.md",
+    "title": "AnimeJS Timer Callbacks Documentation",
+    "summary": "AnimeJS Timer Callbacks Documentation (Covers: Implementing Timer Loop Counter with AnimeJS, Setting Default Timer Loop Callback in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_timer_complete_method_documentation.md",
+    "title": "AnimeJS Timer Complete Method Documentation",
+    "summary": "AnimeJS Timer Complete Method Documentation (Covers: Implementing Timer Complete Method in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timer_framerate_documentation.md",
+    "title": "AnimeJS Timer Framerate Documentation",
+    "summary": "AnimeJS Timer Framerate Documentation (Covers: Setting Global Framerate Defaults in AnimeJS, Dynamic Timer Framerate Control Implementation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_timer_loop_documentation.md",
+    "title": "AnimeJS Timer Loop Documentation",
+    "summary": "AnimeJS Timer Loop Documentation (Covers: Creating Looped Timer with Counter Display, Configuring Global Timer Loop Defaults in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "animejs_timer_reverse_method_documentation.md",
+    "title": "AnimeJS Timer Reverse Method Documentation",
+    "summary": "AnimeJS Timer Reverse Method Documentation (Covers: Implementing Timer Reverse Functionality with AnimeJS in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_timer_stretch_documentation.md",
+    "title": "AnimeJS Timer Stretch Documentation",
+    "summary": "AnimeJS Timer Stretch Documentation (Covers: Interactive Timer Stretch Implementation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_tween_parameters_documentation.md",
+    "title": "Animejs Tween Parameters Documentation",
+    "summary": "Animejs Tween Parameters Documentation (Covers: Animating Elements with From Parameter in Animejs)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animejs_utils.get()_documentation.md",
+    "title": "AnimeJS Utils.get() Documentation",
+    "summary": "AnimeJS Utils.get() Documentation (Covers: Basic Utils.get() Function Signature)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "animjs_timer_documentation.md",
+    "title": "AnimJS Timer Documentation",
+    "summary": "AnimJS Timer Documentation (Covers: Importing and Creating an AnimJS Timer in JavaScript, Using AnimJS Timer with Callbacks and DOM Updates in JavaScript, HTML Structure for Displaying AnimJS Timer Values)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "creating_draggable_elements_in_anime.js.md",
+    "title": "Creating Draggable Elements in Anime.js",
+    "summary": "Creating Draggable Elements in Anime.js (Covers: Creating Draggable Elements with Custom Easing - JavaScript, Creating Draggable Element with Custom Trigger - JavaScript - Anime.js, Creating Draggable Elements with Scroll Speed - JavaScript)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "creating_scroll_observers_in_anime.js.md",
+    "title": "Creating Scroll Observers in Anime.js",
+    "summary": "Creating Scroll Observers in Anime.js (Covers: Creating a Non-Repeating Scroll Observer in Anime.js, Creating a Repeating Scroll Observer in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "disabling_draggable_in_anime.js.md",
+    "title": "Disabling Draggable in Anime.js",
+    "summary": "Disabling Draggable in Anime.js (Covers: Disabling a Draggable Element in Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "documenting_stagger_parameters_with_animejs.md",
+    "title": "Documenting Stagger Parameters with animejs",
+    "summary": "Documenting Stagger Parameters with animejs (Covers: Animating with animejs in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "draggable_axes_parameters_in_anime.js.md",
+    "title": "Draggable Axes Parameters in Anime.js",
+    "summary": "Draggable Axes Parameters in Anime.js (Covers: Creating a Draggable Element with Snap Parameters in Anime.js, HTML Structure for Draggable Element in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "draggable_axes_parameters_in_animejs.md",
+    "title": "Draggable Axes Parameters in AnimeJS",
+    "summary": "Draggable Axes Parameters in AnimeJS (Covers: Applying Axis Modifiers in AnimeJS Draggable)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "draggable_callbacks_documentation_-_anime.js.md",
+    "title": "Draggable Callbacks Documentation - Anime.js",
+    "summary": "Draggable Callbacks Documentation - Anime.js (Covers: Implementing Draggable Callbacks in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "draggable_callbacks_documentation_for_anime.js.md",
+    "title": "Draggable Callbacks Documentation for Anime.js",
+    "summary": "Draggable Callbacks Documentation for Anime.js (Covers: Implementing onRelease Callback with Anime.js Draggable, Implementing onDrag Callback with Anime.js, HTML Structure for Draggable Demo)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "draggable_callbacks_documentation_in_anime.js.md",
+    "title": "Draggable Callbacks Documentation in Anime.js",
+    "summary": "Draggable Callbacks Documentation in Anime.js (Covers: HTML Structure for Draggable Element, Implementing onSettle Callback with Anime.js Draggable)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "draggable_callbacks_in_anime.js.md",
+    "title": "Draggable Callbacks in Anime.js",
+    "summary": "Draggable Callbacks in Anime.js (Covers: Implementing onResize Callback for Draggable Elements in Anime.js, HTML Structure for Draggable Element and Resize Counter Display, Implementing onGrab Callback for Draggable Elements in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "draggable_callbacks_in_animejs.md",
+    "title": "Draggable Callbacks in AnimeJS",
+    "summary": "Draggable Callbacks in AnimeJS (Covers: Implementing onAfterResize Callback in AnimeJS Draggable)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "draggable_documentation_for_animejs.md",
+    "title": "Draggable Documentation for AnimeJS",
+    "summary": "Draggable Documentation for AnimeJS (Covers: Creating a Draggable Element with AnimeJS, Basic Usage of createDraggable with CSS Selector)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "draggable_properties_documentation_for_animejs.md",
+    "title": "Draggable Properties Documentation for AnimeJS",
+    "summary": "Draggable Properties Documentation for AnimeJS (Covers: Creating a Draggable Instance in JavaScript with AnimeJS, Accessing Draggable Properties in JavaScript with AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "enabling_draggable_elements_with_anime.js.md",
+    "title": "Enabling Draggable Elements with Anime.js",
+    "summary": "Enabling Draggable Elements with Anime.js (Covers: Enabling Draggable Elements with Anime.js in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "implementing_scroll_observers_with_anime.js.md",
+    "title": "Implementing Scroll Observers with Anime.js",
+    "summary": "Implementing Scroll Observers with Anime.js (Covers: Animating with ScrollObserver in Anime.js - JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "importing_anime.js_modules.md",
+    "title": "Importing Anime.js Modules",
+    "summary": "Importing Anime.js Modules (Covers: Importing Anime.js using ES Modules)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "manually_updating_anime.js_engine_-_javascript.md",
+    "title": "Manually Updating Anime.js Engine - JavaScript",
+    "summary": "Manually Updating Anime.js Engine - JavaScript (Covers: Creating Animated Cubes in Three.js with Anime.js - JavaScript, Configuring Anime.js Engine for Manual Updates - JavaScript, Rendering the Three.js Scene with Anime.js Integration - JavaScript)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "resume_timer_method_documentation_-_animejs.md",
+    "title": "Resume Timer Method Documentation - AnimeJS",
+    "summary": "Resume Timer Method Documentation - AnimeJS (Covers: Implementing Timer Controls with AnimeJS, Timer Control Interface HTML Structure)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "scrollobserver_properties_documentation.md",
+    "title": "ScrollObserver Properties Documentation",
+    "summary": "ScrollObserver Properties Documentation (Covers: Defining a ScrollObserver Instance)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "shuffling_arrays_with_anime.js_utils.md",
+    "title": "Shuffling Arrays with Anime.js Utils",
+    "summary": "Shuffling Arrays with Anime.js Utils (Covers: Implementing Shuffle Animation with Anime.js in JavaScript, Shuffling Array Elements with Anime.js Utils in JavaScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "svg_morphing_with_anime.js.md",
+    "title": "SVG Morphing with Anime.js",
+    "summary": "SVG Morphing with Anime.js (Covers: SVG Shape Morphing Animation Implementation in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "svg_motion_path_creation_with_anime.js.md",
+    "title": "SVG Motion Path Creation with Anime.js",
+    "summary": "SVG Motion Path Creation with Anime.js (Covers: Implementing Motion Path Animation with Anime.js, Creating Motion Path Parameters in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "synchronizing_timelines_in_anime.js.md",
+    "title": "Synchronizing Timelines in Anime.js",
+    "summary": "Synchronizing Timelines in Anime.js (Covers: Synchronizing Multiple Timelines in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_call_method_in_animejs.md",
+    "title": "Timeline Call Method in AnimeJS",
+    "summary": "Timeline Call Method in AnimeJS (Covers: HTML Structure for AnimeJS Timeline Example)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_callbacks_-_onloop_in_anime.js.md",
+    "title": "Timeline Callbacks - onLoop in Anime.js",
+    "summary": "Timeline Callbacks - onLoop in Anime.js (Covers: Implementing onLoop Callback in an Anime.js Timeline, Setting Global Default onLoop Callback in Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "timeline_callbacks_documentation_-_animejs.md",
+    "title": "Timeline Callbacks Documentation - AnimeJS",
+    "summary": "Timeline Callbacks Documentation - AnimeJS (Covers: Creating Timeline with onBegin Callback in AnimeJS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_callbacks_in_anime.js.md",
+    "title": "Timeline Callbacks in Anime.js",
+    "summary": "Timeline Callbacks in Anime.js (Covers: Creating Timeline with onComplete Callback in Anime.js, Implementing onBeforeUpdate Callback in Anime.js Timeline, Setting Default onRender Callback Globally in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "timeline_callbacks_in_animejs.md",
+    "title": "Timeline Callbacks in AnimeJS",
+    "summary": "Timeline Callbacks in AnimeJS (Covers: Implementing Timeline Animation with onPause Callback)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_label_method_documentation.md",
+    "title": "Timeline Label Method Documentation",
+    "summary": "Timeline Label Method Documentation (Covers: Adding Labels to AnimeJS Timeline in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_properties_in_anime.js.md",
+    "title": "Timeline Properties in Anime.js",
+    "summary": "Timeline Properties in Anime.js (Covers: Creating and Accessing Timeline Properties in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "timeline_remove_method_in_anime.js.md",
+    "title": "Timeline Remove Method in Anime.js",
+    "summary": "Timeline Remove Method in Anime.js (Covers: Removing Targets from Anime.js Timeline, Removing Animations, Timers, or Timelines from Anime.js Timeline, Implementing Timeline Remove Methods in Anime.js)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "timeline_time_position_in_anime.js.md",
+    "title": "Timeline Time Position in Anime.js",
+    "summary": "Timeline Time Position in Anime.js (Covers: Creating a Timeline with Various Position Types in Anime.js, HTML Structure for Anime.js Timeline Animation)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "timer_callbacks_documentation_-_animejs.md",
+    "title": "Timer Callbacks Documentation - AnimeJS",
+    "summary": "Timer Callbacks Documentation - AnimeJS (Covers: Configuring Global Timer Pause Callback in AnimeJS, Implementing Timer Pause Functionality with AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "timer_callbacks_documentation_for_animejs.md",
+    "title": "Timer Callbacks Documentation for AnimeJS",
+    "summary": "Timer Callbacks Documentation for AnimeJS (Covers: Creating Timers with onBegin Callback, Setting Default onBegin Callback in AnimeJS)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "timer_callbacks_in_anime.js.md",
+    "title": "Timer Callbacks in Anime.js",
+    "summary": "Timer Callbacks in Anime.js (Covers: Implementing Timer with Status Update in Anime.js, Using then() with createTimer in Anime.js, Modifying Default onComplete Callback in Anime.js...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "timer_callbacks_in_animejs.md",
+    "title": "Timer Callbacks in AnimeJS",
+    "summary": "Timer Callbacks in AnimeJS (Covers: Implementing onUpdate Callback with AnimeJS Timer)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "tween_parameters_documentation_for_animejs.md",
+    "title": "Tween Parameters Documentation for AnimeJS",
+    "summary": "Tween Parameters Documentation for AnimeJS (Covers: Configuring Animation Duration in AnimeJS, Setting Global Default Duration in AnimeJS, HTML Structure for Animation Target)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "using_anime.js_with_react.md",
+    "title": "Using Anime.js with React",
+    "summary": "Using Anime.js with React (Covers: React Component with Anime.js Integration)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_scope_in_anime.js_for_dom_queries.md",
+    "title": "Using Scope in Anime.js for DOM Queries",
+    "summary": "Using Scope in Anime.js for DOM Queries (Covers: Creating a Scoped Animation in Anime.js using JavaScript, HTML Setup for Scoped Animation with Anime.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "using_scrollobserver_callbacks_in_anime.js.md",
+    "title": "Using ScrollObserver Callbacks in Anime.js",
+    "summary": "Using ScrollObserver Callbacks in Anime.js (Covers: Animating Elements on Scroll Using Anime.js - JavaScript)",
+    "snippet_count": 1
+  }
+]

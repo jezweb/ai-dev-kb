@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "building_your_first_angular_app_tutorial.md",
+    "title": "Building Your First Angular App Tutorial",
+    "summary": "Building Your First Angular App Tutorial (Covers: Installing Angular CLI Globally)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_and_configuring_angular_home_component_tutorial.md",
+    "title": "Creating and Configuring Angular Home Component Tutorial",
+    "summary": "Creating and Configuring Angular Home Component Tutorial (Covers: Configuring HomeComponent Template)",
+    "snippet_count": 1
+  }
+]
