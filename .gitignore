@@ -6,7 +6,7 @@ yarn-error.log*
 package-lock.json # Optional: depends on project policy, but good to ignore if not managing deps formally yet
 
 # KB Generation Artifacts
-source_json/
+# source_json/
 
 # OS generated files
 .DS_Store

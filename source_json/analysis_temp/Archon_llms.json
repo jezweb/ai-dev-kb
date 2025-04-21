@@ -1,0 +1,692 @@
+[
+  {
+    "codeTitle": "Running Docker Setup Script (Python)",
+    "codeDescription": "Command to execute the Python script that builds and starts the Docker containers for Archon. This is the recommended installation method as it handles all setup automatically.",
+    "codeLanguage": "bash",
+    "codeTokens": 56,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V5 Multi-Agent Coding Workflow Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python run_docker.py"
+      }
+    ],
+    "relevance": 0.995
+  },
+  {
+    "codeTitle": "Docker Installation Commands - Bash",
+    "codeDescription": "Commands for cloning the repository and setting up Archon using Docker. This is the recommended installation method that automatically builds and runs both the MCP and main Archon containers.",
+    "codeLanguage": "bash",
+    "codeTokens": 89,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v4-streamlit-ui-overhaul/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V4 Documentation - Streamlit UI and Docker Integration",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon/iterations/v4-streamlit-ui-overhaul\npython run_docker.py"
+      }
+    ],
+    "relevance": 0.985
+  },
+  {
+    "codeTitle": "Cloning and Setting Up Archon with Docker",
+    "codeDescription": "Commands for cloning the Archon repository and setting it up using Docker. This approach is recommended for most users as it handles all dependencies automatically.",
+    "codeLanguage": "bash",
+    "codeTokens": 84,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v6-tool-library-integration/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V6 - Tool Library and MCP Integration",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon\n\n# This will build both containers and start Archon\npython run_docker.py"
+      }
+    ],
+    "relevance": 0.98
+  },
+  {
+    "codeTitle": "Running Archon with Docker",
+    "codeDescription": "Command to run the Docker setup script that builds and starts both Archon containers automatically.",
+    "codeLanguage": "bash",
+    "codeTokens": 52,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "# This will build both containers and start Archon\npython run_docker.py"
+      }
+    ],
+    "relevance": 0.975
+  },
+  {
+    "codeTitle": "Cloning Archon Repository (Bash)",
+    "codeDescription": "Commands to clone the Archon repository from GitHub and navigate to the project directory. This is the first step for both Docker and local Python installation methods.",
+    "codeLanguage": "bash",
+    "codeTokens": 68,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V5 Multi-Agent Coding Workflow Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon"
+      }
+    ],
+    "relevance": 0.97
+  },
+  {
+    "codeTitle": "Cloning the Archon Repository",
+    "codeDescription": "Commands to clone the Archon repository from GitHub and navigate to the project directory.",
+    "codeLanguage": "bash",
+    "codeTokens": 52,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon"
+      }
+    ],
+    "relevance": 0.965
+  },
+  {
+    "codeTitle": "Cloning and Setting Up the Archon V2 Repository",
+    "codeDescription": "Commands to clone the Archon repository and navigate to the v2-agentic-workflow directory. This is the first step in setting up the project locally.",
+    "codeLanguage": "bash",
+    "codeTokens": 84,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon/iterations/v2-agentic-workflow"
+      }
+    ],
+    "relevance": 0.96
+  },
+  {
+    "codeTitle": "Cloning the Archon Repository in Bash",
+    "codeDescription": "Commands for cloning the Archon repository from GitHub and navigating to the V1 single agent directory.",
+    "codeLanguage": "bash",
+    "codeTokens": 59,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon/iterations/v1-single-agent"
+      }
+    ],
+    "relevance": 0.955
+  },
+  {
+    "codeTitle": "Cloning and Installing Archon V3 Repository",
+    "codeDescription": "Commands for cloning the Archon V3 repository from GitHub and navigating to the appropriate directory for installation.",
+    "codeLanguage": "bash",
+    "codeTokens": 67,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_0",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon/iterations/v3-mcp-support"
+      }
+    ],
+    "relevance": 0.95
+  },
+  {
+    "codeTitle": "Setting Up Local Python Environment (Bash)",
+    "codeDescription": "Commands to create a virtual environment, activate it, and install the required dependencies for running Archon locally without Docker. This is an alternative to the Docker installation method.",
+    "codeLanguage": "bash",
+    "codeTokens": 86,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/README.md#2025-04-14_snippet_2",
+    "pageTitle": "Archon V5 Multi-Agent Coding Workflow Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt"
+      }
+    ],
+    "relevance": 0.945
+  },
+  {
+    "codeTitle": "Local Python Installation Commands - Bash",
+    "codeDescription": "Commands for installing Archon locally using Python virtual environment. This installation method is alternative to Docker and requires manual setup of dependencies and environment.",
+    "codeLanguage": "bash",
+    "codeTokens": 118,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v4-streamlit-ui-overhaul/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V4 Documentation - Streamlit UI and Docker Integration",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon/iterations/v4-streamlit-ui-overhaul\npython -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt\nstreamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.94
+  },
+  {
+    "codeTitle": "Local Python Installation for Archon",
+    "codeDescription": "Commands for setting up Archon using a local Python installation. This includes creating a virtual environment, installing dependencies, and starting the Streamlit UI.",
+    "codeLanguage": "bash",
+    "codeTokens": 109,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v6-tool-library-integration/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V6 - Tool Library and MCP Integration",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "git clone https://github.com/coleam00/archon.git\ncd archon\n\npython -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt\n\nstreamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.935
+  },
+  {
+    "codeTitle": "Setting Up Archon with Local Python Installation",
+    "codeDescription": "Commands to set up a virtual environment, install dependencies, and start the Streamlit UI for Archon without Docker.",
+    "codeLanguage": "bash",
+    "codeTokens": 74,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_2",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt"
+      }
+    ],
+    "relevance": 0.93
+  },
+  {
+    "codeTitle": "Setting Up Python Virtual Environment for Archon",
+    "codeDescription": "Commands for creating a Python virtual environment, activating it, and installing project dependencies.",
+    "codeLanguage": "bash",
+    "codeTokens": 65,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt"
+      }
+    ],
+    "relevance": 0.925
+  },
+  {
+    "codeTitle": "Installing Required Dependencies",
+    "codeDescription": "Commands to create a Python virtual environment and install all the required dependencies for the Archon V2 project using pip.",
+    "codeLanguage": "bash",
+    "codeTokens": 83,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt"
+      }
+    ],
+    "relevance": 0.92
+  },
+  {
+    "codeTitle": "Installing Dependencies with Virtual Environment",
+    "codeDescription": "Commands for setting up a Python virtual environment and installing the required dependencies from the requirements.txt file.",
+    "codeLanguage": "bash",
+    "codeTokens": 74,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_1",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python -m venv venv\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt"
+      }
+    ],
+    "relevance": 0.915
+  },
+  {
+    "codeTitle": "Running MCP Setup Script",
+    "codeDescription": "Command for running the MCP setup script which creates a virtual environment, installs dependencies, and generates an MCP configuration file for AI IDE integration.",
+    "codeLanguage": "bash",
+    "codeTokens": 55,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_2",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python setup_mcp.py"
+      }
+    ],
+    "relevance": 0.91
+  },
+  {
+    "codeTitle": "Environment Variables Configuration for Archon",
+    "codeDescription": "Example of the required environment variables that need to be set in the .env file, including API keys for OpenAI and Supabase.",
+    "codeLanguage": "env",
+    "codeTokens": 97,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_2",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "env",
+        "code": "OPENAI_API_KEY=your_openai_api_key\nSUPABASE_URL=your_supabase_url\nSUPABASE_SERVICE_KEY=your_supabase_service_key\nLLM_MODEL=gpt-4o-mini  # or your preferred OpenAI model"
+      }
+    ],
+    "relevance": 0.905
+  },
+  {
+    "codeTitle": "Environment Variables Configuration",
+    "codeDescription": "Example environment variables configuration that needs to be set in a .env file. Includes API keys, base URLs, and model preferences for LLMs.",
+    "codeLanguage": "env",
+    "codeTokens": 177,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_2",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "env",
+        "code": "BASE_URL=https://api.openai.com/v1 for OpenAI, https://api.openrouter.ai/v1 for OpenRouter, or your Ollama URL\nLLM_API_KEY=your_openai_or_openrouter_api_key\nOPENAI_API_KEY=your_openai_api_key\nSUPABASE_URL=your_supabase_url\nSUPABASE_SERVICE_KEY=your_supabase_service_key\nPRIMARY_MODEL=gpt-4o-mini  # or your preferred OpenAI model for main agent\nREASONER_MODEL=o3-mini     # or your preferred OpenAI model for reasoning"
+      }
+    ],
+    "relevance": 0.9
+  },
+  {
+    "codeTitle": "Configuring Environment Variables",
+    "codeDescription": "Example environment configuration file showing required API keys and preferences for connecting to OpenAI/OpenRouter, Supabase, and selecting LLM models.",
+    "codeLanguage": "env",
+    "codeTokens": 163,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_4",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "env",
+        "code": "BASE_URL=https://api.openai.com/v1 for OpenAI, https://api.openrouter.ai/v1 for OpenRouter, or your Ollama URL\nLLM_API_KEY=your_openai_or_openrouter_api_key\nOPENAI_API_KEY=your_openai_api_key\nSUPABASE_URL=your_supabase_url\nSUPABASE_SERVICE_KEY=your_supabase_service_key\nPRIMARY_MODEL=your_main_coding_llm\nREASONER_MODEL=your_reasoning_llm\nEMBEDDING_MODEL=your_embedding_model"
+      }
+    ],
+    "relevance": 0.895
+  },
+  {
+    "codeTitle": "Starting the Streamlit UI",
+    "codeDescription": "Command to launch the Streamlit user interface for Archon after setting up the local Python environment.",
+    "codeLanguage": "bash",
+    "codeTokens": 45,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_3",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "streamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.89
+  },
+  {
+    "codeTitle": "Starting Streamlit UI (Bash)",
+    "codeDescription": "Command to start the Streamlit user interface for Archon. This is used after setting up the local Python environment to launch the application.",
+    "codeLanguage": "bash",
+    "codeTokens": 55,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/README.md#2025-04-14_snippet_3",
+    "pageTitle": "Archon V5 Multi-Agent Coding Workflow Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "streamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.885
+  },
+  {
+    "codeTitle": "Running the Streamlit Web Interface",
+    "codeDescription": "Command to start the Streamlit web interface for interacting with the Archon agent, which will be available at http://localhost:8501.",
+    "codeLanguage": "bash",
+    "codeTokens": 52,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_4",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "streamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.88
+  },
+  {
+    "codeTitle": "Launching the Streamlit Web Interface",
+    "codeDescription": "Command to start the Streamlit web interface that provides an interactive way to query the documentation and create Pydantic AI agents.",
+    "codeLanguage": "bash",
+    "codeTokens": 60,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_5",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "streamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.875
+  },
+  {
+    "codeTitle": "Starting the Graph Service for MCP Integration",
+    "codeDescription": "Command for starting the FastAPI graph service that handles the agentic workflow and supports MCP integration with AI IDEs.",
+    "codeLanguage": "bash",
+    "codeTokens": 50,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_6",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python graph_service.py"
+      }
+    ],
+    "relevance": 0.87
+  },
+  {
+    "codeTitle": "Launching the Streamlit UI",
+    "codeDescription": "Command for starting the Streamlit web interface that provides an interactive way to interact with the Archon system.",
+    "codeLanguage": "bash",
+    "codeTokens": 51,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_7",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "streamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.865
+  },
+  {
+    "codeTitle": "Updating Archon with Docker",
+    "codeDescription": "Commands to update Archon to the latest version when using Docker, including pulling the latest changes and rebuilding containers.",
+    "codeLanguage": "bash",
+    "codeTokens": 77,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_4",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "# Pull the latest changes from the repository (from within the archon directory)\ngit pull\n\n# Rebuild and restart the containers with the latest changes\npython run_docker.py"
+      }
+    ],
+    "relevance": 0.86
+  },
+  {
+    "codeTitle": "Updating Archon with Local Python Installation",
+    "codeDescription": "Commands to update Archon to the latest version when using a local Python installation, including pulling changes and updating dependencies.",
+    "codeLanguage": "bash",
+    "codeTokens": 121,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_5",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "# Pull the latest changes from the repository (from within the archon directory)\ngit pull\n\n# Install any new dependencies\nsource venv/bin/activate  # On Windows: venv\\Scripts\\activate\npip install -r requirements.txt\n\n# Restart the Streamlit UI\n# (If you're already running it, stop with Ctrl+C first)\nstreamlit run streamlit_ui.py"
+      }
+    ],
+    "relevance": 0.855
+  },
+  {
+    "codeTitle": "Running the Documentation Crawler in Bash",
+    "codeDescription": "Command to execute the script that crawls Pydantic AI documentation, generates embeddings, and stores them in Supabase.",
+    "codeLanguage": "bash",
+    "codeTokens": 50,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_3",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python crawl_pydantic_ai_docs.py"
+      }
+    ],
+    "relevance": 0.85
+  },
+  {
+    "codeTitle": "Crawling Pydantic AI Documentation",
+    "codeDescription": "Command to run the documentation crawler script which fetches, processes, and stores Pydantic AI documentation in a vector database.",
+    "codeLanguage": "bash",
+    "codeTokens": 61,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_3",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python crawl_pydantic_ai_docs.py"
+      }
+    ],
+    "relevance": 0.845
+  },
+  {
+    "codeTitle": "Crawling and Storing Documentation",
+    "codeDescription": "Command for running the documentation crawler that fetches URLs from the sitemap, crawls each page, splits content into chunks, generates embeddings, and stores them in the Supabase database.",
+    "codeLanguage": "bash",
+    "codeTokens": 72,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_5",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "python archon/crawl_pydantic_ai_docs.py"
+      }
+    ],
+    "relevance": 0.84
+  },
+  {
+    "codeTitle": "Activating Virtual Environment for Crawler and Graph Service",
+    "codeDescription": "Command for activating the virtual environment to run the documentation crawler and graph service after MCP setup.",
+    "codeLanguage": "bash",
+    "codeTokens": 58,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_3",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "bash",
+        "code": "source venv/bin/activate  # On Windows: venv\\Scripts\\activate"
+      }
+    ],
+    "relevance": 0.835
+  },
+  {
+    "codeTitle": "Creating Supabase Database Schema for Site Pages in SQL",
+    "codeDescription": "SQL schema definition for the Supabase database used by Archon. This creates a site_pages table with columns for content storage and vector embeddings for AI retrieval operations.",
+    "codeLanguage": "sql",
+    "codeTokens": 120,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/README.md#2025-04-14_snippet_6",
+    "pageTitle": "Archon AI Agent Builder Project Overview",
+    "codeList": [
+      {
+        "language": "sql",
+        "code": "CREATE TABLE site_pages (\n    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),\n    url TEXT,\n    chunk_number INTEGER,\n    title TEXT,\n    summary TEXT,\n    content TEXT,\n    metadata JSONB,\n    embedding VECTOR(1536) -- Adjust dimensions as necessary (i.e. 768 for nomic-embed-text)\n);"
+      }
+    ],
+    "relevance": 0.83
+  },
+  {
+    "codeTitle": "Supabase Database Schema for Site Pages",
+    "codeDescription": "SQL schema for the site_pages table in Supabase that stores documentation chunks, their metadata, and vector embeddings for similarity search.",
+    "codeLanguage": "sql",
+    "codeTokens": 93,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_5",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "sql",
+        "code": "CREATE TABLE site_pages (\n    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),\n    url TEXT,\n    chunk_number INTEGER,\n    title TEXT,\n    summary TEXT,\n    content TEXT,\n    metadata JSONB,\n    embedding VECTOR(1536)\n);"
+      }
+    ],
+    "relevance": 0.825
+  },
+  {
+    "codeTitle": "Supabase Database Schema Definition",
+    "codeDescription": "SQL commands defining the site_pages table schema used to store documentation chunks with their embeddings and metadata in Supabase.",
+    "codeLanguage": "sql",
+    "codeTokens": 101,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_6",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "sql",
+        "code": "CREATE TABLE site_pages (\n    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),\n    url TEXT,\n    chunk_number INTEGER,\n    title TEXT,\n    summary TEXT,\n    content TEXT,\n    metadata JSONB,\n    embedding VECTOR(1536)\n);"
+      }
+    ],
+    "relevance": 0.82
+  },
+  {
+    "codeTitle": "Supabase Database Schema for Document Storage",
+    "codeDescription": "SQL schema for the site_pages table that stores document chunks, embeddings, and metadata. Used to create the table structure in Supabase for vector similarity search.",
+    "codeLanguage": "sql",
+    "codeTokens": 123,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/README.md#2025-04-14_snippet_8",
+    "pageTitle": "Archon V3 - AI Agent Generator with MCP Support",
+    "codeList": [
+      {
+        "language": "sql",
+        "code": "CREATE TABLE site_pages (\n    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),\n    url TEXT,\n    chunk_number INTEGER,\n    title TEXT,\n    summary TEXT,\n    content TEXT,\n    metadata JSONB,\n    embedding VECTOR(1536) -- Adjust dimensions as necessary (i.e. 768 for nomic-embed-text)\n);"
+      }
+    ],
+    "relevance": 0.815
+  },
+  {
+    "codeTitle": "Configuring Document Chunking Size",
+    "codeDescription": "Python configuration for setting the character size of documentation chunks. Located in the crawl_pydantic_ai_docs.py file.",
+    "codeLanguage": "python",
+    "codeTokens": 62,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/README.md#2025-04-14_snippet_4",
+    "pageTitle": "Archon V2 Documentation - Agentic Workflow for Building Pydantic AI Agents",
+    "codeList": [
+      {
+        "language": "python",
+        "code": "chunk_size = 5000  # Characters per chunk"
+      }
+    ],
+    "relevance": 0.81
+  },
+  {
+    "codeTitle": "Configuring Chunking Parameters in Python",
+    "codeDescription": "Python code snippet showing how to configure the chunking parameters in the crawl_pydantic_ai_docs.py script, which determines how documentation is split into chunks.",
+    "codeLanguage": "python",
+    "codeTokens": 59,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v1-single-agent/README.md#2025-04-14_snippet_6",
+    "pageTitle": "Archon V1 Documentation",
+    "codeList": [
+      {
+        "language": "python",
+        "code": "chunk_size = 5000  # Characters per chunk"
+      }
+    ],
+    "relevance": 0.805
+  },
+  {
+    "codeTitle": "Python Requirements Specification",
+    "codeDescription": "A requirements.txt file listing all Python package dependencies with pinned versions. This includes packages for web services (FastAPI, uvicorn), AI/ML tools (openai, anthropic, langchain), data processing (pandas, numpy), and various utilities.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 1778,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Dependencies List",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "aiofiles==24.1.0\naiohappyeyeballs==2.4.4\naiohttp==3.11.11\naiosignal==1.3.2\naiosqlite==0.20.0\naltair==5.5.0\nannotated-types==0.7.0\nanthropic==0.42.0\nanyio==4.8.0\nattrs==24.3.0\nbeautifulsoup4==4.12.3\nblinker==1.9.0\ncachetools==5.5.0\ncertifi==2024.12.14\ncffi==1.17.1\ncharset-normalizer==3.4.1\nclick==8.1.8\ncohere==5.13.12\ncolorama==0.4.6\nCrawl4AI==0.4.247\ncryptography==43.0.3\nDeprecated==1.2.15\ndeprecation==2.1.0\ndistro==1.9.0\ndnspython==2.7.0\nemail_validator==2.2.0\neval_type_backport==0.2.2\nexecuting==2.1.0\nfake-http-header==0.3.5\nfastapi==0.115.8\nfastapi-cli==0.0.7\nfastavro==1.10.0\nfilelock==3.16.1\nfrozenlist==1.5.0\nfsspec==2024.12.0\ngitdb==4.0.12\nGitPython==3.1.44\ngoogle-auth==2.37.0\ngoogleapis-common-protos==1.66.0\ngotrue==2.11.1\ngreenlet==3.1.1\ngriffe==1.5.4\ngroq==0.15.0\nh11==0.14.0\nh2==4.1.0\nhpack==4.0.0\nhtml2text==2024.2.26\nhttpcore==1.0.7\nhttptools==0.6.4\nhttpx==0.27.2\nhttpx-sse==0.4.0\nhuggingface-hub==0.27.1\nhyperframe==6.0.1\nidna==3.10\nimportlib_metadata==8.5.0\niniconfig==2.0.0\nitsdangerous==2.2.0\nJinja2==3.1.5\njiter==0.8.2\njoblib==1.4.2\njsonpatch==1.33\njsonpath-python==1.0.6\njsonpointer==3.0.0\njsonschema==4.23.0\njsonschema-specifications==2024.10.1\njsonschema_rs==0.25.1\nlangchain-core==0.3.33\nlanggraph==0.2.69\nlanggraph-checkpoint==2.0.10\nlanggraph-cli==0.1.71\nlanggraph-sdk==0.1.51\nlangsmith==0.3.6\nlitellm==1.57.8\nlogfire==3.1.0\nlogfire-api==3.1.0\nlxml==5.3.0\nmarkdown-it-py==3.0.0\nMarkupSafe==3.0.2\nmcp==1.2.1\nmdurl==0.1.2\nmistralai==1.2.6\nmockito==1.5.3\nmsgpack==1.1.0\nmultidict==6.1.0\nmypy-extensions==1.0.0\nnarwhals==1.21.1\nnltk==3.9.1\nnumpy==2.2.1\nopenai==1.59.6\nopentelemetry-api==1.29.0\nopentelemetry-exporter-otlp-proto-common==1.29.0\nopentelemetry-exporter-otlp-proto-http==1.29.0\nopentelemetry-instrumentation==0.50b0\nopentelemetry-proto==1.29.0\nopentelemetry-sdk==1.29.0\nopentelemetry-semantic-conventions==0.50b0\norjson==3.10.15\npackaging==24.2\npandas==2.2.3\npillow==10.4.0\nplaywright==1.49.1\npluggy==1.5.0\npostgrest==0.19.1\npropcache==0.2.1\nprotobuf==5.29.3\npsutil==6.1.1\npyarrow==18.1.0\npyasn1==0.6.1\npyasn1_modules==0.4.1\npycparser==2.22\npydantic==2.10.5\npydantic-ai==0.0.22\npydantic-ai-slim==0.0.22\npydantic-extra-types==2.10.2\npydantic-graph==0.0.22\npydantic-settings==2.7.1\npydantic_core==2.27.2\npydeck==0.9.1\npyee==12.0.0\nPygments==2.19.1\nPyJWT==2.10.1\npyOpenSSL==24.3.0\npytest==8.3.4\npytest-mockito==0.0.4\npython-dateutil==2.9.0.post0\npython-dotenv==1.0.1\npython-multipart==0.0.20\npytz==2024.2\nPyYAML==6.0.2\nrank-bm25==0.2.2\nrealtime==2.1.0\nreferencing==0.35.1\nregex==2024.11.6\nrequests==2.32.3\nrequests-toolbelt==1.0.0\nrich==13.9.4\nrich-toolkit==0.13.2\nrpds-py==0.22.3\nrsa==4.9\nshellingham==1.5.4\nsix==1.17.0\nsmmap==5.0.2\nsniffio==1.3.1\nsnowballstemmer==2.2.0\nsoupsieve==2.6\nsse-starlette==2.1.3\nstarlette==0.45.3\nstorage3==0.11.0\nstreamlit==1.41.1\nStrEnum==0.4.15\nstructlog==24.4.0\nsupabase==2.11.0\nsupafunc==0.9.0\ntenacity==9.0.0\ntf-playwright-stealth==1.1.0\ntiktoken==0.8.0\ntokenizers==0.21.0\ntoml==0.10.2\ntornado==6.4.2\ntqdm==4.67.1\ntyper==0.15.1\ntypes-requests==2.32.0.20241016\ntyping-inspect==0.9.0\ntyping_extensions==4.12.2\ntzdata==2024.2\nujson==5.10.0\nurllib3==2.3.0\nuvicorn==0.34.0\nwatchdog==6.0.0\nwatchfiles==1.0.4\nwebsockets==13.1\nwrapt==1.17.1\nxxhash==3.5.0\nyarl==1.18.3\nzipp==3.21.0\nzstandard==0.23.0"
+      }
+    ],
+    "relevance": 0.8
+  },
+  {
+    "codeTitle": "Requirements.txt Dependencies List",
+    "codeDescription": "Complete list of Python package dependencies with pinned version numbers. Includes packages for web frameworks (FastAPI), AI/ML libraries (langchain, openai), data processing tools (pandas, numpy), and various utility packages.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 1772,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v4-streamlit-ui-overhaul/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Package Dependencies List",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "aiofiles==24.1.0\naiohappyeyeballs==2.4.4\naiohttp==3.11.11\naiosignal==1.3.2\naiosqlite==0.20.0\naltair==5.5.0\nannotated-types==0.7.0\nanthropic==0.42.0\nanyio==4.8.0\nattrs==24.3.0\nbeautifulsoup4==4.12.3\nblinker==1.9.0\ncachetools==5.5.0\ncertifi==2024.12.14\ncffi==1.17.1\ncharset-normalizer==3.4.1\nclick==8.1.8\ncohere==5.13.12\ncolorama==0.4.6\nCrawl4AI==0.4.247\ncryptography==43.0.3\nDeprecated==1.2.15\ndeprecation==2.1.0\ndistro==1.9.0\ndnspython==2.7.0\nemail_validator==2.2.0\neval_type_backport==0.2.2\nexecuting==2.1.0\nfake-http-header==0.3.5\nfastapi==0.115.8\nfastapi-cli==0.0.7\nfastavro==1.10.0\nfilelock==3.16.1\nfrozenlist==1.5.0\nfsspec==2024.12.0\ngitdb==4.0.12\nGitPython==3.1.44\ngoogle-auth==2.37.0\ngoogleapis-common-protos==1.66.0\ngotrue==2.11.1\ngreenlet==3.1.1\ngriffe==1.5.4\ngroq==0.15.0\nh11==0.14.0\nh2==4.1.0\nhpack==4.0.0\nhtml2text==2024.2.26\nhttpcore==1.0.7\nhttptools==0.6.4\nhttpx==0.27.2\nhttpx-sse==0.4.0\nhuggingface-hub==0.27.1\nhyperframe==6.0.1\nidna==3.10\nimportlib_metadata==8.5.0\niniconfig==2.0.0\nitsdangerous==2.2.0\nJinja2==3.1.5\njiter==0.8.2\njoblib==1.4.2\njsonpatch==1.33\njsonpath-python==1.0.6\njsonpointer==3.0.0\njsonschema==4.23.0\njsonschema-specifications==2024.10.1\njsonschema_rs==0.25.1\nlangchain-core==0.3.33\nlanggraph==0.2.69\nlanggraph-checkpoint==2.0.10\nlanggraph-cli==0.1.71\nlanggraph-sdk==0.1.51\nlangsmith==0.3.6\nlitellm==1.57.8\nlogfire==3.1.0\nlogfire-api==3.1.0\nlxml==5.3.0\nmarkdown-it-py==3.0.0\nMarkupSafe==3.0.2\nmcp==1.2.1\nmdurl==0.1.2\nmistralai==1.2.6\nmockito==1.5.3\nmsgpack==1.1.0\nmultidict==6.1.0\nmypy-extensions==1.0.0\nnarwhals==1.21.1\nnltk==3.9.1\nnumpy==2.2.1\nopenai==1.59.6\nopentelemetry-api==1.29.0\nopentelemetry-exporter-otlp-proto-common==1.29.0\nopentelemetry-exporter-otlp-proto-http==1.29.0\nopentelemetry-instrumentation==0.50b0\nopentelemetry-proto==1.29.0\nopentelemetry-sdk==1.29.0\nopentelemetry-semantic-conventions==0.50b0\norjson==3.10.15\npackaging==24.2\npandas==2.2.3\npillow==10.4.0\nplaywright==1.49.1\npluggy==1.5.0\npostgrest==0.19.1\npropcache==0.2.1\nprotobuf==5.29.3\npsutil==6.1.1\npyarrow==18.1.0\npyasn1==0.6.1\npyasn1_modules==0.4.1\npycparser==2.22\npydantic==2.10.5\npydantic-ai==0.0.22\npydantic-ai-slim==0.0.22\npydantic-extra-types==2.10.2\npydantic-graph==0.0.22\npydantic-settings==2.7.1\npydantic_core==2.27.2\npydeck==0.9.1\npyee==12.0.0\nPygments==2.19.1\nPyJWT==2.10.1\npyOpenSSL==24.3.0\npytest==8.3.4\npytest-mockito==0.0.4\npython-dateutil==2.9.0.post0\npython-dotenv==1.0.1\npython-multipart==0.0.20\npytz==2024.2\nPyYAML==6.0.2\nrank-bm25==0.2.2\nrealtime==2.1.0\nreferencing==0.35.1\nregex==2024.11.6\nrequests==2.32.3\nrequests-toolbelt==1.0.0\nrich==13.9.4\nrich-toolkit==0.13.2\nrpds-py==0.22.3\nrsa==4.9\nshellingham==1.5.4\nsix==1.17.0\nsmmap==5.0.2\nsniffio==1.3.1\nsnowballstemmer==2.2.0\nsoupsieve==2.6\nsse-starlette==2.1.3\nstarlette==0.45.3\nstorage3==0.11.0\nstreamlit==1.41.1\nStrEnum==0.4.15\nstructlog==24.4.0\nsupabase==2.11.0\nsupafunc==0.9.0\ntenacity==9.0.0\ntf-playwright-stealth==1.1.0\ntiktoken==0.8.0\ntokenizers==0.21.0\ntoml==0.10.2\ntornado==6.4.2\ntqdm==4.67.1\ntyper==0.15.1\ntypes-requests==2.32.0.20241016\ntyping-inspect==0.9.0\ntyping_extensions==4.12.2\ntzdata==2024.2\nujson==5.10.0\nurllib3==2.3.0\nuvicorn==0.34.0\nwatchdog==6.0.0\nwatchfiles==1.0.4\nwebsockets==13.1\nwrapt==1.17.1\nxxhash==3.5.0\nyarl==1.18.3\nzipp==3.21.0\nzstandard==0.23.0"
+      }
+    ],
+    "relevance": 0.795
+  },
+  {
+    "codeTitle": "Listing Python Package Dependencies",
+    "codeDescription": "This snippet provides a comprehensive list of Python packages and their specific versions required for a project. It includes various libraries for web development, data processing, machine learning, and other utilities.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 1762,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v3-mcp-support/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Dependencies List",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "aiofiles==24.1.0\naiohappyeyeballs==2.4.4\naiohttp==3.11.11\naiosignal==1.3.2\naiosqlite==0.20.0\naltair==5.5.0\nannotated-types==0.7.0\nanthropic==0.42.0\nanyio==4.8.0\nattrs==24.3.0\nbeautifulsoup4==4.12.3\nblinker==1.9.0\ncachetools==5.5.0\ncertifi==2024.12.14\ncffi==1.17.1\ncharset-normalizer==3.4.1\nclick==8.1.8\ncohere==5.13.12\ncolorama==0.4.6\nCrawl4AI==0.4.247\ncryptography==43.0.3\nDeprecated==1.2.15\ndeprecation==2.1.0\ndistro==1.9.0\ndnspython==2.7.0\nemail_validator==2.2.0\neval_type_backport==0.2.2\nexecuting==2.1.0\nfake-http-header==0.3.5\nfastapi==0.115.8\nfastapi-cli==0.0.7\nfastavro==1.10.0\nfilelock==3.16.1\nfrozenlist==1.5.0\nfsspec==2024.12.0\ngitdb==4.0.12\nGitPython==3.1.44\ngoogle-auth==2.37.0\ngoogleapis-common-protos==1.66.0\ngotrue==2.11.1\ngreenlet==3.1.1\ngriffe==1.5.4\ngroq==0.15.0\nh11==0.14.0\nh2==4.1.0\nhpack==4.0.0\nhttpcore==1.0.7\nhttptools==0.6.4\nhttpx==0.27.2\nhttpx-sse==0.4.0\nhuggingface-hub==0.27.1\nhyperframe==6.0.1\nidna==3.10\nimportlib_metadata==8.5.0\niniconfig==2.0.0\nitsdangerous==2.2.0\nJinja2==3.1.5\njiter==0.8.2\njoblib==1.4.2\njsonpatch==1.33\njsonpath-python==1.0.6\njsonpointer==3.0.0\njsonschema==4.23.0\njsonschema-specifications==2024.10.1\njsonschema_rs==0.25.1\nlangchain-core==0.3.33\nlanggraph==0.2.69\nlanggraph-api==0.0.22\nlanggraph-checkpoint==2.0.10\nlanggraph-cli==0.1.71\nlanggraph-sdk==0.1.51\nlangsmith==0.3.6\nlitellm==1.57.8\nlogfire==3.1.0\nlogfire-api==3.1.0\nlxml==5.3.0\nmarkdown-it-py==3.0.0\nMarkupSafe==3.0.2\nmcp==1.2.1\nmdurl==0.1.2\nmistralai==1.2.6\nmockito==1.5.3\nmsgpack==1.1.0\nmultidict==6.1.0\nmypy-extensions==1.0.0\nnarwhals==1.21.1\nnltk==3.9.1\nnumpy==2.2.1\nopenai==1.59.6\nopentelemetry-api==1.29.0\nopentelemetry-exporter-otlp-proto-common==1.29.0\nopentelemetry-exporter-otlp-proto-http==1.29.0\nopentelemetry-instrumentation==0.50b0\nopentelemetry-proto==1.29.0\nopentelemetry-sdk==1.29.0\nopentelemetry-semantic-conventions==0.50b0\norjson==3.10.15\npackaging==24.2\npandas==2.2.3\npillow==10.4.0\nplaywright==1.49.1\nplugggy==1.5.0\npostgrest==0.19.1\npropcache==0.2.1\nprotobuf==5.29.3\npsutil==6.1.1\npyarrow==18.1.0\npyasn1==0.6.1\npyasn1_modules==0.4.1\npycparser==2.22\npydantic==2.10.5\npydantic-ai==0.0.22\npydantic-ai-slim==0.0.22\npydantic-extra-types==2.10.2\npydantic-graph==0.0.22\npydantic-settings==2.7.1\npydantic_core==2.27.2\npydeck==0.9.1\npyee==12.0.0\nPygments==2.19.1\nPyJWT==2.10.1\npyOpenSSL==24.3.0\npytest==8.3.4\npytest-mockito==0.0.4\npython-dateutil==2.9.0.post0\npython-dotenv==1.0.1\npython-multipart==0.0.20\npytz==2024.2\nPyYAML==6.0.2\nrank-bm25==0.2.2\nrealtime==2.1.0\nreferencing==0.35.1\nregex==2024.11.6\nrequests==2.32.3\nrequests-toolbelt==1.0.0\nrich==13.9.4\nrich-toolkit==0.13.2\nrpds-py==0.22.3\nrsa==4.9\nshellingham==1.5.4\nsix==1.17.0\nsmmap==5.0.2\nsniffio==1.3.1\nsnowballstemmer==2.2.0\nsoupsieve==2.6\nsse-starlette==2.1.3\nstarlette==0.45.3\nstorage3==0.11.0\nstreamlit==1.41.1\nStrEnum==0.4.15\nstructlog==24.4.0\nsupabase==2.11.0\nsupafunc==0.9.0\ntenacity==9.0.0\ntf-playwright-stealth==1.1.0\ntiktoken==0.8.0\ntokenizers==0.21.0\ntoml==0.10.2\ntornado==6.4.2\ntqdm==4.67.1\ntyper==0.15.1\ntypes-requests==2.32.0.20241016\ntyping-inspect==0.9.0\ntyping_extensions==4.12.2\ntzdata==2024.2\nujson==5.10.0\nurllib3==2.3.0\nuvicorn==0.34.0\nwatchdog==6.0.0\nwatchfiles==1.0.4\nwebsockets==13.1\nwrapt==1.17.1\nxxhash==3.5.0\nyarl==1.18.3\nzipp==3.21.0\nzstandard==0.23.0"
+      }
+    ],
+    "relevance": 0.79
+  },
+  {
+    "codeTitle": "Python Package Dependencies List",
+    "codeDescription": "Requirements file listing Python packages and their version numbers in the format package==version. Includes common libraries like langchain, openai, pandas, and various utility packages.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 1620,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v2-agentic-workflow/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Package Dependencies List",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "aiofiles==24.1.0\naihappyeyeballs==2.4.4\naiohttp==3.11.11\naiosignal==1.3.2\naiosqlite==0.20.0\naltair==5.5.0\nannotated-types==0.7.0\nanthropic==0.42.0\nanyio==4.8.0\nattrs==24.3.0\nbeautifulsoup4==4.12.3\nblinker==1.9.0\ncachetools==5.5.0\ncertifi==2024.12.14\ncffi==1.17.1\ncharset-normalizer==3.4.1\nclick==8.1.8\ncohere==5.13.12\ncolorama==0.4.6\nCrawl4AI==0.4.247\ncryptography==43.0.3\nDeprecated==1.2.15\ndeprecation==2.1.0\ndistro==1.9.0\neval_type_backport==0.2.2\nexecuting==2.1.0\nfake-http-header==0.3.5\nfastavro==1.10.0\nfilelock==3.16.1\nfrozenlist==1.5.0\nfsspec==2024.12.0\ngitdb==4.0.12\nGitPython==3.1.44\ngoogle-auth==2.37.0\ngoogleapis-common-protos==1.66.0\ngotrue==2.11.1\ngreenlet==3.1.1\ngriffe==1.5.4\ngroq==0.15.0\nh11==0.14.0\nh2==4.1.0\nhpack==4.0.0\nhttpcore==1.0.7\nhttpx==0.27.2\nhttpx-sse==0.4.0\nhuggingface-hub==0.27.1\nhyperframe==6.0.1\nidna==3.10\nimportlib_metadata==8.5.0\niniconfig==2.0.0\nJinja2==3.1.5\njiter==0.8.2\njoblib==1.4.2\njsonpatch==1.33\njsonpath-python==1.0.6\njsonpointer==3.0.0\njsonschema==4.23.0\njsonschema-specifications==2024.10.1\njsonschema_rs==0.25.1\nlangchain-core==0.3.33\nlanggraph==0.2.69\nlanggraph-api==0.0.22\nlanggraph-checkpoint==2.0.10\nlanggraph-cli==0.1.71\nlanggraph-sdk==0.1.51\nlangsmith==0.3.6\nlitellm==1.57.8\nlogfire==3.1.0\nlogfire-api==3.1.0\nlxml==5.3.0\nmarkdown-it-py==3.0.0\nMarkupSafe==3.0.2\nmdurl==0.1.2\nmistralair==1.2.6\nmockito==1.5.3\nmsgpack==1.1.0\nmultidict==6.1.0\nmypy-extensions==1.0.0\nnarwhals==1.21.1\nnltk==3.9.1\nnumpy==2.2.1\nopenai==1.59.6\nopentelemetry-api==1.29.0\nopentelemetry-exporter-otlp-proto-common==1.29.0\nopentelemetry-exporter-otlp-proto-http==1.29.0\nopentelemetry-instrumentation==0.50b0\nopentelemetry-proto==1.29.0\nopentelemetry-sdk==1.29.0\nopentelemetry-semantic-conventions==0.50b0\norjson==3.10.15\npackaging==24.2\npandas==2.2.3\npillow==10.4.0\nplaywright==1.49.1\nplugy==1.5.0\npostgrest==0.19.1\npropcache==0.2.1\nprotobuf==5.29.3\npsutil==6.1.1\npyarrow==18.1.0\npyasn1==0.6.1\npyasn1_modules==0.4.1\npycparser==2.22\npydantic==2.10.5\npydantic-ai==0.0.22\npydantic-ai-slim==0.0.22\npydantic-graph==0.0.22\npydantic_core==2.27.2\npydeck==0.9.1\npyee==12.0.0\nPygments==2.19.1\nPyJWT==2.10.1\npyOpenSSL==24.3.0\npytest==8.3.4\npytest-mockito==0.0.4\npython-dateutil==2.9.0.post0\npython-dotenv==1.0.1\npytz==2024.2\nPyYAML==6.0.2\nrank-bm25==0.2.2\nrealtime==2.1.0\nreferencing==0.35.1\nregex==2024.11.6\nrequests==2.32.3\nrequests-toolbelt==1.0.0\nrich==13.9.4\nrpds-py==0.22.3\nrsa==4.9\nsix==1.17.0\nsmmap==5.0.2\nsniffio==1.3.1\nsnowballstemmer==2.2.0\nsoupsieve==2.6\nsse-starlette==2.1.3\nstarlette==0.45.3\nstorage3==0.11.0\nstreamlit==1.41.1\nStrEnum==0.4.15\nstructlog==24.4.0\nsupabase==2.11.0\nsupafunc==0.9.0\ntenacity==9.0.0\ntf-playwright-stealth==1.1.0\ntiktoken==0.8.0\ntokenizers==0.21.0\ntoml==0.10.2\ntornado==6.4.2\ntqdm==4.67.1\ntypes-requests==2.32.0.20241016\ntyping-inspect==0.9.0\ntyping_extensions==4.12.2\ntzdata==2024.2\nurllib3==2.3.0\nuvicorn==0.34.0\nwatchdog==6.0.0\nwatchfiles==1.0.4\nwebsockets==13.1\nwrapt==1.17.1\nxxhash==3.5.0\nyarl==1.18.3\nzipp==3.21.0\nzstandard==0.23.0"
+      }
+    ],
+    "relevance": 0.785
+  },
+  {
+    "codeTitle": "Defining Python Package Dependencies with Version Constraints",
+    "codeDescription": "Lists required Python packages with their specific versions for the Archon project. The dependencies include mcp version 1.2.1, python-dotenv version 1.0.1, and requests version 2.32.3.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 89,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/mcp/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Package Requirements",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "mcp==1.2.1\npython-dotenv==1.0.1\nrequests==2.32.3"
+      }
+    ],
+    "relevance": 0.78
+  },
+  {
+    "codeTitle": "Python Package Dependencies",
+    "codeDescription": "Lists required Python packages and their versions. Includes mcp version 1.2.1, python-dotenv version 1.0.1, and requests version 2.32.3.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 81,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v5-parallel-specialized-agents/mcp/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Dependencies List",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "mcp==1.2.1\npython-dotenv==1.0.1\nrequests==2.32.3"
+      }
+    ],
+    "relevance": 0.775
+  },
+  {
+    "codeTitle": "Defining Python Package Dependencies in requirements.txt",
+    "codeDescription": "This requirements.txt file specifies the exact versions of Python packages needed for the Archon project. It includes mcp for Minecraft protocol support, python-dotenv for environment variable management, and requests for HTTP operations.",
+    "codeLanguage": "text",
+    "codeTokens": 82,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v4-streamlit-ui-overhaul/mcp/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Dependencies List",
+    "codeList": [
+      {
+        "language": "text",
+        "code": "mcp==1.2.1\npython-dotenv==1.0.1\nrequests==2.32.3"
+      }
+    ],
+    "relevance": 0.77
+  },
+  {
+    "codeTitle": "Defining Python Package Dependencies",
+    "codeDescription": "Lists required Python packages with their specific versions including mcp, python-dotenv, and requests libraries. This ensures consistent dependency management across development environments.",
+    "codeLanguage": "plaintext",
+    "codeTokens": 71,
+    "codeId": "https://github.com/coleam00/Archon/blob/main/iterations/v6-tool-library-integration/mcp/requirements.txt#2025-04-14_snippet_0",
+    "pageTitle": "Python Dependencies Requirements File",
+    "codeList": [
+      {
+        "language": "plaintext",
+        "code": "mcp==1.2.1\npython-dotenv==1.0.1\nrequests==2.32.3"
+      }
+    ],
+    "relevance": 0.765
+  }
+]
