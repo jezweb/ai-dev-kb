@@ -1,0 +1,104 @@
+[
+  {
+    "category": "api",
+    "index_file": "api/index.json",
+    "file_count": 34,
+    "keywords": [
+      "datepicker",
+      "module",
+      "definition",
+      "angular",
+      "toggle",
+      "button",
+      "component",
+      "date",
+      "range",
+      "picker",
+      "implementing",
+      "matrangedateselectionmodel",
+      "internationalization",
+      "service",
+      "defining"
+    ]
+  },
+  {
+    "category": "config",
+    "index_file": "config/index.json",
+    "file_count": 1,
+    "keywords": [
+      "generating",
+      "drag",
+      "drop",
+      "component",
+      "installing",
+      "angular",
+      "material"
+    ]
+  },
+  {
+    "category": "guide",
+    "index_file": "guide/index.json",
+    "file_count": 37,
+    "keywords": [
+      "creating",
+      "simple",
+      "lists",
+      "angular",
+      "implementing",
+      "multiline",
+      "multiple",
+      "sections",
+      "complex",
+      "navigation",
+      "action",
+      "adding",
+      "icons",
+      "list",
+      "items"
+    ]
+  },
+  {
+    "category": "misc",
+    "index_file": "misc/index.json",
+    "file_count": 49,
+    "keywords": [
+      "toggling",
+      "angular",
+      "material",
+      "menu",
+      "programmatically",
+      "implementing",
+      "lazy",
+      "rendering",
+      "chip",
+      "grid",
+      "creating",
+      "static",
+      "list",
+      "removable",
+      "configuring"
+    ]
+  },
+  {
+    "category": "tutorial",
+    "index_file": "tutorial/index.json",
+    "file_count": 3,
+    "keywords": [
+      "displaying",
+      "form",
+      "validation",
+      "errors",
+      "implementing",
+      "vertical",
+      "linear",
+      "stepper",
+      "configuring",
+      "global",
+      "options",
+      "dynamic",
+      "step",
+      "creation",
+      "custom"
+    ]
+  }
+]

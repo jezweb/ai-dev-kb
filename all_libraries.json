@@ -1,0 +1,6006 @@
+[
+  {
+    "name": "90DaysOfDevOps",
+    "context7_path": "/MichaelCade/90DaysOfDevOps"
+  },
+  {
+    "name": "ABP Framework",
+    "context7_path": "/abpframework/abp"
+  },
+  {
+    "name": "Accelerate",
+    "context7_path": "/huggingface/accelerate"
+  },
+  {
+    "name": "Activepieces",
+    "context7_path": "/activepieces/activepieces"
+  },
+  {
+    "name": "ActiveRecord::AssociatedObject",
+    "context7_path": "/kaspth/active_record-associated_object"
+  },
+  {
+    "name": "Acts As Tenant",
+    "context7_path": "/ErwinM/acts_as_tenant"
+  },
+  {
+    "name": "AdalFlow",
+    "context7_path": "/SylphAI-Inc/AdalFlow"
+  },
+  {
+    "name": "AdminJS",
+    "context7_path": "/SoftwareBrothers/adminjs-docs"
+  },
+  {
+    "name": "AdonisJS",
+    "context7_path": "/adonisjs/v5-docs"
+  },
+  {
+    "name": "AdonisJS",
+    "context7_path": "/adonisjs/v6-docs"
+  },
+  {
+    "name": "Advanced Alchemy",
+    "context7_path": "/litestar-org/advanced-alchemy"
+  },
+  {
+    "name": "Adyen",
+    "context7_path": "/Adyen/adyen-web"
+  },
+  {
+    "name": "AG Grid",
+    "context7_path": "/ag-grid/ag-grid"
+  },
+  {
+    "name": "Agave",
+    "context7_path": "/anza-xyz/agave"
+  },
+  {
+    "name": "Agent Development Kit",
+    "context7_path": "/google/adk-docs"
+  },
+  {
+    "name": "Agent Development Kit Python",
+    "context7_path": "/google/adk-python"
+  },
+  {
+    "name": "Agent2Agent Protocol",
+    "context7_path": "/google/A2A"
+  },
+  {
+    "name": "Agentic",
+    "context7_path": "/transitive-bullshit/agentic"
+  },
+  {
+    "name": "Agentic Data Analysis",
+    "context7_path": "/whitew1994WW/AgenticDataAnalysis"
+  },
+  {
+    "name": "Agentipy",
+    "context7_path": "/niceberginc/agentipy"
+  },
+  {
+    "name": "AgentKit",
+    "context7_path": "/coinbase/agentkit"
+  },
+  {
+    "name": "AgentOps",
+    "context7_path": "/AgentOps-AI/agentops"
+  },
+  {
+    "name": "Agno",
+    "context7_path": "/agno-agi/agno-docs"
+  },
+  {
+    "name": "AgnoAGI",
+    "context7_path": "/agno-agi/agent-ui"
+  },
+  {
+    "name": "AI Agents for Beginners",
+    "context7_path": "/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "name": "AI Vibe",
+    "context7_path": "/ChrisRoyse/AI-Vibe-Code-Setup"
+  },
+  {
+    "name": "aio-pika",
+    "context7_path": "/mosquito/aio-pika"
+  },
+  {
+    "name": "aiogram",
+    "context7_path": "/aiogram/aiogram"
+  },
+  {
+    "name": "Akka.NET",
+    "context7_path": "/akkadotnet/akka.net"
+  },
+  {
+    "name": "Alpine.js",
+    "context7_path": "/alpinejs/alpine"
+  },
+  {
+    "name": "Altair",
+    "context7_path": "/vega/altair"
+  },
+  {
+    "name": "Android Developer Reference",
+    "context7_path": "/ImangazalievM/android-developer-reference"
+  },
+  {
+    "name": "Android NDK",
+    "context7_path": "/android/ndk"
+  },
+  {
+    "name": "Angular",
+    "context7_path": "/angular/angular"
+  },
+  {
+    "name": "Angular Components",
+    "context7_path": "/angular/components"
+  },
+  {
+    "name": "Anime.js",
+    "context7_path": "/Ogyeet10/animejs-docs"
+  },
+  {
+    "name": "AnnData",
+    "context7_path": "/scverse/anndata"
+  },
+  {
+    "name": "Ansible",
+    "context7_path": "/ansible/ansible-documentation"
+  },
+  {
+    "name": "Ant Design",
+    "context7_path": "/ant-design/ant-design"
+  },
+  {
+    "name": "Anthropic",
+    "context7_path": "/anthropics/anthropic-cookbook"
+  },
+  {
+    "name": "Anthropic TypeScript SDK",
+    "context7_path": "/anthropics/anthropic-sdk-typescript"
+  },
+  {
+    "name": "Anyhow",
+    "context7_path": "/dtolnay/anyhow"
+  },
+  {
+    "name": "Apache Accumulo",
+    "context7_path": "/apache/accumulo-website"
+  },
+  {
+    "name": "Apache ActiveMQ",
+    "context7_path": "/apache/activemq-website"
+  },
+  {
+    "name": "Apache Airflow",
+    "context7_path": "/apache/airflow"
+  },
+  {
+    "name": "Apache Arrow",
+    "context7_path": "/apache/arrow"
+  },
+  {
+    "name": "Apache Arrow",
+    "context7_path": "/apache/arrow-site"
+  },
+  {
+    "name": "Apache Camel",
+    "context7_path": "/apache/camel-website"
+  },
+  {
+    "name": "Apache Cordova",
+    "context7_path": "/apache/cordova-docs"
+  },
+  {
+    "name": "Apache DolphinScheduler",
+    "context7_path": "/apache/dolphinscheduler-website"
+  },
+  {
+    "name": "Apache Druid",
+    "context7_path": "/apache/druid-website"
+  },
+  {
+    "name": "Apache Dubbo",
+    "context7_path": "/apache/dubbo-website"
+  },
+  {
+    "name": "Apache ECharts",
+    "context7_path": "/apache/echarts-website"
+  },
+  {
+    "name": "Apache Flink",
+    "context7_path": "/apache/flink-web"
+  },
+  {
+    "name": "Apache Guacamole",
+    "context7_path": "/apache/guacamole-manual"
+  },
+  {
+    "name": "Apache Hadoop",
+    "context7_path": "/apache/hadoop-site"
+  },
+  {
+    "name": "Apache Hive",
+    "context7_path": "/apache/hive-site"
+  },
+  {
+    "name": "Apache Lucene",
+    "context7_path": "/apache/lucene-site"
+  },
+  {
+    "name": "Apache Maven",
+    "context7_path": "/apache/maven-site"
+  },
+  {
+    "name": "Apache POI",
+    "context7_path": "/apache/poi"
+  },
+  {
+    "name": "Apache RocketMQ",
+    "context7_path": "/apache/rocketmq-site"
+  },
+  {
+    "name": "Apache SkyWalking",
+    "context7_path": "/apache/skywalking-website"
+  },
+  {
+    "name": "Apache Spark",
+    "context7_path": "/apache/spark-website"
+  },
+  {
+    "name": "Apache Storm",
+    "context7_path": "/apache/storm-site"
+  },
+  {
+    "name": "Apache Struts",
+    "context7_path": "/apache/struts-site"
+  },
+  {
+    "name": "Apache TinkerPop",
+    "context7_path": "/apache/tinkerpop"
+  },
+  {
+    "name": "API Platform",
+    "context7_path": "/api-platform/api-platform"
+  },
+  {
+    "name": "Apollo Client",
+    "context7_path": "/apollographql/apollo-client-integrations"
+  },
+  {
+    "name": "Apple LLMs",
+    "context7_path": "/xoridius/apple-llms"
+  },
+  {
+    "name": "Appwrite",
+    "context7_path": "/appwrite/sdk-for-node"
+  },
+  {
+    "name": "Appwrite",
+    "context7_path": "/appwrite/website.git"
+  },
+  {
+    "name": "ArcadeJS",
+    "context7_path": "/ArcadeAI/arcade-js"
+  },
+  {
+    "name": "Archon",
+    "context7_path": "/coleam00/Archon"
+  },
+  {
+    "name": "Arcjet",
+    "context7_path": "/arcjet/arcjet-docs"
+  },
+  {
+    "name": "Arco Design",
+    "context7_path": "/arco-design/arco-design"
+  },
+  {
+    "name": "Arduino",
+    "context7_path": "/arduino/docs-content"
+  },
+  {
+    "name": "Argo CD",
+    "context7_path": "/argoproj/argo-cd"
+  },
+  {
+    "name": "Ariakit",
+    "context7_path": "/ariakit/ariakit"
+  },
+  {
+    "name": "ArkType",
+    "context7_path": "/arktypeio/arktype"
+  },
+  {
+    "name": "Artemis",
+    "context7_path": "/paradigmxyz/artemis"
+  },
+  {
+    "name": "ArviZ",
+    "context7_path": "/arviz-devs/arviz"
+  },
+  {
+    "name": "Ash",
+    "context7_path": "/ash-project/ash"
+  },
+  {
+    "name": "Ash Authentication",
+    "context7_path": "/team-alembic/ash_authentication"
+  },
+  {
+    "name": "Ash GraphQL",
+    "context7_path": "/ash-project/ash_graphql"
+  },
+  {
+    "name": "Ash Phoenix",
+    "context7_path": "/ash-project/ash_phoenix"
+  },
+  {
+    "name": "Ash Postgres",
+    "context7_path": "/ash-project/ash_postgres"
+  },
+  {
+    "name": "ASP.NET Core",
+    "context7_path": "/dotnet/aspnetcore"
+  },
+  {
+    "name": "ASP.NET Core Diagnostic Scenarios",
+    "context7_path": "/davidfowl/AspNetCoreDiagnosticScenarios"
+  },
+  {
+    "name": "Astral",
+    "context7_path": "/lino-levan/astral"
+  },
+  {
+    "name": "Astro",
+    "context7_path": "/withastro/docs"
+  },
+  {
+    "name": "AsyncAwaitBestPractices",
+    "context7_path": "/TheCodeTraveler/AsyncAwaitBestPractices"
+  },
+  {
+    "name": "Atomic Agents",
+    "context7_path": "/BrainBlend-AI/atomic-agents"
+  },
+  {
+    "name": "Auth0 Vue SDK",
+    "context7_path": "/auth0/auth0-vue"
+  },
+  {
+    "name": "authentik",
+    "context7_path": "/goauthentik/authentik"
+  },
+  {
+    "name": "AutoAnimate",
+    "context7_path": "/formkit/auto-animate"
+  },
+  {
+    "name": "AutoFixture",
+    "context7_path": "/AutoFixture/AutoFixture"
+  },
+  {
+    "name": "AutoGen",
+    "context7_path": "/microsoft/autogen"
+  },
+  {
+    "name": "AutoHotkey",
+    "context7_path": "/AutoHotkey/AutoHotkey"
+  },
+  {
+    "name": "AutoHotkey",
+    "context7_path": "/AutoHotkey/AutoHotkeyDocs"
+  },
+  {
+    "name": "AutoMapper",
+    "context7_path": "/AutoMapper/AutoMapper"
+  },
+  {
+    "name": "Avalonia",
+    "context7_path": "/AvaloniaUI/Avalonia"
+  },
+  {
+    "name": "Awesome Speaker Diarization",
+    "context7_path": "/wq2012/awesome-diarization"
+  },
+  {
+    "name": "AWS Amplify",
+    "context7_path": "/aws-amplify/amplify-js"
+  },
+  {
+    "name": "AWS Cloud Development Kit",
+    "context7_path": "/aws/aws-cdk"
+  },
+  {
+    "name": "AWS Lambda Rust Runtime",
+    "context7_path": "/awslabs/aws-lambda-rust-runtime"
+  },
+  {
+    "name": "AWS SDK",
+    "context7_path": "/awsdocs/aws-doc-sdk-examples"
+  },
+  {
+    "name": "AWS SDK for Go v2",
+    "context7_path": "/aws/aws-sdk-go-v2"
+  },
+  {
+    "name": "AWS SDK for JavaScript v3",
+    "context7_path": "/aws/aws-sdk-js-v3"
+  },
+  {
+    "name": "AWS SDK for Rust",
+    "context7_path": "/awslabs/aws-sdk-rust"
+  },
+  {
+    "name": "Axios",
+    "context7_path": "/axios/axios"
+  },
+  {
+    "name": "Axios",
+    "context7_path": "/axios/axios-docs"
+  },
+  {
+    "name": "Axum",
+    "context7_path": "/tokio-rs/axum"
+  },
+  {
+    "name": "Azure Pipelines Tasks",
+    "context7_path": "/microsoft/azure-pipelines-tasks"
+  },
+  {
+    "name": "Azure SDK for Go",
+    "context7_path": "/Azure/azure-sdk-for-go"
+  },
+  {
+    "name": "Babel",
+    "context7_path": "/babel/website"
+  },
+  {
+    "name": "Babylon.js",
+    "context7_path": "/BabylonJS/Documentation"
+  },
+  {
+    "name": "Backpack for Laravel",
+    "context7_path": "/Laravel-Backpack/docs"
+  },
+  {
+    "name": "Backstage",
+    "context7_path": "/backstage/backstage"
+  },
+  {
+    "name": "Backtesting.py",
+    "context7_path": "/kernc/backtesting.py"
+  },
+  {
+    "name": "Backtrader",
+    "context7_path": "/mementum/backtrader"
+  },
+  {
+    "name": "Barter",
+    "context7_path": "/barter-rs/barter-rs"
+  },
+  {
+    "name": "Base MCP",
+    "context7_path": "/base/base-mcp"
+  },
+  {
+    "name": "BasicMemory",
+    "context7_path": "/basicmachines-co/basic-memory"
+  },
+  {
+    "name": "Bats",
+    "context7_path": "/bats-core/bats-core"
+  },
+  {
+    "name": "Bazel",
+    "context7_path": "/bazelbuild/bazel-website"
+  },
+  {
+    "name": "Beam",
+    "context7_path": "/beam-cloud/beta9"
+  },
+  {
+    "name": "Beam",
+    "context7_path": "/beam-cloud/examples"
+  },
+  {
+    "name": "Beanie",
+    "context7_path": "/BeanieODM/beanie"
+  },
+  {
+    "name": "beartype",
+    "context7_path": "/beartype/beartype"
+  },
+  {
+    "name": "Bee Queue",
+    "context7_path": "/bee-queue/bee-queue"
+  },
+  {
+    "name": "Better Auth UI",
+    "context7_path": "/daveyplate/better-auth-ui"
+  },
+  {
+    "name": "BetterAuth",
+    "context7_path": "/better-auth/better-auth"
+  },
+  {
+    "name": "BetterCall",
+    "context7_path": "/Bekacru/better-call"
+  },
+  {
+    "name": "BetterFetch",
+    "context7_path": "/bekacru/better-fetch"
+  },
+  {
+    "name": "Bevy",
+    "context7_path": "/bevyengine/bevy"
+  },
+  {
+    "name": "BigBlueButton",
+    "context7_path": "/bigbluebutton/bigbluebutton"
+  },
+  {
+    "name": "BigColor",
+    "context7_path": "/ducflair/bigcolor"
+  },
+  {
+    "name": "BigCommerce",
+    "context7_path": "/bigcommerce/bigcommerce-api-python"
+  },
+  {
+    "name": "BigCommerce",
+    "context7_path": "/bigcommerce/docs"
+  },
+  {
+    "name": "Biome",
+    "context7_path": "/biomejs/biome"
+  },
+  {
+    "name": "Bitcoin",
+    "context7_path": "/bitcoin/bitcoin"
+  },
+  {
+    "name": "bitECS",
+    "context7_path": "/NateTheGreatt/bitECS"
+  },
+  {
+    "name": "BitGraph",
+    "context7_path": "/bgamer50/BitGraph"
+  },
+  {
+    "name": "Bits UI",
+    "context7_path": "/huntabyte/bits-ui"
+  },
+  {
+    "name": "Blade",
+    "context7_path": "/razorpay/blade"
+  },
+  {
+    "name": "Bloc",
+    "context7_path": "/felangel/bloc"
+  },
+  {
+    "name": "Blockly",
+    "context7_path": "/google/blockly"
+  },
+  {
+    "name": "Bogus",
+    "context7_path": "/bchavez/Bogus"
+  },
+  {
+    "name": "Bolt",
+    "context7_path": "/slackapi/bolt-js"
+  },
+  {
+    "name": "Bolt for Python",
+    "context7_path": "/slackapi/bolt-python"
+  },
+  {
+    "name": "Boost",
+    "context7_path": "/boostorg/boost"
+  },
+  {
+    "name": "Bootstrap",
+    "context7_path": "/twbs/bootstrap"
+  },
+  {
+    "name": "Boto3",
+    "context7_path": "/boto/boto3"
+  },
+  {
+    "name": "Botpress",
+    "context7_path": "/botpress/botpress"
+  },
+  {
+    "name": "BoundaryML",
+    "context7_path": "/boundaryml/baml"
+  },
+  {
+    "name": "Boutique",
+    "context7_path": "/mergesort/Boutique"
+  },
+  {
+    "name": "Brevo",
+    "context7_path": "/getbrevo/brevo-python"
+  },
+  {
+    "name": "Browser Use JS",
+    "context7_path": "/browser-use/browser-use"
+  },
+  {
+    "name": "BrowserBase",
+    "context7_path": "/browserbase/docs"
+  },
+  {
+    "name": "Bruno",
+    "context7_path": "/usebruno/bruno"
+  },
+  {
+    "name": "Bruno",
+    "context7_path": "/usebruno/bruno-docs"
+  },
+  {
+    "name": "Bucketeer",
+    "context7_path": "/bucketeer-io/bucketeer"
+  },
+  {
+    "name": "Bull",
+    "context7_path": "/OptimalBits/bull"
+  },
+  {
+    "name": "Bull Board",
+    "context7_path": "/felixmosh/bull-board"
+  },
+  {
+    "name": "BullMQ",
+    "context7_path": "/taskforcesh/bullmq"
+  },
+  {
+    "name": "Bulma",
+    "context7_path": "/jgthms/bulma"
+  },
+  {
+    "name": "Bun",
+    "context7_path": "/oven-sh/bun"
+  },
+  {
+    "name": "Cal.com",
+    "context7_path": "/calcom/cal.com"
+  },
+  {
+    "name": "CAMEL",
+    "context7_path": "/camel-ai/camel"
+  },
+  {
+    "name": "Camunda",
+    "context7_path": "/camunda/camunda-docs"
+  },
+  {
+    "name": "Candle",
+    "context7_path": "/huggingface/candle"
+  },
+  {
+    "name": "Canva Apps SDK",
+    "context7_path": "/canva-sdks/canva-apps-sdk-starter-kit"
+  },
+  {
+    "name": "CAP JavaScript",
+    "context7_path": "/cap-js/docs"
+  },
+  {
+    "name": "Capacitor",
+    "context7_path": "/ionic-team/capacitor-docs"
+  },
+  {
+    "name": "Capacitor Social Login",
+    "context7_path": "/Cap-go/capacitor-social-login"
+  },
+  {
+    "name": "cargo-swift",
+    "context7_path": "/antoniusnaumann/cargo-swift"
+  },
+  {
+    "name": "Casbin",
+    "context7_path": "/casbin/casbin-website"
+  },
+  {
+    "name": "Cashfree JS",
+    "context7_path": "/cashfree/cashfree-js"
+  },
+  {
+    "name": "Cashfree Payment Gateway SDK for Node.js",
+    "context7_path": "/cashfree/cashfree-pg-sdk-nodejs"
+  },
+  {
+    "name": "CASL",
+    "context7_path": "/stalniy/casl"
+  },
+  {
+    "name": "CCXT",
+    "context7_path": "/ccxt/ccxt"
+  },
+  {
+    "name": "Celery",
+    "context7_path": "/celery/celery"
+  },
+  {
+    "name": "Celluloid",
+    "context7_path": "/celluloid/celluloid"
+  },
+  {
+    "name": "cellxgene",
+    "context7_path": "/chanzuckerberg/cellxgene"
+  },
+  {
+    "name": "Certbot",
+    "context7_path": "/certbot/certbot"
+  },
+  {
+    "name": "Chai",
+    "context7_path": "/chaijs/chai-docs"
+  },
+  {
+    "name": "Chainlit",
+    "context7_path": "/Chainlit/chainlit"
+  },
+  {
+    "name": "Chakra UI",
+    "context7_path": "/chakra-ui/chakra-ui"
+  },
+  {
+    "name": "Chart.js",
+    "context7_path": "/chartjs/Chart.js"
+  },
+  {
+    "name": "Chroma",
+    "context7_path": "/chroma-core/chroma"
+  },
+  {
+    "name": "Circles",
+    "context7_path": "/aboutcircles/circles-docs"
+  },
+  {
+    "name": "Circom",
+    "context7_path": "/iden3/circom"
+  },
+  {
+    "name": "Cisco Stacks",
+    "context7_path": "/cisco-open/stacks"
+  },
+  {
+    "name": "Civet",
+    "context7_path": "/DanielXMoore/Civet"
+  },
+  {
+    "name": "CKEditor 5",
+    "context7_path": "/ckeditor/ckeditor5"
+  },
+  {
+    "name": "Claude Task Master",
+    "context7_path": "/eyaltoledano/claude-task-master"
+  },
+  {
+    "name": "Clerk",
+    "context7_path": "/clerk/clerk-docs"
+  },
+  {
+    "name": "Clerk Python SDK",
+    "context7_path": "/clerk/clerk-sdk-python"
+  },
+  {
+    "name": "ClickHouse",
+    "context7_path": "/ClickHouse/ClickHouse"
+  },
+  {
+    "name": "Cline",
+    "context7_path": "/cline/cline"
+  },
+  {
+    "name": "Cloudflare",
+    "context7_path": "/cloudflare/cloudflare-docs"
+  },
+  {
+    "name": "Cloudflare Agents",
+    "context7_path": "/cloudflare/agents"
+  },
+  {
+    "name": "Cloudflare API Client for TypeScript",
+    "context7_path": "/cloudflare/cloudflare-typescript"
+  },
+  {
+    "name": "cmdk",
+    "context7_path": "/pacocoursey/cmdk"
+  },
+  {
+    "name": "CodeIgniter",
+    "context7_path": "/bcit-ci/CodeIgniter"
+  },
+  {
+    "name": "CodeIgniter",
+    "context7_path": "/codeigniter4/userguide"
+  },
+  {
+    "name": "CodeIgniter 4",
+    "context7_path": "/codeigniter4/CodeIgniter4"
+  },
+  {
+    "name": "Coder",
+    "context7_path": "/coder/coder"
+  },
+  {
+    "name": "Codex",
+    "context7_path": "/openai/codex"
+  },
+  {
+    "name": "Cognee",
+    "context7_path": "/topoteretes/cognee"
+  },
+  {
+    "name": "Colyseus",
+    "context7_path": "/colyseus/colyseus"
+  },
+  {
+    "name": "CometChat UIKit for React",
+    "context7_path": "/cometchat/cometchat-uikit-react"
+  },
+  {
+    "name": "CometChat UIKit React Native",
+    "context7_path": "/cometchat/cometchat-uikit-react-native"
+  },
+  {
+    "name": "ComfyUI",
+    "context7_path": "/Comfy-Org/docs"
+  },
+  {
+    "name": "ComfyUI",
+    "context7_path": "/comfyanonymous/ComfyUI"
+  },
+  {
+    "name": "Comlink",
+    "context7_path": "/GoogleChromeLabs/comlink"
+  },
+  {
+    "name": "Commerce Toolkit",
+    "context7_path": "/basementstudio/commerce-toolkit"
+  },
+  {
+    "name": "Commercetools",
+    "context7_path": "/commercetools/commercetools-api-reference"
+  },
+  {
+    "name": "Compose Multiplatform",
+    "context7_path": "/JetBrains/compose-multiplatform"
+  },
+  {
+    "name": "Composer Suite",
+    "context7_path": "/hmans/composer-suite"
+  },
+  {
+    "name": "Composio",
+    "context7_path": "/ComposioHQ/composio"
+  },
+  {
+    "name": "Conda",
+    "context7_path": "/conda/conda-docs"
+  },
+  {
+    "name": "Conform",
+    "context7_path": "/edmundhung/conform"
+  },
+  {
+    "name": "Convex",
+    "context7_path": "/get-convex/convex-backend"
+  },
+  {
+    "name": "Cookie Consent",
+    "context7_path": "/68publishers/cookie-consent"
+  },
+  {
+    "name": "Coolify",
+    "context7_path": "/coollabsio/coolify"
+  },
+  {
+    "name": "CopilotKit",
+    "context7_path": "/CopilotKit/CopilotKit"
+  },
+  {
+    "name": "Corvus.JsonSchema",
+    "context7_path": "/corvus-dotnet/Corvus.JsonSchema"
+  },
+  {
+    "name": "CosyVoice",
+    "context7_path": "/FunAudioLLM/CosyVoice"
+  },
+  {
+    "name": "CosyVoice2-Ex",
+    "context7_path": "/journey-ad/CosyVoice2-Ex"
+  },
+  {
+    "name": "Crawl4AI",
+    "context7_path": "/unclecode/crawl4ai"
+  },
+  {
+    "name": "Crawlee",
+    "context7_path": "/apify/crawlee"
+  },
+  {
+    "name": "Create Next App",
+    "context7_path": "/privy-io/create-next-app"
+  },
+  {
+    "name": "CreateOrderator",
+    "context7_path": "/KiboPartners/CreateOrderator"
+  },
+  {
+    "name": "CrewAI",
+    "context7_path": "/crewAIInc/crewAI"
+  },
+  {
+    "name": "Cropper.js",
+    "context7_path": "/fengyuanchen/cropperjs"
+  },
+  {
+    "name": "Crossplane",
+    "context7_path": "/crossplane/crossplane"
+  },
+  {
+    "name": "Cryo",
+    "context7_path": "/paradigmxyz/cryo"
+  },
+  {
+    "name": "CsvHelper",
+    "context7_path": "/JoshClose/CsvHelper"
+  },
+  {
+    "name": "Cube",
+    "context7_path": "/cube-js/cube"
+  },
+  {
+    "name": "Cucumber",
+    "context7_path": "/cucumber/docs"
+  },
+  {
+    "name": "CVA",
+    "context7_path": "/joe-bell/cva"
+  },
+  {
+    "name": "Cypress",
+    "context7_path": "/cypress-io/cypress-documentation"
+  },
+  {
+    "name": "D3",
+    "context7_path": "/d3/d3"
+  },
+  {
+    "name": "d3-force-3d",
+    "context7_path": "/vasturiano/d3-force-3d"
+  },
+  {
+    "name": "Dagger",
+    "context7_path": "/dagger/dagger.git"
+  },
+  {
+    "name": "Dagster",
+    "context7_path": "/dagster-io/dagster"
+  },
+  {
+    "name": "Daily",
+    "context7_path": "/daily-co/daily-python"
+  },
+  {
+    "name": "DaisyUI",
+    "context7_path": "/saadeghi/daisyui"
+  },
+  {
+    "name": "Dapper",
+    "context7_path": "/DapperLib/Dapper"
+  },
+  {
+    "name": "Dart",
+    "context7_path": "/dart-lang/site-www"
+  },
+  {
+    "name": "Dart Mappable",
+    "context7_path": "/schultek/dart_mappable"
+  },
+  {
+    "name": "Darts",
+    "context7_path": "/unit8co/darts"
+  },
+  {
+    "name": "Dash",
+    "context7_path": "/plotly/dash"
+  },
+  {
+    "name": "Dask",
+    "context7_path": "/dask/dask"
+  },
+  {
+    "name": "Data Delivery Network",
+    "context7_path": "/hasura/ddn-docs"
+  },
+  {
+    "name": "Datasets",
+    "context7_path": "/huggingface/datasets"
+  },
+  {
+    "name": "date-fns",
+    "context7_path": "/date-fns/date-fns"
+  },
+  {
+    "name": "Day.js",
+    "context7_path": "/iamkun/dayjs"
+  },
+  {
+    "name": "DB-GPT",
+    "context7_path": "/eosphoros-ai/DB-GPT"
+  },
+  {
+    "name": "dbt",
+    "context7_path": "/dbt-labs/docs.getdbt.com"
+  },
+  {
+    "name": "Decap CMS",
+    "context7_path": "/decaporg/decap-cms"
+  },
+  {
+    "name": "Decluttarr",
+    "context7_path": "/ManiMatter/decluttarr"
+  },
+  {
+    "name": "DeepFace",
+    "context7_path": "/serengil/deepface"
+  },
+  {
+    "name": "Deephaven",
+    "context7_path": "/deephaven/deephaven-plugins"
+  },
+  {
+    "name": "DeepKE",
+    "context7_path": "/zjunlp/DeepKE"
+  },
+  {
+    "name": "DeepSeek-R1",
+    "context7_path": "/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "DeepSpeed",
+    "context7_path": "/deepspeedai/DeepSpeed"
+  },
+  {
+    "name": "DegenBot",
+    "context7_path": "/BowTiedDevil/degenbot"
+  },
+  {
+    "name": "Delta Lake",
+    "context7_path": "/delta-io/delta-rs"
+  },
+  {
+    "name": "Deno",
+    "context7_path": "/denoland/deno"
+  },
+  {
+    "name": "Deployer",
+    "context7_path": "/deployphp/deployer"
+  },
+  {
+    "name": "DeSo",
+    "context7_path": "/deso-protocol/docs"
+  },
+  {
+    "name": "detect-gpu",
+    "context7_path": "/pmndrs/detect-gpu"
+  },
+  {
+    "name": "Dev Container Templates",
+    "context7_path": "/devcontainers/templates"
+  },
+  {
+    "name": "Devbox",
+    "context7_path": "/jetify-com/devbox"
+  },
+  {
+    "name": "DevClad",
+    "context7_path": "/DevClad-Inc/devclad"
+  },
+  {
+    "name": "Development Container Features",
+    "context7_path": "/devcontainers/features"
+  },
+  {
+    "name": "Development Containers",
+    "context7_path": "/devcontainers/cli"
+  },
+  {
+    "name": "Development Containers",
+    "context7_path": "/devcontainers/images"
+  },
+  {
+    "name": "Development Containers",
+    "context7_path": "/devcontainers/spec"
+  },
+  {
+    "name": "Devise",
+    "context7_path": "/heartcombo/devise"
+  },
+  {
+    "name": "Dexie.js",
+    "context7_path": "/dexie/Dexie.js"
+  },
+  {
+    "name": "Diago",
+    "context7_path": "/emiago/diago"
+  },
+  {
+    "name": "Dice",
+    "context7_path": "/DiceDB/dice"
+  },
+  {
+    "name": "DiceUI",
+    "context7_path": "/sadmann7/diceui"
+  },
+  {
+    "name": "Diffusers",
+    "context7_path": "/huggingface/diffusers"
+  },
+  {
+    "name": "Dify",
+    "context7_path": "/langgenius/dify-docs"
+  },
+  {
+    "name": "Dioxus",
+    "context7_path": "/dioxuslabs/dioxus"
+  },
+  {
+    "name": "Dioxus Motion",
+    "context7_path": "/wheregmis/dioxus-motion.git"
+  },
+  {
+    "name": "Diplodoc Platform",
+    "context7_path": "/diplodoc-platform/docs"
+  },
+  {
+    "name": "Directus",
+    "context7_path": "/directus/docs"
+  },
+  {
+    "name": "discord.js",
+    "context7_path": "/discordjs/discord.js"
+  },
+  {
+    "name": "Discord.js",
+    "context7_path": "/discordjs/guide"
+  },
+  {
+    "name": "discord.py",
+    "context7_path": "/Rapptz/discord.py"
+  },
+  {
+    "name": "DiscordGo",
+    "context7_path": "/katara-ai-inc/discordgo"
+  },
+  {
+    "name": "DisGo",
+    "context7_path": "/disgoorg/disgo"
+  },
+  {
+    "name": "Django",
+    "context7_path": "/django/django"
+  },
+  {
+    "name": "Django Ninja",
+    "context7_path": "/vitalik/django-ninja"
+  },
+  {
+    "name": "Django Q2",
+    "context7_path": "/django-q2/django-q2"
+  },
+  {
+    "name": "Django QStash",
+    "context7_path": "/jmitchel3/django-qstash"
+  },
+  {
+    "name": "Django REST framework",
+    "context7_path": "/encode/django-rest-framework"
+  },
+  {
+    "name": "Django Unfold",
+    "context7_path": "/unfoldadmin/django-unfold"
+  },
+  {
+    "name": "django-allauth",
+    "context7_path": "/pennersr/django-allauth"
+  },
+  {
+    "name": "DLT",
+    "context7_path": "/dlt-hub/dlt"
+  },
+  {
+    "name": "DndKit",
+    "context7_path": "/clauderic/dnd-kit"
+  },
+  {
+    "name": "Docker",
+    "context7_path": "/docker/docs"
+  },
+  {
+    "name": "DockView",
+    "context7_path": "/mathuo/dockview"
+  },
+  {
+    "name": "DocLing",
+    "context7_path": "/docling-project/docling"
+  },
+  {
+    "name": "Docusaurus",
+    "context7_path": "/facebook/docusaurus"
+  },
+  {
+    "name": "Dog Breed Classifier",
+    "context7_path": "/7AM7/Dog-Breed-Classifier-With-Flask"
+  },
+  {
+    "name": "DokPloy",
+    "context7_path": "/dokploy/dokploy"
+  },
+  {
+    "name": "Dotenv Vault",
+    "context7_path": "/dotenv-org/dotenv-vault"
+  },
+  {
+    "name": "Dragonfly",
+    "context7_path": "/dragonflydb/dragonfly"
+  },
+  {
+    "name": "DRAIVE",
+    "context7_path": "/miquido/draive"
+  },
+  {
+    "name": "Drei",
+    "context7_path": "/pmndrs/drei"
+  },
+  {
+    "name": "Drift",
+    "context7_path": "/simolus3/drift"
+  },
+  {
+    "name": "Drizzle ORM",
+    "context7_path": "/drizzle-team/drizzle-orm"
+  },
+  {
+    "name": "Drizzle Zero",
+    "context7_path": "/BriefHQ/drizzle-zero"
+  },
+  {
+    "name": "Dropwizard",
+    "context7_path": "/dropwizard/dropwizard"
+  },
+  {
+    "name": "Drupal",
+    "context7_path": "/drupal/drupal"
+  },
+  {
+    "name": "dry-auto_inject",
+    "context7_path": "/dry-rb/dry-auto_inject"
+  },
+  {
+    "name": "dry-configurable",
+    "context7_path": "/dry-rb/dry-configurable"
+  },
+  {
+    "name": "dry-container",
+    "context7_path": "/dry-rb/dry-container"
+  },
+  {
+    "name": "dry-monads",
+    "context7_path": "/dry-rb/dry-monads"
+  },
+  {
+    "name": "dry-operation",
+    "context7_path": "/dry-rb/dry-operation"
+  },
+  {
+    "name": "dry-schema",
+    "context7_path": "/dry-rb/dry-schema"
+  },
+  {
+    "name": "dry-struct",
+    "context7_path": "/dry-rb/dry-struct"
+  },
+  {
+    "name": "dry-types",
+    "context7_path": "/dry-rb/dry-types"
+  },
+  {
+    "name": "dry-validation",
+    "context7_path": "/dry-rb/dry-validation"
+  },
+  {
+    "name": "DSPy",
+    "context7_path": "/stanfordnlp/dspy"
+  },
+  {
+    "name": "Dub",
+    "context7_path": "/dubinc/docs"
+  },
+  {
+    "name": "DuckDB",
+    "context7_path": "/duckdb/duckdb-web"
+  },
+  {
+    "name": "DuckDB",
+    "context7_path": "/spile-io/duckdb-docs"
+  },
+  {
+    "name": "DVC",
+    "context7_path": "/iterative/dvc.org"
+  },
+  {
+    "name": "Dynamic",
+    "context7_path": "/dynamic-labs/dynamic-global-wallet"
+  },
+  {
+    "name": "Dynamic",
+    "context7_path": "/dynamic-labs/dynamic-global-wallet-example"
+  },
+  {
+    "name": "Ecctrl",
+    "context7_path": "/pmndrs/ecctrl"
+  },
+  {
+    "name": "Echo",
+    "context7_path": "/labstack/echo"
+  },
+  {
+    "name": "Eclipse Che",
+    "context7_path": "/eclipse/che-docs"
+  },
+  {
+    "name": "Eclipse Ditto",
+    "context7_path": "/eclipse-ditto/ditto"
+  },
+  {
+    "name": "Eclipse Vert.x",
+    "context7_path": "/vert-x3/vertx-web-site"
+  },
+  {
+    "name": "EdiPress",
+    "context7_path": "/Dippuraj1/Edipress.git"
+  },
+  {
+    "name": "Effect",
+    "context7_path": "/Effect-TS/effect"
+  },
+  {
+    "name": "Effect IO AI",
+    "context7_path": "/tim-smart/effect-io-ai"
+  },
+  {
+    "name": "EigenLayer",
+    "context7_path": "/layr-Labs/eigenlayer-docs"
+  },
+  {
+    "name": "Elastic Cloud on Kubernetes",
+    "context7_path": "/elastic/cloud-on-k8s"
+  },
+  {
+    "name": "Elasticsearch",
+    "context7_path": "/elastic/elasticsearch"
+  },
+  {
+    "name": "Elasticsearch .NET Client",
+    "context7_path": "/elastic/elasticsearch-net"
+  },
+  {
+    "name": "ElectricSQL",
+    "context7_path": "/electric-sql/electric"
+  },
+  {
+    "name": "ElevenLabs",
+    "context7_path": "/elevenlabs/elevenlabs-docs"
+  },
+  {
+    "name": "Eleventy",
+    "context7_path": "/11ty/11ty-website"
+  },
+  {
+    "name": "Elixir",
+    "context7_path": "/elixir-lang/elixir"
+  },
+  {
+    "name": "ELIZA",
+    "context7_path": "/elizaOS/eliza"
+  },
+  {
+    "name": "Elysia",
+    "context7_path": "/elysiajs/documentation"
+  },
+  {
+    "name": "Ember Data",
+    "context7_path": "/emberjs/data"
+  },
+  {
+    "name": "Ember Engines",
+    "context7_path": "/ember-engines/ember-engines.com"
+  },
+  {
+    "name": "Ember QUnit",
+    "context7_path": "/emberjs/ember-qunit"
+  },
+  {
+    "name": "Ember Template Imports",
+    "context7_path": "/ember-cli/ember-template-imports"
+  },
+  {
+    "name": "Encore",
+    "context7_path": "/encoredev/encore"
+  },
+  {
+    "name": "Entity Framework Core",
+    "context7_path": "/dotnet/efcore"
+  },
+  {
+    "name": "EntityFramework.Exceptions",
+    "context7_path": "/Giorgi/EntityFramework.Exceptions"
+  },
+  {
+    "name": "EntityFrameworkCore.SqlServer.SimpleBulks",
+    "context7_path": "/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks"
+  },
+  {
+    "name": "Epic Stack",
+    "context7_path": "/epicweb-dev/epic-stack"
+  },
+  {
+    "name": "ERC-3643",
+    "context7_path": "/ERC-3643/documentation"
+  },
+  {
+    "name": "ERPNext",
+    "context7_path": "/frappe/erpnext"
+  },
+  {
+    "name": "ErrorOr",
+    "context7_path": "/amantinband/error-or"
+  },
+  {
+    "name": "Esbuild",
+    "context7_path": "/phoenixframework/esbuild"
+  },
+  {
+    "name": "ESLint",
+    "context7_path": "/eslint/eslint"
+  },
+  {
+    "name": "ESLint Plugin React",
+    "context7_path": "/jsx-eslint/eslint-plugin-react"
+  },
+  {
+    "name": "eslint-config",
+    "context7_path": "/antfu/eslint-config"
+  },
+  {
+    "name": "Ethereum",
+    "context7_path": "/ethereum/ethereum-org-website"
+  },
+  {
+    "name": "ethers.js",
+    "context7_path": "/ethers-io/ethers.js"
+  },
+  {
+    "name": "Excalibur",
+    "context7_path": "/excaliburjs/Excalibur"
+  },
+  {
+    "name": "Excalidraw",
+    "context7_path": "/excalidraw/excalidraw"
+  },
+  {
+    "name": "Excel-DNA",
+    "context7_path": "/Excel-DNA/ExcelDna"
+  },
+  {
+    "name": "ExcelJS",
+    "context7_path": "/exceljs/exceljs"
+  },
+  {
+    "name": "Expo",
+    "context7_path": "/expo/expo"
+  },
+  {
+    "name": "Exposed",
+    "context7_path": "/JetBrains/Exposed"
+  },
+  {
+    "name": "Express",
+    "context7_path": "/expressjs/express"
+  },
+  {
+    "name": "Expression",
+    "context7_path": "/dbrattli/Expression"
+  },
+  {
+    "name": "Fabric",
+    "context7_path": "/FabricMC/fabric-docs"
+  },
+  {
+    "name": "Fabric.js",
+    "context7_path": "/fabricjs/fabric.js"
+  },
+  {
+    "name": "Facebook Business SDK for NodeJS",
+    "context7_path": "/facebook/facebook-nodejs-business-sdk"
+  },
+  {
+    "name": "Fail2Ban",
+    "context7_path": "/fail2ban/fail2ban"
+  },
+  {
+    "name": "Faker",
+    "context7_path": "/faker-js/faker"
+  },
+  {
+    "name": "fal",
+    "context7_path": "/fal-ai/fal"
+  },
+  {
+    "name": "Farcaster Miniapps",
+    "context7_path": "/farcasterxyz/miniapps"
+  },
+  {
+    "name": "Fast-Check",
+    "context7_path": "/dubzzz/fast-check"
+  },
+  {
+    "name": "FastAgent",
+    "context7_path": "/evalstate/fast-agent"
+  },
+  {
+    "name": "FastAPI",
+    "context7_path": "/tiangolo/fastapi"
+  },
+  {
+    "name": "FastCrud",
+    "context7_path": "/MoonStorm/FastCrud"
+  },
+  {
+    "name": "FastEndpoints",
+    "context7_path": "/FastEndpoints/FastEndpoints"
+  },
+  {
+    "name": "FastEndpoints",
+    "context7_path": "/FastEndpoints/Library"
+  },
+  {
+    "name": "FastF1",
+    "context7_path": "/theOehrly/Fast-F1"
+  },
+  {
+    "name": "FastGPT",
+    "context7_path": "/labring/FastGPT"
+  },
+  {
+    "name": "Fastify",
+    "context7_path": "/fastify/fastify"
+  },
+  {
+    "name": "Fastify Cron",
+    "context7_path": "/47ng/fastify-cron"
+  },
+  {
+    "name": "fastlane",
+    "context7_path": "/fastlane/docs"
+  },
+  {
+    "name": "fastlane",
+    "context7_path": "/fastlane/fastlane"
+  },
+  {
+    "name": "FastRTC",
+    "context7_path": "/gradio-app/fastrtc"
+  },
+  {
+    "name": "FeathersJS",
+    "context7_path": "/feathersjs/feathers"
+  },
+  {
+    "name": "FetchFox",
+    "context7_path": "/fetchfox/fetchfox"
+  },
+  {
+    "name": "FFmpeg",
+    "context7_path": "/FFmpeg/FFmpeg"
+  },
+  {
+    "name": "Fiber",
+    "context7_path": "/gofiber/docs.git"
+  },
+  {
+    "name": "Fiberplane",
+    "context7_path": "/fiberplane/fiberplane"
+  },
+  {
+    "name": "Figma API",
+    "context7_path": "/figma/rest-api-spec"
+  },
+  {
+    "name": "Filament",
+    "context7_path": "/filamentphp/filament"
+  },
+  {
+    "name": "Finbuckle.MultiTenant",
+    "context7_path": "/Finbuckle/Finbuckle.MultiTenant"
+  },
+  {
+    "name": "Finbuckle.MultiTenant",
+    "context7_path": "/Finbuckle/Finbuckle.Website"
+  },
+  {
+    "name": "Firebase",
+    "context7_path": "/firebase/firebase-ios-sdk"
+  },
+  {
+    "name": "Firebase JavaScript SDK",
+    "context7_path": "/firebase/firebase-js-sdk"
+  },
+  {
+    "name": "FireCrawl",
+    "context7_path": "/mendableai/firecrawl"
+  },
+  {
+    "name": "FiveM",
+    "context7_path": "/citizenfx/fivem-docs"
+  },
+  {
+    "name": "Flags",
+    "context7_path": "/vercel/flags"
+  },
+  {
+    "name": "Flame",
+    "context7_path": "/phoenixframework/flame"
+  },
+  {
+    "name": "Flarum",
+    "context7_path": "/flarum/docs"
+  },
+  {
+    "name": "FlashList",
+    "context7_path": "/shopify/flash-list"
+  },
+  {
+    "name": "FlashRAG",
+    "context7_path": "/RUC-NLPIR/FlashRAG"
+  },
+  {
+    "name": "Flask",
+    "context7_path": "/pallets/flask"
+  },
+  {
+    "name": "FlatBuffers",
+    "context7_path": "/google/flatbuffers"
+  },
+  {
+    "name": "Flight",
+    "context7_path": "/flightphp/core"
+  },
+  {
+    "name": "Flowise",
+    "context7_path": "/flowiseai/flowisedocs"
+  },
+  {
+    "name": "FluentValidation",
+    "context7_path": "/FluentValidation/FluentValidation"
+  },
+  {
+    "name": "Flutter",
+    "context7_path": "/flutter/flutter"
+  },
+  {
+    "name": "Flutter",
+    "context7_path": "/flutter/website"
+  },
+  {
+    "name": "Flutter Hooks",
+    "context7_path": "/rrousselGit/flutter_hooks"
+  },
+  {
+    "name": "FlutterFire",
+    "context7_path": "/firebase/flutterfire"
+  },
+  {
+    "name": "Flux",
+    "context7_path": "/livewire/flux"
+  },
+  {
+    "name": "Fly.io",
+    "context7_path": "/superfly/docs"
+  },
+  {
+    "name": "FlyonUI",
+    "context7_path": "/themeselection/flyonui"
+  },
+  {
+    "name": "Flyte",
+    "context7_path": "/flyteorg/flyte"
+  },
+  {
+    "name": "Flyte",
+    "context7_path": "/flyteorg/flytesnacks"
+  },
+  {
+    "name": "Flytekit",
+    "context7_path": "/flyteorg/flytekit"
+  },
+  {
+    "name": "Flyway",
+    "context7_path": "/flyway/flywaydb.org"
+  },
+  {
+    "name": "Fondue",
+    "context7_path": "/Frontify/fondue"
+  },
+  {
+    "name": "Formbricks",
+    "context7_path": "/formbricks/formbricks"
+  },
+  {
+    "name": "Formik",
+    "context7_path": "/jaredpalmer/formik"
+  },
+  {
+    "name": "FormWerk",
+    "context7_path": "/formwerkjs/formwerk.dev"
+  },
+  {
+    "name": "Foundry",
+    "context7_path": "/foundry-rs/book"
+  },
+  {
+    "name": "fQuery",
+    "context7_path": "/41y08h/fquery"
+  },
+  {
+    "name": "Framework7",
+    "context7_path": "/framework7io/framework7"
+  },
+  {
+    "name": "Frappe",
+    "context7_path": "/frappe/frappe"
+  },
+  {
+    "name": "Frappe HRMS",
+    "context7_path": "/frappe/hrms"
+  },
+  {
+    "name": "freezed",
+    "context7_path": "/rrousselGit/freezed"
+  },
+  {
+    "name": "Freqtrade",
+    "context7_path": "/freqtrade/freqtrade"
+  },
+  {
+    "name": "Frimousse",
+    "context7_path": "/liveblocks/frimousse"
+  },
+  {
+    "name": "full.dev UI",
+    "context7_path": "/fulldotdev/ui"
+  },
+  {
+    "name": "FullCalendar",
+    "context7_path": "/fullcalendar/fullcalendar"
+  },
+  {
+    "name": "Fumadocs",
+    "context7_path": "/fuma-nama/fumadocs"
+  },
+  {
+    "name": "Fuse.js",
+    "context7_path": "/krisk/fuse"
+  },
+  {
+    "name": "Fusion Next",
+    "context7_path": "/alibaba-fusion/next"
+  },
+  {
+    "name": "GEL",
+    "context7_path": "/geldata/gel"
+  },
+  {
+    "name": "Gemini",
+    "context7_path": "/google-gemini/gemini-image-editing-nextjs-quickstart"
+  },
+  {
+    "name": "Gemini WebRTC Web",
+    "context7_path": "/pipecat-ai/gemini-webrtc-web-simple"
+  },
+  {
+    "name": "Genkit",
+    "context7_path": "/firebase/genkit"
+  },
+  {
+    "name": "Ghidra",
+    "context7_path": "/NationalSecurityAgency/ghidra"
+  },
+  {
+    "name": "Ghost",
+    "context7_path": "/TryGhost/docs"
+  },
+  {
+    "name": "Ghostty",
+    "context7_path": "/ghostty-org/website"
+  },
+  {
+    "name": "Gitea",
+    "context7_path": "/go-gitea/gitea"
+  },
+  {
+    "name": "GitHub",
+    "context7_path": "/github/docs"
+  },
+  {
+    "name": "GitHub Codespaces",
+    "context7_path": "/devcontainers/ci"
+  },
+  {
+    "name": "Gleap",
+    "context7_path": "/GleapSDK/JavaScript-SDK"
+  },
+  {
+    "name": "GLTFJSX",
+    "context7_path": "/pmndrs/gltfjsx"
+  },
+  {
+    "name": "gluestack-ui",
+    "context7_path": "/gluestack/gluestack-ui"
+  },
+  {
+    "name": "Go",
+    "context7_path": "/golang/go"
+  },
+  {
+    "name": "Go Shopify",
+    "context7_path": "/bold-commerce/go-shopify"
+  },
+  {
+    "name": "Go-Redis",
+    "context7_path": "/redis/go-redis"
+  },
+  {
+    "name": "Godot Engine",
+    "context7_path": "/godotengine/godot-docs"
+  },
+  {
+    "name": "gomponents",
+    "context7_path": "/maragudk/gomponents"
+  },
+  {
+    "name": "Google AI",
+    "context7_path": "/googleapis/python-genai"
+  },
+  {
+    "name": "Google APIs Node.js Client",
+    "context7_path": "/googleapis/google-api-nodejs-client"
+  },
+  {
+    "name": "Google Cloud Rust",
+    "context7_path": "/googleapis/google-cloud-rust"
+  },
+  {
+    "name": "Google Cloud Rust",
+    "context7_path": "/mozilla-services/google-cloud-rust"
+  },
+  {
+    "name": "Google Gemini",
+    "context7_path": "/google-gemini/generative-ai-js"
+  },
+  {
+    "name": "Google Sign-In for iOS",
+    "context7_path": "/google/GoogleSignIn-iOS"
+  },
+  {
+    "name": "Google Web Toolkit",
+    "context7_path": "/gwtproject/gwt-site"
+  },
+  {
+    "name": "Goravel",
+    "context7_path": "/goravel/goravel"
+  },
+  {
+    "name": "GORM",
+    "context7_path": "/go-gorm/gorm"
+  },
+  {
+    "name": "GPUStack",
+    "context7_path": "/gpustack/gpustack"
+  },
+  {
+    "name": "Gradio",
+    "context7_path": "/gradio-app/gradio"
+  },
+  {
+    "name": "Grafana",
+    "context7_path": "/grafana/grafana"
+  },
+  {
+    "name": "Grafana Alloy",
+    "context7_path": "/grafana/alloy"
+  },
+  {
+    "name": "Grafana LGTM",
+    "context7_path": "/grafana/docker-otel-lgtm"
+  },
+  {
+    "name": "Grafana Mimir",
+    "context7_path": "/grafana/mimir"
+  },
+  {
+    "name": "Graffy",
+    "context7_path": "/usegraffy/graffy"
+  },
+  {
+    "name": "grammY",
+    "context7_path": "/grammyjs/grammY"
+  },
+  {
+    "name": "Graphiti",
+    "context7_path": "/getzep/graphiti"
+  },
+  {
+    "name": "GraphLit",
+    "context7_path": "/graphlit/graphlit-client-typescript"
+  },
+  {
+    "name": "Graphology",
+    "context7_path": "/graphology/graphology"
+  },
+  {
+    "name": "GraphQL",
+    "context7_path": "/graphql/graphql.github.io"
+  },
+  {
+    "name": "GraphQL Yoga",
+    "context7_path": "/graphql-hive/graphql-yoga"
+  },
+  {
+    "name": "Gravity Graph",
+    "context7_path": "/gravity-ui/graph"
+  },
+  {
+    "name": "Greenhouse",
+    "context7_path": "/grnhse/greenhouse-api-docs"
+  },
+  {
+    "name": "GROQ",
+    "context7_path": "/sanity-io/GROQ"
+  },
+  {
+    "name": "gRPC",
+    "context7_path": "/grpc/grpc.io"
+  },
+  {
+    "name": "gRPC for .NET",
+    "context7_path": "/grpc/grpc-dotnet"
+  },
+  {
+    "name": "gRPC-Gateway",
+    "context7_path": "/grpc-ecosystem/grpc-gateway"
+  },
+  {
+    "name": "Grunt",
+    "context7_path": "/gruntjs/grunt-docs"
+  },
+  {
+    "name": "GSAP",
+    "context7_path": "/greensock/GSAP"
+  },
+  {
+    "name": "GSEApy",
+    "context7_path": "/zqfang/GSEApy"
+  },
+  {
+    "name": "GTMAppAuth",
+    "context7_path": "/google/GTMAppAuth.git"
+  },
+  {
+    "name": "Gym",
+    "context7_path": "/openai/gym"
+  },
+  {
+    "name": "H3",
+    "context7_path": "/unjs/h3"
+  },
+  {
+    "name": "Hammerspoon",
+    "context7_path": "/Hammerspoon/Dash-User-Contributions"
+  },
+  {
+    "name": "Hammerspoon",
+    "context7_path": "/Hammerspoon/hammerspoon"
+  },
+  {
+    "name": "Hammerspoon",
+    "context7_path": "/Hammerspoon/hammerspoon.github.io"
+  },
+  {
+    "name": "Handsontable",
+    "context7_path": "/handsontable/handsontable"
+  },
+  {
+    "name": "Hangfire",
+    "context7_path": "/HangfireIO/Hangfire"
+  },
+  {
+    "name": "hapi",
+    "context7_path": "/hapijs/hapi.dev"
+  },
+  {
+    "name": "Harmony",
+    "context7_path": "/pardeike/Harmony"
+  },
+  {
+    "name": "Harness",
+    "context7_path": "/harness/developer-hub"
+  },
+  {
+    "name": "Hasura GraphQL Engine",
+    "context7_path": "/hasura/graphql-engine"
+  },
+  {
+    "name": "Haystack",
+    "context7_path": "/deepset-ai/haystack"
+  },
+  {
+    "name": "HazelGrails",
+    "context7_path": "/enesakar/hazelgrails"
+  },
+  {
+    "name": "Headless UI",
+    "context7_path": "/tailwindlabs/headlessui"
+  },
+  {
+    "name": "Helium",
+    "context7_path": "/mherrmann/helium"
+  },
+  {
+    "name": "Helm",
+    "context7_path": "/helm/helm"
+  },
+  {
+    "name": "Helm",
+    "context7_path": "/helm/helm-www"
+  },
+  {
+    "name": "HeroUI",
+    "context7_path": "/heroui-inc/heroui"
+  },
+  {
+    "name": "Hexo",
+    "context7_path": "/hexojs/site"
+  },
+  {
+    "name": "Hi.Events",
+    "context7_path": "/HiEventsDev/hi.events"
+  },
+  {
+    "name": "Highcharts",
+    "context7_path": "/highcharts/highcharts"
+  },
+  {
+    "name": "Higress",
+    "context7_path": "/alibaba/higress"
+  },
+  {
+    "name": "Hikari",
+    "context7_path": "/hikari-py/hikari"
+  },
+  {
+    "name": "Hikari-arc",
+    "context7_path": "/hypergonial/hikari-arc"
+  },
+  {
+    "name": "Hocuspocus",
+    "context7_path": "/ueberdosis/hocuspocus"
+  },
+  {
+    "name": "Homarr",
+    "context7_path": "/homarr-labs/documentation"
+  },
+  {
+    "name": "Homarr",
+    "context7_path": "/homarr-labs/homarr"
+  },
+  {
+    "name": "Home Assistant",
+    "context7_path": "/home-assistant/home-assistant.io"
+  },
+  {
+    "name": "Home Manager",
+    "context7_path": "/nix-community/home-manager"
+  },
+  {
+    "name": "Hono",
+    "context7_path": "/honojs/middleware"
+  },
+  {
+    "name": "Hono",
+    "context7_path": "/honojs/website"
+  },
+  {
+    "name": "HonoX",
+    "context7_path": "/honojs/honox-website"
+  },
+  {
+    "name": "Hoppscotch",
+    "context7_path": "/hoppscotch/docs"
+  },
+  {
+    "name": "htmx",
+    "context7_path": "/bigskysoftware/htmx"
+  },
+  {
+    "name": "HTTPX",
+    "context7_path": "/encode/httpx"
+  },
+  {
+    "name": "HubSpot",
+    "context7_path": "/HubSpot/HubSpot-public-api-spec-collection"
+  },
+  {
+    "name": "HubSpot API Client Libraries for Node.js",
+    "context7_path": "/HubSpot/hubspot-api-nodejs"
+  },
+  {
+    "name": "Hugo",
+    "context7_path": "/gohugoio/hugoDocs"
+  },
+  {
+    "name": "Hummingbot",
+    "context7_path": "/hummingbot/hummingbot"
+  },
+  {
+    "name": "Hydra",
+    "context7_path": "/facebookresearch/hydra"
+  },
+  {
+    "name": "Hydra-Zen",
+    "context7_path": "/mit-ll-responsible-ai/hydra-zen"
+  },
+  {
+    "name": "Hydrogen",
+    "context7_path": "/Shopify/hydrogen"
+  },
+  {
+    "name": "Hyperswitch",
+    "context7_path": "/juspay/hyperswitch"
+  },
+  {
+    "name": "Ibis",
+    "context7_path": "/ibis-project/ibis"
+  },
+  {
+    "name": "Ice.js",
+    "context7_path": "/alibaba/ice"
+  },
+  {
+    "name": "icestark",
+    "context7_path": "/ice-lab/icestark"
+  },
+  {
+    "name": "Imitation Learning",
+    "context7_path": "/HumanCompatibleAI/imitation"
+  },
+  {
+    "name": "Incus",
+    "context7_path": "/lxc/incus"
+  },
+  {
+    "name": "Index Supply",
+    "context7_path": "/indexsupply/indexsupply.com"
+  },
+  {
+    "name": "IndexedDB",
+    "context7_path": "/jakearchibald/idb"
+  },
+  {
+    "name": "Inertia.js",
+    "context7_path": "/inertiajs/inertia"
+  },
+  {
+    "name": "infinity",
+    "context7_path": "/michaelfeil/infinity"
+  },
+  {
+    "name": "InfluxDB",
+    "context7_path": "/influxdata/influxdb"
+  },
+  {
+    "name": "Ink UI",
+    "context7_path": "/vadimdemedes/ink-ui"
+  },
+  {
+    "name": "Inngest",
+    "context7_path": "/inngest/website"
+  },
+  {
+    "name": "Input OTP",
+    "context7_path": "/guilhermerodz/input-otp"
+  },
+  {
+    "name": "Instagram Private API",
+    "context7_path": "/dilame/instagram-private-api"
+  },
+  {
+    "name": "Instagrapi",
+    "context7_path": "/subzeroid/instagrapi"
+  },
+  {
+    "name": "InstantDB",
+    "context7_path": "/instantdb/instant"
+  },
+  {
+    "name": "InstantSearch",
+    "context7_path": "/algolia/instantsearch"
+  },
+  {
+    "name": "Instructor",
+    "context7_path": "/instructor-ai/instructor"
+  },
+  {
+    "name": "Instructor JS",
+    "context7_path": "/instructor-ai/instructor-js"
+  },
+  {
+    "name": "IntelliJ Platform SDK",
+    "context7_path": "/JetBrains/intellij-sdk-docs"
+  },
+  {
+    "name": "Intent UI",
+    "context7_path": "/irsyadadl/intentui"
+  },
+  {
+    "name": "InterchainJS",
+    "context7_path": "/hyperweb-io/interchainjs"
+  },
+  {
+    "name": "io_uring",
+    "context7_path": "/axboe/liburing"
+  },
+  {
+    "name": "Ionic Framework",
+    "context7_path": "/ionic-team/ionic-framework"
+  },
+  {
+    "name": "ioredis",
+    "context7_path": "/redis/ioredis"
+  },
+  {
+    "name": "ipywidgets",
+    "context7_path": "/jupyter-widgets/ipywidgets"
+  },
+  {
+    "name": "Istio",
+    "context7_path": "/istio/istio.io"
+  },
+  {
+    "name": "Jakarta EE",
+    "context7_path": "/eclipse-ee4j/jakartaee-tutorial"
+  },
+  {
+    "name": "Jasmine",
+    "context7_path": "/jasmine/jasmine.github.io"
+  },
+  {
+    "name": "JavaGuide",
+    "context7_path": "/Snailclimb/JavaGuide"
+  },
+  {
+    "name": "Javalin",
+    "context7_path": "/javalin/website"
+  },
+  {
+    "name": "JAX",
+    "context7_path": "/jax-ml/jax"
+  },
+  {
+    "name": "Jazz.tools",
+    "context7_path": "/garden-co/jazz"
+  },
+  {
+    "name": "Jenkins",
+    "context7_path": "/jenkinsci/jenkins"
+  },
+  {
+    "name": "Jest",
+    "context7_path": "/jestjs/jest"
+  },
+  {
+    "name": "Jina Reader",
+    "context7_path": "/jina-ai/reader"
+  },
+  {
+    "name": "Jinni",
+    "context7_path": "/smat-dev/jinni"
+  },
+  {
+    "name": "Jitsi Meet",
+    "context7_path": "/jitsi/jitsi-meet"
+  },
+  {
+    "name": "Jitsi Videobridge",
+    "context7_path": "/jitsi/jitsi-videobridge"
+  },
+  {
+    "name": "jj",
+    "context7_path": "/jj-vcs/jj"
+  },
+  {
+    "name": "Jotai",
+    "context7_path": "/pmndrs/jotai"
+  },
+  {
+    "name": "jq",
+    "context7_path": "/jqlang/jq"
+  },
+  {
+    "name": "jql",
+    "context7_path": "/yamafaktory/jql"
+  },
+  {
+    "name": "jQuery",
+    "context7_path": "/jquery/jquery"
+  },
+  {
+    "name": "Json.NET",
+    "context7_path": "/JamesNK/Newtonsoft.Json"
+  },
+  {
+    "name": "JStack",
+    "context7_path": "/upstash/jstack"
+  },
+  {
+    "name": "Jupiter",
+    "context7_path": "/jup-ag/docs"
+  },
+  {
+    "name": "k6",
+    "context7_path": "/grafana/k6-docs"
+  },
+  {
+    "name": "kafka-go",
+    "context7_path": "/segmentio/kafka-go"
+  },
+  {
+    "name": "kafka-python",
+    "context7_path": "/dpkp/kafka-python"
+  },
+  {
+    "name": "KafkaJS",
+    "context7_path": "/tulios/kafkajs"
+  },
+  {
+    "name": "Karpenter",
+    "context7_path": "/aws/karpenter-provider-aws"
+  },
+  {
+    "name": "Karrio",
+    "context7_path": "/karrioapi/karrio"
+  },
+  {
+    "name": "kbar",
+    "context7_path": "/timc1/kbar"
+  },
+  {
+    "name": "Kent C. Dodds",
+    "context7_path": "/kentcdodds/kentcdodds.com"
+  },
+  {
+    "name": "Keras",
+    "context7_path": "/keras-team/keras-io"
+  },
+  {
+    "name": "Kestra",
+    "context7_path": "/kestra-io/kestra"
+  },
+  {
+    "name": "Keycloak",
+    "context7_path": "/keycloak/keycloak"
+  },
+  {
+    "name": "KeystoneJS",
+    "context7_path": "/keystonejs/keystone"
+  },
+  {
+    "name": "KIE",
+    "context7_path": "/kiegroup/kie-docs"
+  },
+  {
+    "name": "Kirby",
+    "context7_path": "/getkirby/getkirby.com"
+  },
+  {
+    "name": "KitOps",
+    "context7_path": "/kitops-ml/kitops.git"
+  },
+  {
+    "name": "Knowledge Augmented Generation",
+    "context7_path": "/OpenSPG/KAG"
+  },
+  {
+    "name": "Kombu",
+    "context7_path": "/celery/kombu"
+  },
+  {
+    "name": "Konsta UI",
+    "context7_path": "/konstaui/konsta"
+  },
+  {
+    "name": "Konva",
+    "context7_path": "/konvajs/site"
+  },
+  {
+    "name": "Koota",
+    "context7_path": "/pmndrs/koota"
+  },
+  {
+    "name": "Kotest",
+    "context7_path": "/kotest/kotest"
+  },
+  {
+    "name": "Kotlin",
+    "context7_path": "/JetBrains/kotlin-web-site"
+  },
+  {
+    "name": "Ktor",
+    "context7_path": "/ktorio/ktor-documentation"
+  },
+  {
+    "name": "Kube-OVN",
+    "context7_path": "/kubeovn/docs"
+  },
+  {
+    "name": "Kube-OVN",
+    "context7_path": "/kubeovn/kube-ovn"
+  },
+  {
+    "name": "Kubeflow",
+    "context7_path": "/kubeflow/website"
+  },
+  {
+    "name": "Kubernetes",
+    "context7_path": "/kubernetes/website"
+  },
+  {
+    "name": "Kùzu",
+    "context7_path": "/kuzudb/kuzu"
+  },
+  {
+    "name": "Kysely",
+    "context7_path": "/kysely-org/kysely"
+  },
+  {
+    "name": "Kysely D1",
+    "context7_path": "/aidenwallis/kysely-d1"
+  },
+  {
+    "name": "Lago",
+    "context7_path": "/getlago/lago"
+  },
+  {
+    "name": "LangChain",
+    "context7_path": "/langchain-ai/langchain"
+  },
+  {
+    "name": "LangChain",
+    "context7_path": "/langchain-ai/langchain-mcp-adapters"
+  },
+  {
+    "name": "LangChain.js",
+    "context7_path": "/langchain-ai/langchainjs"
+  },
+  {
+    "name": "LangFlow",
+    "context7_path": "/langflow-ai/langflow"
+  },
+  {
+    "name": "Langfuse",
+    "context7_path": "/langfuse/langfuse"
+  },
+  {
+    "name": "Langfuse",
+    "context7_path": "/langfuse/langfuse-python"
+  },
+  {
+    "name": "LangGraph",
+    "context7_path": "/langchain-ai/langgraph"
+  },
+  {
+    "name": "LangGraph",
+    "context7_path": "/langchain-ai/langgraph-swarm-py"
+  },
+  {
+    "name": "LangGraph Supervisor",
+    "context7_path": "/langchain-ai/langgraph-supervisor-py"
+  },
+  {
+    "name": "LangSmith",
+    "context7_path": "/langchain-ai/langsmith-sdk"
+  },
+  {
+    "name": "Laravel",
+    "context7_path": "/laravel/docs"
+  },
+  {
+    "name": "Laravel Activity Log",
+    "context7_path": "/spatie/laravel-activitylog"
+  },
+  {
+    "name": "Laravel Analytics",
+    "context7_path": "/spatie/laravel-analytics"
+  },
+  {
+    "name": "Laravel Backup",
+    "context7_path": "/spatie/laravel-backup"
+  },
+  {
+    "name": "Laravel Data",
+    "context7_path": "/spatie/laravel-data"
+  },
+  {
+    "name": "Laravel LinkedIn",
+    "context7_path": "/artesaos/laravel-linkedin"
+  },
+  {
+    "name": "Laravel Media Library",
+    "context7_path": "/spatie/laravel-medialibrary"
+  },
+  {
+    "name": "Laravel Permission",
+    "context7_path": "/spatie/laravel-permission"
+  },
+  {
+    "name": "Laravel Wayfinder",
+    "context7_path": "/laravel/wayfinder"
+  },
+  {
+    "name": "Leaflet",
+    "context7_path": "/Leaflet/Leaflet"
+  },
+  {
+    "name": "Legend",
+    "context7_path": "/LegendApp/legend-docs"
+  },
+  {
+    "name": "Legend",
+    "context7_path": "/legendapp/legend-docs"
+  },
+  {
+    "name": "Legend State",
+    "context7_path": "/LegendApp/legend-state"
+  },
+  {
+    "name": "Lemon Squeezy JS",
+    "context7_path": "/lmsqueezy/lemonsqueezy.js"
+  },
+  {
+    "name": "Leptos",
+    "context7_path": "/leptos-rs/leptos"
+  },
+  {
+    "name": "Let's Encrypt",
+    "context7_path": "/letsencrypt/website"
+  },
+  {
+    "name": "Leva",
+    "context7_path": "/pmndrs/leva"
+  },
+  {
+    "name": "Lexical",
+    "context7_path": "/facebook/lexical"
+  },
+  {
+    "name": "libSQL",
+    "context7_path": "/tursodatabase/libsql"
+  },
+  {
+    "name": "LightRAG",
+    "context7_path": "/HKUDS/LightRAG"
+  },
+  {
+    "name": "Lightweight Charts",
+    "context7_path": "/tradingview/lightweight-charts"
+  },
+  {
+    "name": "Linear MCP",
+    "context7_path": "/cline/linear-mcp"
+  },
+  {
+    "name": "Linear MCP",
+    "context7_path": "/ibraheem4/linear-mcp"
+  },
+  {
+    "name": "Lingui",
+    "context7_path": "/lingui/js-lingui"
+  },
+  {
+    "name": "LinkML",
+    "context7_path": "/linkml/linkml"
+  },
+  {
+    "name": "LinkPreviewSwift",
+    "context7_path": "/harlanhaskins/LinkPreviewSwift"
+  },
+  {
+    "name": "Liquid",
+    "context7_path": "/Shopify/liquid"
+  },
+  {
+    "name": "Lit",
+    "context7_path": "/lit/lit.dev"
+  },
+  {
+    "name": "Lit Protocol",
+    "context7_path": "/lit-protocol/docs"
+  },
+  {
+    "name": "LitElement",
+    "context7_path": "/lit/lit-element"
+  },
+  {
+    "name": "LiteLLM",
+    "context7_path": "/BerriAI/litellm"
+  },
+  {
+    "name": "Litestar",
+    "context7_path": "/litestar-org/litestar"
+  },
+  {
+    "name": "Liveblocks",
+    "context7_path": "/liveblocks/liveblocks"
+  },
+  {
+    "name": "LiveCodes",
+    "context7_path": "/live-codes/livecodes"
+  },
+  {
+    "name": "LiveKit",
+    "context7_path": "/livekit/livekit"
+  },
+  {
+    "name": "LiveView Native",
+    "context7_path": "/liveview-native/live_view_native"
+  },
+  {
+    "name": "LiveView Native",
+    "context7_path": "/liveview-native/liveview-client-swiftui"
+  },
+  {
+    "name": "Livewire",
+    "context7_path": "/livewire/livewire"
+  },
+  {
+    "name": "Llama",
+    "context7_path": "/meta-llama/llama-cookbook"
+  },
+  {
+    "name": "Llama Models",
+    "context7_path": "/meta-llama/llama-models"
+  },
+  {
+    "name": "LlamaIndex",
+    "context7_path": "/run-llama/llama_index"
+  },
+  {
+    "name": "LlamaIndex.TS",
+    "context7_path": "/run-llama/LlamaIndexTS.git"
+  },
+  {
+    "name": "LND",
+    "context7_path": "/lightningnetwork/lnd"
+  },
+  {
+    "name": "LobeChat",
+    "context7_path": "/lobehub/lobe-chat"
+  },
+  {
+    "name": "Lodash",
+    "context7_path": "/lodash/lodash"
+  },
+  {
+    "name": "Logtalk",
+    "context7_path": "/LogtalkDotOrg/logtalk3"
+  },
+  {
+    "name": "Loguru",
+    "context7_path": "/Delgan/loguru"
+  },
+  {
+    "name": "Loki",
+    "context7_path": "/grafana/loki"
+  },
+  {
+    "name": "LoopBack",
+    "context7_path": "/loopbackio/loopback.io"
+  },
+  {
+    "name": "Lotus",
+    "context7_path": "/lotus-data/lotus"
+  },
+  {
+    "name": "LowCodeEngine",
+    "context7_path": "/alibaba/lowcode-engine"
+  },
+  {
+    "name": "Lucid ORM",
+    "context7_path": "/adonisjs/lucid"
+  },
+  {
+    "name": "Lucide",
+    "context7_path": "/lucide-icons/lucide"
+  },
+  {
+    "name": "lxml",
+    "context7_path": "/lxml/lxml"
+  },
+  {
+    "name": "Lynx",
+    "context7_path": "/lynx-family/lynx"
+  },
+  {
+    "name": "Lynx",
+    "context7_path": "/lynx-family/lynx-examples"
+  },
+  {
+    "name": "Lynx",
+    "context7_path": "/lynx-family/lynx-website"
+  },
+  {
+    "name": "Lynx Stack",
+    "context7_path": "/lynx-family/lynx-stack"
+  },
+  {
+    "name": "Maath",
+    "context7_path": "/pmndrs/maath"
+  },
+  {
+    "name": "Maestro",
+    "context7_path": "/mobile-dev-inc/maestro"
+  },
+  {
+    "name": "Mafs",
+    "context7_path": "/stevenpetryk/mafs"
+  },
+  {
+    "name": "Magento 2",
+    "context7_path": "/magento/magento2"
+  },
+  {
+    "name": "MagicUI",
+    "context7_path": "/magicuidesign/magicui"
+  },
+  {
+    "name": "Make",
+    "context7_path": "/integromat/make-typescript-sdk"
+  },
+  {
+    "name": "Managed Content Process",
+    "context7_path": "/pinecone-io/assistant-mcp"
+  },
+  {
+    "name": "Mantine",
+    "context7_path": "/mantinedev/mantine"
+  },
+  {
+    "name": "Mapbox GL JS",
+    "context7_path": "/mapbox/mapbox-gl-js"
+  },
+  {
+    "name": "Mapbox Maps SDK for iOS",
+    "context7_path": "/mapbox/mapbox-maps-ios.git"
+  },
+  {
+    "name": "Mapbox Maps SDK for React Native",
+    "context7_path": "/rnmapbox/maps"
+  },
+  {
+    "name": "Mapperly",
+    "context7_path": "/riok/mapperly"
+  },
+  {
+    "name": "Marimo",
+    "context7_path": "/marimo-team/marimo"
+  },
+  {
+    "name": "Markdownify",
+    "context7_path": "/matthewwithanm/python-markdownify"
+  },
+  {
+    "name": "marker",
+    "context7_path": "/VikParuchuri/marker"
+  },
+  {
+    "name": "MarkItDown",
+    "context7_path": "/microsoft/markitdown"
+  },
+  {
+    "name": "Marp",
+    "context7_path": "/marp-team/marp-cli"
+  },
+  {
+    "name": "Mary UI",
+    "context7_path": "/robsontenorio/mary"
+  },
+  {
+    "name": "Mastra",
+    "context7_path": "/mastra-ai/mastra"
+  },
+  {
+    "name": "Matplotlib",
+    "context7_path": "/matplotlib/matplotlib"
+  },
+  {
+    "name": "Matrix JavaScript SDK",
+    "context7_path": "/matrix-org/matrix-js-sdk"
+  },
+  {
+    "name": "Mautic",
+    "context7_path": "/mautic/mautic"
+  },
+  {
+    "name": "MCP",
+    "context7_path": "/sooperset/mcp-atlassian"
+  },
+  {
+    "name": "MCP Agent",
+    "context7_path": "/lastmile-ai/mcp-agent"
+  },
+  {
+    "name": "MCP Client Chatbot",
+    "context7_path": "/cgoinglove/mcp-client-chatbot"
+  },
+  {
+    "name": "MCP Profiler Bundle",
+    "context7_path": "/killerwolf/mcp-profiler-bundle"
+  },
+  {
+    "name": "MDX Editor",
+    "context7_path": "/mdx-editor/editor"
+  },
+  {
+    "name": "Mediator",
+    "context7_path": "/martinothamar/Mediator"
+  },
+  {
+    "name": "MediatR",
+    "context7_path": "/jbogard/MediatR"
+  },
+  {
+    "name": "Medoo",
+    "context7_path": "/catfan/Medoo"
+  },
+  {
+    "name": "Medusa",
+    "context7_path": "/medusajs/medusa"
+  },
+  {
+    "name": "Meilisearch",
+    "context7_path": "/meilisearch/documentation"
+  },
+  {
+    "name": "Melos",
+    "context7_path": "/invertase/melos"
+  },
+  {
+    "name": "mem0",
+    "context7_path": "/mem0ai/mem0"
+  },
+  {
+    "name": "Mermaid",
+    "context7_path": "/mermaid-js/mermaid"
+  },
+  {
+    "name": "Metabase",
+    "context7_path": "/metabase/metabase"
+  },
+  {
+    "name": "MetaGPT",
+    "context7_path": "/geekan/MetaGPT"
+  },
+  {
+    "name": "Metaplex",
+    "context7_path": "/metaplex-foundation/developer-hub"
+  },
+  {
+    "name": "Meteor",
+    "context7_path": "/meteor/docs"
+  },
+  {
+    "name": "Micrometer",
+    "context7_path": "/micrometer-metrics/micrometer-docs"
+  },
+  {
+    "name": "Micronaut",
+    "context7_path": "/micronaut-projects/micronaut-docs"
+  },
+  {
+    "name": "Microsoft Authentication Library for JS",
+    "context7_path": "/azuread/microsoft-authentication-library-for-js"
+  },
+  {
+    "name": "Microsoft Component Playwright",
+    "context7_path": "/microsoft/playwright-mcp"
+  },
+  {
+    "name": "Microsoft Graph JavaScript SDK",
+    "context7_path": "/microsoftgraph/msgraph-sdk-javascript"
+  },
+  {
+    "name": "Microsoft Graph SDK for Python",
+    "context7_path": "/microsoftgraph/msgraph-sdk-python"
+  },
+  {
+    "name": "Microsoft Orleans",
+    "context7_path": "/dotnet/orleans"
+  },
+  {
+    "name": "midPoint",
+    "context7_path": "/Evolveum/docs"
+  },
+  {
+    "name": "midPoint",
+    "context7_path": "/Evolveum/midpoint"
+  },
+  {
+    "name": "MikroORM",
+    "context7_path": "/mikro-orm/mikro-orm"
+  },
+  {
+    "name": "Milvus",
+    "context7_path": "/milvus-io/milvus"
+  },
+  {
+    "name": "Minecraft Bedrock",
+    "context7_path": "/mojang/bedrock-samples"
+  },
+  {
+    "name": "Minecraft Forge",
+    "context7_path": "/MinecraftForge/Documentation"
+  },
+  {
+    "name": "MinerU",
+    "context7_path": "/opendatalab/MinerU"
+  },
+  {
+    "name": "Minikube",
+    "context7_path": "/kubernetes/minikube"
+  },
+  {
+    "name": "MinIO",
+    "context7_path": "/minio/minio"
+  },
+  {
+    "name": "Miniplex",
+    "context7_path": "/hmans/miniplex"
+  },
+  {
+    "name": "Mirror",
+    "context7_path": "/MirrorNetworking/Mirror"
+  },
+  {
+    "name": "mise",
+    "context7_path": "/jdx/mise"
+  },
+  {
+    "name": "Mistral AI",
+    "context7_path": "/mistralai/client-python"
+  },
+  {
+    "name": "MLflow",
+    "context7_path": "/mlflow/mlflow"
+  },
+  {
+    "name": "MLX",
+    "context7_path": "/ml-explore/mlx"
+  },
+  {
+    "name": "Moby",
+    "context7_path": "/moby/moby"
+  },
+  {
+    "name": "Modal",
+    "context7_path": "/modal-labs/modal-client"
+  },
+  {
+    "name": "Model Context Protocol",
+    "context7_path": "/modelcontextprotocol/modelcontextprotocol"
+  },
+  {
+    "name": "ModSecurity",
+    "context7_path": "/owasp-modsecurity/ModSecurity"
+  },
+  {
+    "name": "Modular MAX",
+    "context7_path": "/modular/max"
+  },
+  {
+    "name": "Module Federation",
+    "context7_path": "/module-federation/core"
+  },
+  {
+    "name": "MODX",
+    "context7_path": "/modxorg/Docs"
+  },
+  {
+    "name": "Moment.js",
+    "context7_path": "/moment/momentjs.com"
+  },
+  {
+    "name": "Monaco React",
+    "context7_path": "/suren-atoyan/monaco-react"
+  },
+  {
+    "name": "MongoDB",
+    "context7_path": "/mongodb/docs"
+  },
+  {
+    "name": "MongoDB C# Driver",
+    "context7_path": "/mongodb/mongo-csharp-driver"
+  },
+  {
+    "name": "Mongoose",
+    "context7_path": "/Automattic/mongoose"
+  },
+  {
+    "name": "Mono Fuel",
+    "context7_path": "/calldelegation/mono-fuel-docs"
+  },
+  {
+    "name": "Moq",
+    "context7_path": "/devlooped/moq"
+  },
+  {
+    "name": "Morphdom",
+    "context7_path": "/patrick-steele-idem/morphdom"
+  },
+  {
+    "name": "Mosaic",
+    "context7_path": "/uwdata/mosaic"
+  },
+  {
+    "name": "Moti",
+    "context7_path": "/nandorojo/moti"
+  },
+  {
+    "name": "Motia",
+    "context7_path": "/MotiaDev/motia"
+  },
+  {
+    "name": "Motion",
+    "context7_path": "/motiondivision/motion"
+  },
+  {
+    "name": "Motion Canvas",
+    "context7_path": "/motion-canvas/motion-canvas"
+  },
+  {
+    "name": "Motor",
+    "context7_path": "/mongodb/motor"
+  },
+  {
+    "name": "MoviePy",
+    "context7_path": "/zulko/moviepy"
+  },
+  {
+    "name": "mpv",
+    "context7_path": "/mpv-player/mpv"
+  },
+  {
+    "name": "mrpro",
+    "context7_path": "/PTB-MR/mrpro"
+  },
+  {
+    "name": "MSBuild",
+    "context7_path": "/dotnet/msbuild"
+  },
+  {
+    "name": "msgspec",
+    "context7_path": "/jcrist/msgspec"
+  },
+  {
+    "name": "MudBlazor",
+    "context7_path": "/MudBlazor/MudBlazor"
+  },
+  {
+    "name": "MUI",
+    "context7_path": "/mui/material-ui"
+  },
+  {
+    "name": "MUI Base",
+    "context7_path": "/mui/base-ui"
+  },
+  {
+    "name": "Multichain Protocol",
+    "context7_path": "/mark3labs/mcp-go"
+  },
+  {
+    "name": "n8n",
+    "context7_path": "/n8n-io/n8n-docs"
+  },
+  {
+    "name": "nanobind",
+    "context7_path": "/wjakob/nanobind"
+  },
+  {
+    "name": "NativeScript",
+    "context7_path": "/NativeScript/docs"
+  },
+  {
+    "name": "NativeWind",
+    "context7_path": "/nativewind/nativewind"
+  },
+  {
+    "name": "NautilusTrader",
+    "context7_path": "/nautechsystems/nautilus_trader"
+  },
+  {
+    "name": "Neo4j",
+    "context7_path": "/neo4j/neo4j-documentation"
+  },
+  {
+    "name": "Neon",
+    "context7_path": "/neondatabase/website"
+  },
+  {
+    "name": "NestJS",
+    "context7_path": "/nestjs/docs.nestjs.com"
+  },
+  {
+    "name": "NetBird",
+    "context7_path": "/netbirdio/netbird"
+  },
+  {
+    "name": "NetBox",
+    "context7_path": "/netbox-community/netbox"
+  },
+  {
+    "name": "Nette",
+    "context7_path": "/nette/docs"
+  },
+  {
+    "name": "neverthrow",
+    "context7_path": "/supermacro/neverthrow"
+  },
+  {
+    "name": "Newman",
+    "context7_path": "/postmanlabs/newman"
+  },
+  {
+    "name": "Next Forge",
+    "context7_path": "/haydenbleasel/next-forge"
+  },
+  {
+    "name": "Next PWA",
+    "context7_path": "/shadowwalker/next-pwa"
+  },
+  {
+    "name": "Next Safe Action",
+    "context7_path": "/TheEdoRan/next-safe-action"
+  },
+  {
+    "name": "Next Themes",
+    "context7_path": "/pacocoursey/next-themes"
+  },
+  {
+    "name": "next-export-optimize-images",
+    "context7_path": "/dc7290/next-export-optimize-images"
+  },
+  {
+    "name": "next-intl",
+    "context7_path": "/amannn/next-intl"
+  },
+  {
+    "name": "Next.js",
+    "context7_path": "/vercel/next.js"
+  },
+  {
+    "name": "NextAuth.js",
+    "context7_path": "/nextauthjs/next-auth"
+  },
+  {
+    "name": "Nextra",
+    "context7_path": "/shuding/nextra"
+  },
+  {
+    "name": "NGINX Unit",
+    "context7_path": "/nginx/unit"
+  },
+  {
+    "name": "ni",
+    "context7_path": "/antfu-collective/ni"
+  },
+  {
+    "name": "NiceGUI",
+    "context7_path": "/syejing/nicegui-reference-cn"
+  },
+  {
+    "name": "NiceGUI",
+    "context7_path": "/zauberzeug/nicegui"
+  },
+  {
+    "name": "Nightwatch.js",
+    "context7_path": "/nightwatchjs/nightwatch-docs"
+  },
+  {
+    "name": "Nitro (native modules)",
+    "context7_path": "/mrousavy/nitro"
+  },
+  {
+    "name": "Nitro (server toolkit)",
+    "context7_path": "/nitrojs/nitro"
+  },
+  {
+    "name": "Nix",
+    "context7_path": "/nixos/nix.dev"
+  },
+  {
+    "name": "node-rdkafka",
+    "context7_path": "/Blizzard/node-rdkafka"
+  },
+  {
+    "name": "Node-RED",
+    "context7_path": "/node-red/node-red.github.io"
+  },
+  {
+    "name": "Node.js",
+    "context7_path": "/nodejs/nodejs.org"
+  },
+  {
+    "name": "Nostr",
+    "context7_path": "/nostr-protocol/nips"
+  },
+  {
+    "name": "Notivue",
+    "context7_path": "/smastrom/notivue"
+  },
+  {
+    "name": "Novu",
+    "context7_path": "/novuhq/docs"
+  },
+  {
+    "name": "NumPy",
+    "context7_path": "/numpy/numpy.org"
+  },
+  {
+    "name": "NumPyro",
+    "context7_path": "/pyro-ppl/numpyro"
+  },
+  {
+    "name": "NuQS",
+    "context7_path": "/47ng/nuqs"
+  },
+  {
+    "name": "Nuxt",
+    "context7_path": "/nuxt/nuxt"
+  },
+  {
+    "name": "Nuxt Auth",
+    "context7_path": "/sidebase/nuxt-auth"
+  },
+  {
+    "name": "Nuxt Content",
+    "context7_path": "/nuxt/content"
+  },
+  {
+    "name": "Nuxt I18n",
+    "context7_path": "/nuxt-modules/i18n"
+  },
+  {
+    "name": "Nuxt Supabase",
+    "context7_path": "/nuxt-modules/supabase"
+  },
+  {
+    "name": "Nuxt Tailwind CSS",
+    "context7_path": "/nuxt-modules/tailwindcss"
+  },
+  {
+    "name": "Nuxt UI",
+    "context7_path": "/nuxt/ui"
+  },
+  {
+    "name": "Nx",
+    "context7_path": "/nrwl/nx"
+  },
+  {
+    "name": "Oasis Protocol",
+    "context7_path": "/oasisprotocol/docs"
+  },
+  {
+    "name": "Oasis SDK",
+    "context7_path": "/oasisprotocol/oasis-sdk"
+  },
+  {
+    "name": "Oban",
+    "context7_path": "/oban-bg/oban"
+  },
+  {
+    "name": "Oblix",
+    "context7_path": "/oblix-ai/oblix-python"
+  },
+  {
+    "name": "Observable Plot",
+    "context7_path": "/observablehq/plot"
+  },
+  {
+    "name": "Obsidian Vertical Tabs",
+    "context7_path": "/oxdc/obsidian-vertical-tabs"
+  },
+  {
+    "name": "October CMS",
+    "context7_path": "/octobercms/docs"
+  },
+  {
+    "name": "Odoo",
+    "context7_path": "/desarrollosur/odoo17docs"
+  },
+  {
+    "name": "Odoo",
+    "context7_path": "/odoo/documentation"
+  },
+  {
+    "name": "Ollama",
+    "context7_path": "/ollama/ollama"
+  },
+  {
+    "name": "OmniSenseVoice",
+    "context7_path": "/lifeiteng/OmniSenseVoice"
+  },
+  {
+    "name": "OnchainKit",
+    "context7_path": "/coinbase/onchainkit"
+  },
+  {
+    "name": "OneOf",
+    "context7_path": "/mcintyre321/OneOf"
+  },
+  {
+    "name": "OneSignal",
+    "context7_path": "/OneSignal/OneSignal-Website-SDK"
+  },
+  {
+    "name": "OneSignal",
+    "context7_path": "/OneSignal/onesignal-vue3"
+  },
+  {
+    "name": "OneSignal Android SDK",
+    "context7_path": "/OneSignal/OneSignal-Android-SDK"
+  },
+  {
+    "name": "OneSignal Flutter SDK",
+    "context7_path": "/OneSignal/OneSignal-Flutter-SDK"
+  },
+  {
+    "name": "OneSignal iOS SDK",
+    "context7_path": "/OneSignal/OneSignal-iOS-SDK"
+  },
+  {
+    "name": "OneSignal Unity SDK",
+    "context7_path": "/OneSignal/OneSignal-Unity-SDK"
+  },
+  {
+    "name": "OOHTTP",
+    "context7_path": "/ooni/oohttp"
+  },
+  {
+    "name": "Op SQLite",
+    "context7_path": "/OP-Engineering/op-sqlite"
+  },
+  {
+    "name": "OPC",
+    "context7_path": "/unnoq/orpc"
+  },
+  {
+    "name": "Open Liberty",
+    "context7_path": "/OpenLiberty/docs"
+  },
+  {
+    "name": "Open WebUI",
+    "context7_path": "/open-webui/docs"
+  },
+  {
+    "name": "OpenAI Agents",
+    "context7_path": "/openai/openai-agents-python"
+  },
+  {
+    "name": "OpenAI API",
+    "context7_path": "/openai/openai-cookbook"
+  },
+  {
+    "name": "OpenAI Realtime Agents",
+    "context7_path": "/openai/openai-realtime-agents"
+  },
+  {
+    "name": "openapi-typescript",
+    "context7_path": "/openapi-ts/openapi-typescript"
+  },
+  {
+    "name": "OpenAuth",
+    "context7_path": "/toolbeam/openauth"
+  },
+  {
+    "name": "OpenCV",
+    "context7_path": "/opencv/opencv"
+  },
+  {
+    "name": "openHAB",
+    "context7_path": "/openhab/openhab-docs"
+  },
+  {
+    "name": "OpenLiteSpeed",
+    "context7_path": "/litespeedtech/openlitespeed"
+  },
+  {
+    "name": "OpenLiteSpeed Docker Environment",
+    "context7_path": "/litespeedtech/ols-docker-env"
+  },
+  {
+    "name": "OpenManus",
+    "context7_path": "/mannaandpoem/OpenManus"
+  },
+  {
+    "name": "OpenMetadata",
+    "context7_path": "/open-metadata/OpenMetadata"
+  },
+  {
+    "name": "OpenRouter",
+    "context7_path": "/OpenRouterTeam/ai-sdk-provider"
+  },
+  {
+    "name": "OpenRouter",
+    "context7_path": "/OpenRouterTeam/openrouter-examples"
+  },
+  {
+    "name": "OpenRouter",
+    "context7_path": "/OpenRouterTeam/openrouter-examples-python"
+  },
+  {
+    "name": "OpenRouter",
+    "context7_path": "/OpenRouterTeam/openrouter-runner"
+  },
+  {
+    "name": "OpenRouter",
+    "context7_path": "/OpenRouterTeam/tool-calling"
+  },
+  {
+    "name": "OpenSCAD",
+    "context7_path": "/openscad/openscad"
+  },
+  {
+    "name": "OpenSearch",
+    "context7_path": "/opensearch-project/documentation-website"
+  },
+  {
+    "name": "OpenStatus",
+    "context7_path": "/openstatusHQ/openstatus"
+  },
+  {
+    "name": "OpenTelemetry",
+    "context7_path": "/open-telemetry/opentelemetry.io"
+  },
+  {
+    "name": "OpenTelemetry Collector Contrib",
+    "context7_path": "/open-telemetry/opentelemetry-collector-contrib"
+  },
+  {
+    "name": "OpenTelemetry Python",
+    "context7_path": "/open-telemetry/opentelemetry-python"
+  },
+  {
+    "name": "OpenTofu",
+    "context7_path": "/opentofu/opentofu"
+  },
+  {
+    "name": "OpenZeppelin",
+    "context7_path": "/OpenZeppelin/docs.openzeppelin.com"
+  },
+  {
+    "name": "OpenZeppelin Contracts",
+    "context7_path": "/OpenZeppelin/openzeppelin-contracts"
+  },
+  {
+    "name": "OpenZeppelin Defender",
+    "context7_path": "/OpenZeppelin/defender-docs"
+  },
+  {
+    "name": "OpenZeppelin SDK",
+    "context7_path": "/OpenZeppelin/openzeppelin-sdk"
+  },
+  {
+    "name": "OpenZeppelin Starter Kit",
+    "context7_path": "/OpenZeppelin/starter-kit"
+  },
+  {
+    "name": "OpenZeppelin Upgrades",
+    "context7_path": "/OpenZeppelin/openzeppelin-upgrades"
+  },
+  {
+    "name": "Optimum-Quanto",
+    "context7_path": "/huggingface/optimum-quanto"
+  },
+  {
+    "name": "Optuna",
+    "context7_path": "/optuna/optuna"
+  },
+  {
+    "name": "OR-Tools",
+    "context7_path": "/google/or-tools"
+  },
+  {
+    "name": "Orama",
+    "context7_path": "/oramasearch/orama"
+  },
+  {
+    "name": "OrbStack",
+    "context7_path": "/orbstack/orbstack"
+  },
+  {
+    "name": "Ory",
+    "context7_path": "/ory/docs"
+  },
+  {
+    "name": "oslojs/asn1",
+    "context7_path": "/oslo-project/asn1"
+  },
+  {
+    "name": "oslojs/binary",
+    "context7_path": "/oslo-project/binary"
+  },
+  {
+    "name": "oslojs/cbor",
+    "context7_path": "/oslo-project/cbor"
+  },
+  {
+    "name": "oslojs/crypto",
+    "context7_path": "/oslo-project/crypto"
+  },
+  {
+    "name": "oslojs/encoding",
+    "context7_path": "/oslo-project/encoding"
+  },
+  {
+    "name": "oslojs/jwt",
+    "context7_path": "/oslo-project/jwt"
+  },
+  {
+    "name": "oslojs/oauth2",
+    "context7_path": "/oslo-project/oauth2"
+  },
+  {
+    "name": "oslojs/otp",
+    "context7_path": "/oslo-project/otp"
+  },
+  {
+    "name": "oslojs/webauthn",
+    "context7_path": "/oslo-project/webauthn"
+  },
+  {
+    "name": "OSSEC",
+    "context7_path": "/ossec/ossec-hids"
+  },
+  {
+    "name": "OWASP Zed Attack Proxy",
+    "context7_path": "/zaproxy/zaproxy-website"
+  },
+  {
+    "name": "OWL",
+    "context7_path": "/camel-ai/owl"
+  },
+  {
+    "name": "ox_lib",
+    "context7_path": "/overextended/overextended.github.io"
+  },
+  {
+    "name": "p2.js",
+    "context7_path": "/schteppe/p2.js"
+  },
+  {
+    "name": "p5.js",
+    "context7_path": "/processing/p5.js"
+  },
+  {
+    "name": "pandas",
+    "context7_path": "/pandas-dev/pandas"
+  },
+  {
+    "name": "Pandas TA",
+    "context7_path": "/twopirllc/pandas-ta"
+  },
+  {
+    "name": "PandasAI",
+    "context7_path": "/sinaptik-ai/pandas-ai"
+  },
+  {
+    "name": "Paper",
+    "context7_path": "/PaperMC/docs"
+  },
+  {
+    "name": "Paradigm Data Portal",
+    "context7_path": "/paradigmxyz/paradigm-data-portal"
+  },
+  {
+    "name": "Parcel",
+    "context7_path": "/parcel-bundler/website"
+  },
+  {
+    "name": "Partyserver",
+    "context7_path": "/threepointone/partyserver"
+  },
+  {
+    "name": "Pastel",
+    "context7_path": "/piotrmurach/pastel"
+  },
+  {
+    "name": "Payload",
+    "context7_path": "/payloadcms/payload"
+  },
+  {
+    "name": "pdf-lib",
+    "context7_path": "/Hopding/pdf-lib"
+  },
+  {
+    "name": "Permify",
+    "context7_path": "/Permify/permify"
+  },
+  {
+    "name": "Permit.io",
+    "context7_path": "/permitio/docs"
+  },
+  {
+    "name": "Perseus",
+    "context7_path": "/Khan/perseus"
+  },
+  {
+    "name": "PGlite",
+    "context7_path": "/electric-sql/pglite"
+  },
+  {
+    "name": "pgvector",
+    "context7_path": "/pgvector/pgvector-python"
+  },
+  {
+    "name": "Pgvector Elixir",
+    "context7_path": "/pgvector/pgvector-elixir"
+  },
+  {
+    "name": "Phaser",
+    "context7_path": "/bO-05/phaser-docs"
+  },
+  {
+    "name": "Phaser",
+    "context7_path": "/phaserjs/examples"
+  },
+  {
+    "name": "Phaser",
+    "context7_path": "/phaserjs/phaser"
+  },
+  {
+    "name": "Phlexy",
+    "context7_path": "/PhlexyUI/phlexy_ui"
+  },
+  {
+    "name": "Phoenix",
+    "context7_path": "/phoenixframework/phoenix"
+  },
+  {
+    "name": "Phoenix LiveView",
+    "context7_path": "/phoenixframework/phoenix_live_view"
+  },
+  {
+    "name": "Phoenix Tailwind",
+    "context7_path": "/phoenixframework/tailwind"
+  },
+  {
+    "name": "Pimcore",
+    "context7_path": "/pimcore/pimcore"
+  },
+  {
+    "name": "Pine Script",
+    "context7_path": "/ArunKBhaskar/PineScript"
+  },
+  {
+    "name": "Pinia",
+    "context7_path": "/vuejs/pinia"
+  },
+  {
+    "name": "PipeCat",
+    "context7_path": "/pipecat-ai/pipecat"
+  },
+  {
+    "name": "PipeCD",
+    "context7_path": "/pipe-cd/pipecd"
+  },
+  {
+    "name": "Pixeltable",
+    "context7_path": "/pixeltable/pixeltable"
+  },
+  {
+    "name": "PixiJS",
+    "context7_path": "/pixijs/pixijs.com"
+  },
+  {
+    "name": "PixiJS React",
+    "context7_path": "/pixijs/pixi-react"
+  },
+  {
+    "name": "Plaid",
+    "context7_path": "/plaid/quickstart"
+  },
+  {
+    "name": "Plaid Link iOS",
+    "context7_path": "/plaid/plaid-link-ios-spm"
+  },
+  {
+    "name": "Plaid Link iOS SDK",
+    "context7_path": "/plaid/plaid-link-ios"
+  },
+  {
+    "name": "PlanetScale",
+    "context7_path": "/planetscale/database-js"
+  },
+  {
+    "name": "Plasmo",
+    "context7_path": "/PlasmoHQ/docs"
+  },
+  {
+    "name": "Plasmo",
+    "context7_path": "/PlasmoHQ/plasmo"
+  },
+  {
+    "name": "Plate",
+    "context7_path": "/udecode/plate"
+  },
+  {
+    "name": "PlatformIO",
+    "context7_path": "/platformio/platformio-docs"
+  },
+  {
+    "name": "Plausible Analytics",
+    "context7_path": "/plausible/analytics"
+  },
+  {
+    "name": "Play Framework",
+    "context7_path": "/playframework/playframework.com"
+  },
+  {
+    "name": "Playwright",
+    "context7_path": "/microsoft/playwright"
+  },
+  {
+    "name": "Playwright",
+    "context7_path": "/microsoft/playwright-python"
+  },
+  {
+    "name": "Plebbit",
+    "context7_path": "/plebbit/plebbit-js"
+  },
+  {
+    "name": "Plebbit React Hooks",
+    "context7_path": "/plebbit/plebbit-react-hooks"
+  },
+  {
+    "name": "Plotly",
+    "context7_path": "/plotly/graphing-library-docs"
+  },
+  {
+    "name": "pnpm",
+    "context7_path": "/pnpm/pnpm"
+  },
+  {
+    "name": "Pocket Flow Framework",
+    "context7_path": "/The-Pocket-World/Pocket-Flow-Framework"
+  },
+  {
+    "name": "PocketBase",
+    "context7_path": "/pocketbase/site"
+  },
+  {
+    "name": "Podcast Index",
+    "context7_path": "/Podcastindex-org/docs-api"
+  },
+  {
+    "name": "Podcast Namespace",
+    "context7_path": "/Podcastindex-org/podcast-namespace"
+  },
+  {
+    "name": "Poetry",
+    "context7_path": "/python-poetry/website"
+  },
+  {
+    "name": "Polar",
+    "context7_path": "/polarsource/polar"
+  },
+  {
+    "name": "Polars",
+    "context7_path": "/pola-rs/polars"
+  },
+  {
+    "name": "Portainer",
+    "context7_path": "/portainer/portainer-docs"
+  },
+  {
+    "name": "PostgreSQL",
+    "context7_path": "/postgres/postgres"
+  },
+  {
+    "name": "PostHog",
+    "context7_path": "/PostHog/posthog-js"
+  },
+  {
+    "name": "Postiz",
+    "context7_path": "/gitroomhq/postiz-docs"
+  },
+  {
+    "name": "Postman Collection",
+    "context7_path": "/postmanlabs/postman-collection"
+  },
+  {
+    "name": "PowerShell",
+    "context7_path": "/MicrosoftDocs/PowerShell-Docs"
+  },
+  {
+    "name": "PowerShell Universal",
+    "context7_path": "/ironmansoftware/universal-docs"
+  },
+  {
+    "name": "PowerToys",
+    "context7_path": "/microsoft/PowerToys"
+  },
+  {
+    "name": "Pragmatic Drag and Drop",
+    "context7_path": "/atlassian/pragmatic-drag-and-drop"
+  },
+  {
+    "name": "PRAW",
+    "context7_path": "/praw-dev/praw"
+  },
+  {
+    "name": "Preact",
+    "context7_path": "/preactjs/preact-www"
+  },
+  {
+    "name": "Prefect",
+    "context7_path": "/PrefectHQ/docs"
+  },
+  {
+    "name": "Prefect",
+    "context7_path": "/prefecthq/prefect"
+  },
+  {
+    "name": "Preline UI",
+    "context7_path": "/htmlstreamofficial/preline"
+  },
+  {
+    "name": "Presto",
+    "context7_path": "/prestodb/prestodb.github.io"
+  },
+  {
+    "name": "Prettier",
+    "context7_path": "/prettier/prettier"
+  },
+  {
+    "name": "PrimeNG",
+    "context7_path": "/primefaces/primeng"
+  },
+  {
+    "name": "Primer Brand",
+    "context7_path": "/primer/brand"
+  },
+  {
+    "name": "PrimeReact",
+    "context7_path": "/primefaces/primereact"
+  },
+  {
+    "name": "PrimeVue",
+    "context7_path": "/primefaces/primevue"
+  },
+  {
+    "name": "Printify SDK JS",
+    "context7_path": "/spencerlepine/printify-sdk-js"
+  },
+  {
+    "name": "Prisma",
+    "context7_path": "/prisma/docs"
+  },
+  {
+    "name": "Processing",
+    "context7_path": "/processing/processing-docs"
+  },
+  {
+    "name": "Project \"Piper\"",
+    "context7_path": "/SAP/jenkins-library"
+  },
+  {
+    "name": "Project Piper",
+    "context7_path": "/SAP/project-piper-action"
+  },
+  {
+    "name": "ProjectDiscovery",
+    "context7_path": "/projectdiscovery/docs"
+  },
+  {
+    "name": "Prometheus",
+    "context7_path": "/prometheus/docs"
+  },
+  {
+    "name": "Prometheus",
+    "context7_path": "/prometheus/prometheus"
+  },
+  {
+    "name": "Prompt Engineering Guide",
+    "context7_path": "/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "name": "Prompt Kit",
+    "context7_path": "/ibelick/prompt-kit"
+  },
+  {
+    "name": "PromptQL",
+    "context7_path": "/hasura/promptql-docs"
+  },
+  {
+    "name": "Prophet",
+    "context7_path": "/facebook/prophet"
+  },
+  {
+    "name": "protobuf-net",
+    "context7_path": "/protobuf-net/protobuf-net"
+  },
+  {
+    "name": "Protocol Buffers",
+    "context7_path": "/protocolbuffers/protocolbuffers.github.io"
+  },
+  {
+    "name": "Pug",
+    "context7_path": "/pugjs/pug"
+  },
+  {
+    "name": "Pulumi",
+    "context7_path": "/pulumi/docs"
+  },
+  {
+    "name": "Pundit",
+    "context7_path": "/varvet/pundit"
+  },
+  {
+    "name": "Puppeteer",
+    "context7_path": "/puppeteer/puppeteer"
+  },
+  {
+    "name": "Purchases",
+    "context7_path": "/RevenueCat/react-native-purchases"
+  },
+  {
+    "name": "Puter",
+    "context7_path": "/HeyPuter/puter"
+  },
+  {
+    "name": "Pydantic",
+    "context7_path": "/pydantic/pydantic"
+  },
+  {
+    "name": "Pydantic Logfire",
+    "context7_path": "/pydantic/logfire"
+  },
+  {
+    "name": "Pydantic Settings",
+    "context7_path": "/pydantic/pydantic-settings"
+  },
+  {
+    "name": "PydanticAI",
+    "context7_path": "/pydantic/pydantic-ai"
+  },
+  {
+    "name": "Pyloid",
+    "context7_path": "/pyloid/docs"
+  },
+  {
+    "name": "PyMuPDF",
+    "context7_path": "/pymupdf/PyMuPDF"
+  },
+  {
+    "name": "PyO3",
+    "context7_path": "/PyO3/pyo3"
+  },
+  {
+    "name": "Pyodide",
+    "context7_path": "/pyodide/pyodide"
+  },
+  {
+    "name": "pyproject.nix",
+    "context7_path": "/pyproject-nix/pyproject.nix"
+  },
+  {
+    "name": "pyRevit",
+    "context7_path": "/pyrevitlabs/pyRevit"
+  },
+  {
+    "name": "Pyro",
+    "context7_path": "/pyro-ppl/pyro"
+  },
+  {
+    "name": "pytest",
+    "context7_path": "/pytest-dev/pytest"
+  },
+  {
+    "name": "pytest-bdd",
+    "context7_path": "/pytest-dev/pytest-bdd"
+  },
+  {
+    "name": "pytest-check",
+    "context7_path": "/okken/pytest-check"
+  },
+  {
+    "name": "Python",
+    "context7_path": "/python/cpython"
+  },
+  {
+    "name": "Python Cheatsheet",
+    "context7_path": "/wilfredinni/python-cheatsheet"
+  },
+  {
+    "name": "Python OOO Dev Tools",
+    "context7_path": "/Amourspirit/python_ooo_dev_tools"
+  },
+  {
+    "name": "Python Slack Hooks",
+    "context7_path": "/slackapi/python-slack-hooks"
+  },
+  {
+    "name": "python-telegram-bot",
+    "context7_path": "/python-telegram-bot/python-telegram-bot"
+  },
+  {
+    "name": "PyTorch",
+    "context7_path": "/pytorch/tutorials"
+  },
+  {
+    "name": "PyTorch Forecasting",
+    "context7_path": "/sktime/pytorch-forecasting"
+  },
+  {
+    "name": "PyTorch Lightning",
+    "context7_path": "/Lightning-AI/pytorch-lightning"
+  },
+  {
+    "name": "PyVista",
+    "context7_path": "/pyvista/pyvista"
+  },
+  {
+    "name": "QBox",
+    "context7_path": "/Qbox-project/qbox-docs"
+  },
+  {
+    "name": "Qdrant",
+    "context7_path": "/qdrant/qdrant"
+  },
+  {
+    "name": "Qlib",
+    "context7_path": "/microsoft/qlib"
+  },
+  {
+    "name": "QuantConnect",
+    "context7_path": "/quantconnect/documentation"
+  },
+  {
+    "name": "Quarkus",
+    "context7_path": "/quarkusio/quarkusio.github.io"
+  },
+  {
+    "name": "Quarto",
+    "context7_path": "/quarto-dev/quarto-web"
+  },
+  {
+    "name": "Quasar Framework",
+    "context7_path": "/quasarframework/quasar.git"
+  },
+  {
+    "name": "QuestDB",
+    "context7_path": "/questdb/questdb"
+  },
+  {
+    "name": "Quivr",
+    "context7_path": "/QuivrHQ/quivr"
+  },
+  {
+    "name": "QUnit",
+    "context7_path": "/qunitjs/qunit"
+  },
+  {
+    "name": "qunit-dom",
+    "context7_path": "/mainmatter/qunit-dom"
+  },
+  {
+    "name": "Qwik",
+    "context7_path": "/QwikDev/qwik"
+  },
+  {
+    "name": "R2R",
+    "context7_path": "/SciPhi-AI/R2R.git"
+  },
+  {
+    "name": "RabbitMQ",
+    "context7_path": "/rabbitmq/rabbitmq-website"
+  },
+  {
+    "name": "Radix Themes",
+    "context7_path": "/radix-ui/themes"
+  },
+  {
+    "name": "Radix UI",
+    "context7_path": "/radix-ui/primitives"
+  },
+  {
+    "name": "Radix UI",
+    "context7_path": "/radix-ui/website"
+  },
+  {
+    "name": "Ragas",
+    "context7_path": "/explodinggradients/ragas"
+  },
+  {
+    "name": "RAGflow",
+    "context7_path": "/infiniflow/ragflow"
+  },
+  {
+    "name": "Railway",
+    "context7_path": "/railwayapp/docs"
+  },
+  {
+    "name": "RainbowKit",
+    "context7_path": "/rainbow-me/rainbowkit"
+  },
+  {
+    "name": "Ramda",
+    "context7_path": "/ramda/ramda.github.io"
+  },
+  {
+    "name": "Rancher",
+    "context7_path": "/rancher/rancher"
+  },
+  {
+    "name": "Raven",
+    "context7_path": "/The-Commit-Company/raven"
+  },
+  {
+    "name": "Ray",
+    "context7_path": "/ray-project/ray"
+  },
+  {
+    "name": "Raycast",
+    "context7_path": "/raycast/extensions"
+  },
+  {
+    "name": "RBush",
+    "context7_path": "/mourner/rbush"
+  },
+  {
+    "name": "React",
+    "context7_path": "/reactjs/react.dev"
+  },
+  {
+    "name": "React Arborist",
+    "context7_path": "/brimdata/react-arborist"
+  },
+  {
+    "name": "React DatoCMS",
+    "context7_path": "/datocms/react-datocms"
+  },
+  {
+    "name": "React Email",
+    "context7_path": "/resend/react-email"
+  },
+  {
+    "name": "React Flow",
+    "context7_path": "/xyflow/web"
+  },
+  {
+    "name": "React Google Maps",
+    "context7_path": "/visgl/react-google-maps"
+  },
+  {
+    "name": "React Hook Form",
+    "context7_path": "/react-hook-form/documentation"
+  },
+  {
+    "name": "React Leaflet",
+    "context7_path": "/PaulLeCam/react-leaflet"
+  },
+  {
+    "name": "React Native",
+    "context7_path": "/facebook/react-native"
+  },
+  {
+    "name": "React Native Keyboard Controller",
+    "context7_path": "/kirillzyusko/react-native-keyboard-controller"
+  },
+  {
+    "name": "React Native Paper",
+    "context7_path": "/callstack/react-native-paper"
+  },
+  {
+    "name": "React Native Reanimated",
+    "context7_path": "/software-mansion/react-native-reanimated"
+  },
+  {
+    "name": "React Native Skia",
+    "context7_path": "/Shopify/react-native-skia"
+  },
+  {
+    "name": "React Native Sortables",
+    "context7_path": "/MatiPl01/react-native-sortables"
+  },
+  {
+    "name": "React Navigation",
+    "context7_path": "/react-navigation/react-navigation.github.io"
+  },
+  {
+    "name": "React Nestable",
+    "context7_path": "/primetwig/react-nestable"
+  },
+  {
+    "name": "React OneSignal",
+    "context7_path": "/OneSignal/react-onesignal"
+  },
+  {
+    "name": "React Postprocessing",
+    "context7_path": "/pmndrs/react-postprocessing"
+  },
+  {
+    "name": "React Pro Sidebar",
+    "context7_path": "/azouaoui-med/react-pro-sidebar"
+  },
+  {
+    "name": "React Query Kit",
+    "context7_path": "/HuolalaTech/react-query-kit"
+  },
+  {
+    "name": "React Reader",
+    "context7_path": "/gerhardsletten/react-reader"
+  },
+  {
+    "name": "React Router",
+    "context7_path": "/remix-run/react-router"
+  },
+  {
+    "name": "React Scan",
+    "context7_path": "/aidenybai/react-scan"
+  },
+  {
+    "name": "React Social Media Embed",
+    "context7_path": "/justinmahar/react-social-media-embed"
+  },
+  {
+    "name": "React Spectrum",
+    "context7_path": "/adobe/react-spectrum"
+  },
+  {
+    "name": "React Testing Library",
+    "context7_path": "/testing-library/react-testing-library"
+  },
+  {
+    "name": "React Three A11y",
+    "context7_path": "/pmndrs/react-three-a11y"
+  },
+  {
+    "name": "React Three CSG",
+    "context7_path": "/pmndrs/react-three-csg"
+  },
+  {
+    "name": "React Three Fiber",
+    "context7_path": "/pmndrs/react-three-fiber"
+  },
+  {
+    "name": "React Three Flex",
+    "context7_path": "/pmndrs/react-three-flex"
+  },
+  {
+    "name": "React Three GPU Pathtracer",
+    "context7_path": "/pmndrs/react-three-gpu-pathtracer"
+  },
+  {
+    "name": "React Three Rapier",
+    "context7_path": "/pmndrs/react-three-rapier"
+  },
+  {
+    "name": "React Three UI Kit",
+    "context7_path": "/pmndrs/uikit"
+  },
+  {
+    "name": "react-native-unistyles",
+    "context7_path": "/jpudysz/react-native-unistyles"
+  },
+  {
+    "name": "react-native-video",
+    "context7_path": "/TheWidlarzGroup/react-native-video"
+  },
+  {
+    "name": "React-PDF",
+    "context7_path": "/wojtekmaj/react-pdf"
+  },
+  {
+    "name": "react-share",
+    "context7_path": "/nygardk/react-share"
+  },
+  {
+    "name": "react-spring",
+    "context7_path": "/pmndrs/react-spring"
+  },
+  {
+    "name": "react-three/p2",
+    "context7_path": "/pmndrs/use-p2"
+  },
+  {
+    "name": "react-three/xr",
+    "context7_path": "/pmndrs/xr"
+  },
+  {
+    "name": "react-use-measure",
+    "context7_path": "/pmndrs/react-use-measure"
+  },
+  {
+    "name": "ReactiveX",
+    "context7_path": "/ReactiveX/reactivex.github.io"
+  },
+  {
+    "name": "Realm Kotlin",
+    "context7_path": "/realm/realm-kotlin"
+  },
+  {
+    "name": "Recharts",
+    "context7_path": "/recharts/recharts"
+  },
+  {
+    "name": "RecML",
+    "context7_path": "/AI-Hypercomputer/RecML"
+  },
+  {
+    "name": "Rector",
+    "context7_path": "/rectorphp/rector"
+  },
+  {
+    "name": "RedBeanPHP",
+    "context7_path": "/gabordemooij/redbean"
+  },
+  {
+    "name": "Redis",
+    "context7_path": "/redis/redis-doc"
+  },
+  {
+    "name": "redis-py",
+    "context7_path": "/redis/redis-py"
+  },
+  {
+    "name": "Redux",
+    "context7_path": "/reduxjs/redux"
+  },
+  {
+    "name": "Redux Toolkit",
+    "context7_path": "/reduxjs/redux-toolkit"
+  },
+  {
+    "name": "refine",
+    "context7_path": "/refinedev/refine"
+  },
+  {
+    "name": "Reflex",
+    "context7_path": "/reflex-dev/reflex"
+  },
+  {
+    "name": "Rehooks",
+    "context7_path": "/pyr33x/rehooks"
+  },
+  {
+    "name": "Remeda",
+    "context7_path": "/remeda/remeda"
+  },
+  {
+    "name": "Remix",
+    "context7_path": "/remix-run/remix"
+  },
+  {
+    "name": "Remote DOM",
+    "context7_path": "/Shopify/remote-dom"
+  },
+  {
+    "name": "Remotion",
+    "context7_path": "/remotion-dev/remotion"
+  },
+  {
+    "name": "Remult",
+    "context7_path": "/remult/remult"
+  },
+  {
+    "name": "Reown",
+    "context7_path": "/reown-com/reown-docs"
+  },
+  {
+    "name": "Replicache",
+    "context7_path": "/rocicorp/mono"
+  },
+  {
+    "name": "Replicate",
+    "context7_path": "/replicate/all-the-public-replicate-models"
+  },
+  {
+    "name": "Replicate",
+    "context7_path": "/replicate/replicate-javascript"
+  },
+  {
+    "name": "ReScript",
+    "context7_path": "/rescript-lang/rescript-lang.org.git"
+  },
+  {
+    "name": "Resend",
+    "context7_path": "/resend/resend-node"
+  },
+  {
+    "name": "RESS",
+    "context7_path": "/paradigmxyz/ress"
+  },
+  {
+    "name": "Rest Server",
+    "context7_path": "/restic/rest-server"
+  },
+  {
+    "name": "Restic",
+    "context7_path": "/restic/restic"
+  },
+  {
+    "name": "Reth",
+    "context7_path": "/paradigmxyz/reth"
+  },
+  {
+    "name": "Return Crunchyroll Random",
+    "context7_path": "/edgHD/return-crunchyroll-random"
+  },
+  {
+    "name": "Reusables",
+    "context7_path": "/mrzachnugent/react-native-reusables"
+  },
+  {
+    "name": "RevenueCat",
+    "context7_path": "/RevenueCat/react-native-purchases.git"
+  },
+  {
+    "name": "Rich",
+    "context7_path": "/Textualize/rich"
+  },
+  {
+    "name": "RIG Protocol",
+    "context7_path": "/0xPlaygrounds/rig-docs"
+  },
+  {
+    "name": "Rive",
+    "context7_path": "/rive-app/rive-wasm"
+  },
+  {
+    "name": "Rive React",
+    "context7_path": "/rive-app/rive-react"
+  },
+  {
+    "name": "Riverpod",
+    "context7_path": "/rrousselGit/riverpod"
+  },
+  {
+    "name": "Rocket.Chat",
+    "context7_path": "/RocketChat/docs"
+  },
+  {
+    "name": "RocksDB",
+    "context7_path": "/facebook/rocksdb"
+  },
+  {
+    "name": "Rodauth",
+    "context7_path": "/jeremyevans/rodauth"
+  },
+  {
+    "name": "Rollup",
+    "context7_path": "/rollup/rollup"
+  },
+  {
+    "name": "Roo",
+    "context7_path": "/RooVetGit/Roo-Code.git"
+  },
+  {
+    "name": "Roo Code",
+    "context7_path": "/RooVetGit/Roo-Code"
+  },
+  {
+    "name": "Roo Commander",
+    "context7_path": "/jezweb/roo-commander.git"
+  },
+  {
+    "name": "RooFlow",
+    "context7_path": "/GreatScottyMac/RooFlow"
+  },
+  {
+    "name": "RooVet",
+    "context7_path": "/RooVetGit/Roo-Code-Docs"
+  },
+  {
+    "name": "Roslyn",
+    "context7_path": "/dotnet/roslyn"
+  },
+  {
+    "name": "RouteLLM",
+    "context7_path": "/lm-sys/routellm"
+  },
+  {
+    "name": "rrule.js",
+    "context7_path": "/jkbrzt/rrule"
+  },
+  {
+    "name": "RSpotify",
+    "context7_path": "/ramsayleung/rspotify"
+  },
+  {
+    "name": "Ruby on Rails",
+    "context7_path": "/rails/rails"
+  },
+  {
+    "name": "Ruff",
+    "context7_path": "/astral-sh/ruff"
+  },
+  {
+    "name": "runes",
+    "context7_path": "/svecosystem/runed"
+  },
+  {
+    "name": "Runware",
+    "context7_path": "/Runware/sdk-js"
+  },
+  {
+    "name": "Rust",
+    "context7_path": "/rust-lang/book"
+  },
+  {
+    "name": "Rust",
+    "context7_path": "/rust-lang/rust"
+  },
+  {
+    "name": "RxDB",
+    "context7_path": "/pubkey/rxdb"
+  },
+  {
+    "name": "RxJS",
+    "context7_path": "/ReactiveX/rxjs"
+  },
+  {
+    "name": "Saloon",
+    "context7_path": "/saloonphp/saloon"
+  },
+  {
+    "name": "Sanic",
+    "context7_path": "/sanic-org/sanic-guide"
+  },
+  {
+    "name": "Sanity",
+    "context7_path": "/sanity-io/sanity"
+  },
+  {
+    "name": "Sapphire",
+    "context7_path": "/sapphiredev/docs"
+  },
+  {
+    "name": "Sapphire ParaTime",
+    "context7_path": "/oasisprotocol/sapphire-paratime"
+  },
+  {
+    "name": "Sass",
+    "context7_path": "/sass/sass-site"
+  },
+  {
+    "name": "Scaffold-ETH 2",
+    "context7_path": "/scaffold-eth/se-2-docs"
+  },
+  {
+    "name": "Scala",
+    "context7_path": "/scala/docs.scala-lang"
+  },
+  {
+    "name": "Scanpy",
+    "context7_path": "/scverse/scanpy"
+  },
+  {
+    "name": "Schedule-X",
+    "context7_path": "/schedule-x/schedule-x"
+  },
+  {
+    "name": "scikit-learn",
+    "context7_path": "/scikit-learn/scikit-learn"
+  },
+  {
+    "name": "SciPy",
+    "context7_path": "/scipy/scipy"
+  },
+  {
+    "name": "Scrapy",
+    "context7_path": "/scrapy/scrapy"
+  },
+  {
+    "name": "Scrollytelling",
+    "context7_path": "/basementstudio/scrollytelling"
+  },
+  {
+    "name": "scvi-tools",
+    "context7_path": "/scverse/scvi-tools"
+  },
+  {
+    "name": "Scylla CDC",
+    "context7_path": "/scylladb/scylla-cdc-rust"
+  },
+  {
+    "name": "Scylla Rust Driver",
+    "context7_path": "/scylladb/scylla-rust-driver"
+  },
+  {
+    "name": "ScyllaDB",
+    "context7_path": "/scylladb/scylla-rust-udf"
+  },
+  {
+    "name": "Seaborn",
+    "context7_path": "/mwaskom/seaborn"
+  },
+  {
+    "name": "SealNotes",
+    "context7_path": "/harshsbhat/sealnotes"
+  },
+  {
+    "name": "SeaORM",
+    "context7_path": "/SeaQL/sea-orm"
+  },
+  {
+    "name": "Second Me",
+    "context7_path": "/Mindverse/Second-Me"
+  },
+  {
+    "name": "Selenium",
+    "context7_path": "/SeleniumHQ/seleniumhq.github.io"
+  },
+  {
+    "name": "Semantic Cache",
+    "context7_path": "/upstash/semantic-cache"
+  },
+  {
+    "name": "Semantic Kernel",
+    "context7_path": "/microsoft/semantic-kernel"
+  },
+  {
+    "name": "Semantic Router",
+    "context7_path": "/aurelio-labs/semantic-router"
+  },
+  {
+    "name": "Semantic UI",
+    "context7_path": "/Semantic-Org/Semantic-UI-Docs"
+  },
+  {
+    "name": "Semi Design",
+    "context7_path": "/DouyinFE/semi-design"
+  },
+  {
+    "name": "SenseVoice",
+    "context7_path": "/0x5446/api4sensevoice"
+  },
+  {
+    "name": "SenseVoice",
+    "context7_path": "/FunAudioLLM/SenseVoice"
+  },
+  {
+    "name": "Sentence Transformers",
+    "context7_path": "/UKPLab/sentence-transformers"
+  },
+  {
+    "name": "Sentry",
+    "context7_path": "/getsentry/sentry-docs"
+  },
+  {
+    "name": "Sequelize",
+    "context7_path": "/sequelize/website"
+  },
+  {
+    "name": "Serilog",
+    "context7_path": "/serilog/serilog"
+  },
+  {
+    "name": "Serverless Framework",
+    "context7_path": "/serverless/serverless"
+  },
+  {
+    "name": "Serverpod",
+    "context7_path": "/serverpod/serverpod_docs"
+  },
+  {
+    "name": "ServiceNow CxOne",
+    "context7_path": "/checkmarx-ltd/servicenowcxone"
+  },
+  {
+    "name": "ServiceNow Vulnerability Response",
+    "context7_path": "/ServiceNow/vulnerability-response"
+  },
+  {
+    "name": "ServiceStack",
+    "context7_path": "/ServiceStack/ServiceStack"
+  },
+  {
+    "name": "SettleMint",
+    "context7_path": "/settlemint/docs"
+  },
+  {
+    "name": "shadcn-svelte",
+    "context7_path": "/evil1morty/shadcn-svelte"
+  },
+  {
+    "name": "shadcn-svelte",
+    "context7_path": "/huntabyte/shadcn-svelte"
+  },
+  {
+    "name": "shadcn-vue",
+    "context7_path": "/unovue/shadcn-vue"
+  },
+  {
+    "name": "shadcn/ui",
+    "context7_path": "/magicpatterns/shadcdn"
+  },
+  {
+    "name": "shadcn/ui",
+    "context7_path": "/shadcn-ui/ui"
+  },
+  {
+    "name": "Shaka Player",
+    "context7_path": "/shaka-project/shaka-player"
+  },
+  {
+    "name": "Shiki",
+    "context7_path": "/shikijs/shiki"
+  },
+  {
+    "name": "Shipping Extendibility Starter Kit",
+    "context7_path": "/KiboPartners/ShippingExtensibilityStarterKit"
+  },
+  {
+    "name": "Shopify API Library",
+    "context7_path": "/Shopify/shopify-api-js"
+  },
+  {
+    "name": "Shopify App",
+    "context7_path": "/Shopify/shopify-app-js"
+  },
+  {
+    "name": "Shopify UI Extensions",
+    "context7_path": "/Shopify/ui-extensions"
+  },
+  {
+    "name": "Shopware",
+    "context7_path": "/shopware/docs"
+  },
+  {
+    "name": "Sidekiq",
+    "context7_path": "/sidekiq/sidekiq"
+  },
+  {
+    "name": "SignalR",
+    "context7_path": "/SignalR/SignalR"
+  },
+  {
+    "name": "Signals.dart",
+    "context7_path": "/rodydavis/signals.dart"
+  },
+  {
+    "name": "Silex",
+    "context7_path": "/silexphp/Silex"
+  },
+  {
+    "name": "SimSharp",
+    "context7_path": "/heal-research/SimSharp"
+  },
+  {
+    "name": "sipgo",
+    "context7_path": "/emiago/sipgo"
+  },
+  {
+    "name": "SiYuan",
+    "context7_path": "/siyuan-note/siyuan"
+  },
+  {
+    "name": "Skeleton",
+    "context7_path": "/skeletonlabs/skeleton"
+  },
+  {
+    "name": "Skia",
+    "context7_path": "/google/skia"
+  },
+  {
+    "name": "Skip",
+    "context7_path": "/SkipLabs/skip"
+  },
+  {
+    "name": "Slack SDK for Python",
+    "context7_path": "/slackapi/python-slack-sdk"
+  },
+  {
+    "name": "SlackAPI",
+    "context7_path": "/Inumedia/SlackAPI"
+  },
+  {
+    "name": "SmoL Agents",
+    "context7_path": "/huggingface/smolagents"
+  },
+  {
+    "name": "SMSManPy",
+    "context7_path": "/smsmancom/smsmanpy"
+  },
+  {
+    "name": "Snapchain",
+    "context7_path": "/farcasterxyz/snapchain"
+  },
+  {
+    "name": "SnapshotTesting",
+    "context7_path": "/pointfreeco/swift-snapshot-testing"
+  },
+  {
+    "name": "Snowflake Connector for .NET",
+    "context7_path": "/snowflakedb/snowflake-connector-net"
+  },
+  {
+    "name": "Socket.IO",
+    "context7_path": "/socketio/socket.io"
+  },
+  {
+    "name": "Solady",
+    "context7_path": "/Vectorized/solady"
+  },
+  {
+    "name": "Solana Agent Kit",
+    "context7_path": "/sendaifun/solana-agent-kit"
+  },
+  {
+    "name": "Solar",
+    "context7_path": "/paradigmxyz/solar"
+  },
+  {
+    "name": "Solid",
+    "context7_path": "/solidjs/solid-docs"
+  },
+  {
+    "name": "Solidity",
+    "context7_path": "/ethereum/solidity"
+  },
+  {
+    "name": "Sonner",
+    "context7_path": "/emilkowalski/sonner"
+  },
+  {
+    "name": "SoulseekBatchDownload",
+    "context7_path": "/fiso64/slsk-batchdl"
+  },
+  {
+    "name": "SpacetimeDB",
+    "context7_path": "/clockworklabs/SpacetimeDB"
+  },
+  {
+    "name": "spaCy",
+    "context7_path": "/explosion/spaCy"
+  },
+  {
+    "name": "SpecDAL",
+    "context7_path": "/EnSpec/SpecDAL"
+  },
+  {
+    "name": "Speckle",
+    "context7_path": "/specklesystems/speckle-docs"
+  },
+  {
+    "name": "Spile",
+    "context7_path": "/spile-io/docs"
+  },
+  {
+    "name": "Spinnaker",
+    "context7_path": "/spinnaker/spinnaker.github.io"
+  },
+  {
+    "name": "Splink",
+    "context7_path": "/moj-analytical-services/splink"
+  },
+  {
+    "name": "Split.js",
+    "context7_path": "/nathancahill/split"
+  },
+  {
+    "name": "Spotify Web API TypeScript SDK",
+    "context7_path": "/spotify/spotify-web-api-ts-sdk"
+  },
+  {
+    "name": "Spring Boot",
+    "context7_path": "/spring-projects/spring-boot"
+  },
+  {
+    "name": "Spring Cloud AWS",
+    "context7_path": "/awspring/spring-cloud-aws"
+  },
+  {
+    "name": "Spring Framework",
+    "context7_path": "/spring-projects/spring-framework"
+  },
+  {
+    "name": "SQLAlchemy",
+    "context7_path": "/sqlalchemy/sqlalchemy"
+  },
+  {
+    "name": "SQLC",
+    "context7_path": "/sqlc-dev/sqlc"
+  },
+  {
+    "name": "SQLFluff",
+    "context7_path": "/sqlfluff/sqlfluff"
+  },
+  {
+    "name": "SQLModel",
+    "context7_path": "/fastapi/sqlmodel"
+  },
+  {
+    "name": "SST",
+    "context7_path": "/sst/sst"
+  },
+  {
+    "name": "Stable Baselines3",
+    "context7_path": "/DLR-RM/stable-baselines3"
+  },
+  {
+    "name": "Stack Auth",
+    "context7_path": "/stack-auth/stack-auth"
+  },
+  {
+    "name": "Stamina",
+    "context7_path": "/hynek/stamina"
+  },
+  {
+    "name": "Starlette",
+    "context7_path": "/encode/starlette"
+  },
+  {
+    "name": "StarRocks",
+    "context7_path": "/StarRocks/starrocks"
+  },
+  {
+    "name": "Statamic",
+    "context7_path": "/statamic/docs"
+  },
+  {
+    "name": "Stencil",
+    "context7_path": "/ionic-team/stencil-site"
+  },
+  {
+    "name": "Stimulus",
+    "context7_path": "/hotwired/stimulus"
+  },
+  {
+    "name": "Stirling-PDF",
+    "context7_path": "/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "name": "Storj",
+    "context7_path": "/storj/docs"
+  },
+  {
+    "name": "Storybook",
+    "context7_path": "/storybookjs/storybook"
+  },
+  {
+    "name": "Strapi",
+    "context7_path": "/strapi/documentation"
+  },
+  {
+    "name": "Streamlit",
+    "context7_path": "/streamlit/docs"
+  },
+  {
+    "name": "Streamlit-WebRTC",
+    "context7_path": "/whitphx/streamlit-webrtc"
+  },
+  {
+    "name": "Stripe",
+    "context7_path": "/stripe/stripe-php"
+  },
+  {
+    "name": "Stripe.js",
+    "context7_path": "/stripe/stripe-js"
+  },
+  {
+    "name": "structlog",
+    "context7_path": "/hynek/structlog"
+  },
+  {
+    "name": "styled-components",
+    "context7_path": "/styled-components/styled-components.git"
+  },
+  {
+    "name": "StyleX",
+    "context7_path": "/facebook/stylex"
+  },
+  {
+    "name": "Stytch",
+    "context7_path": "/stytchauth/stytch-node"
+  },
+  {
+    "name": "Subscribe",
+    "context7_path": "/kucukkanat/subscribe"
+  },
+  {
+    "name": "Supabase",
+    "context7_path": "/supabase/supabase"
+  },
+  {
+    "name": "Supabase Flutter",
+    "context7_path": "/supabase/supabase-flutter"
+  },
+  {
+    "name": "Supabase Swift",
+    "context7_path": "/supabase/supabase-swift"
+  },
+  {
+    "name": "Superalgos",
+    "context7_path": "/Superalgos/Superalgos"
+  },
+  {
+    "name": "SuperTokens",
+    "context7_path": "/supertokens/supertokens-auth-react"
+  },
+  {
+    "name": "SuperTokens",
+    "context7_path": "/supertokens/supertokens-web-js"
+  },
+  {
+    "name": "Superwall",
+    "context7_path": "/superwall/react-native-superwall.git"
+  },
+  {
+    "name": "SurrealDB",
+    "context7_path": "/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "name": "Survey Creator",
+    "context7_path": "/surveyjs/survey-creator"
+  },
+  {
+    "name": "Survey PDF",
+    "context7_path": "/surveyjs/survey-pdf"
+  },
+  {
+    "name": "SurveyJS",
+    "context7_path": "/surveyjs/survey-library"
+  },
+  {
+    "name": "SurveyJS Analytics",
+    "context7_path": "/surveyjs/survey-analytics"
+  },
+  {
+    "name": "Svelte",
+    "context7_path": "/sveltejs/svelte"
+  },
+  {
+    "name": "Svelte Gestures",
+    "context7_path": "/rezi/svelte-gestures.git"
+  },
+  {
+    "name": "Svelte Google Maps",
+    "context7_path": "/beyonk-adventures/svelte-googlemaps"
+  },
+  {
+    "name": "Svelte Sonner",
+    "context7_path": "/wobsoriano/svelte-sonner"
+  },
+  {
+    "name": "Svelte Stepper",
+    "context7_path": "/efstajas/svelte-stepper"
+  },
+  {
+    "name": "Svelte Testing Library",
+    "context7_path": "/testing-library/svelte-testing-library"
+  },
+  {
+    "name": "SvelteDatatables",
+    "context7_path": "/vincjo/datatables"
+  },
+  {
+    "name": "SvelteKit",
+    "context7_path": "/sveltejs/kit"
+  },
+  {
+    "name": "SvelteKit Flash Messages",
+    "context7_path": "/ciscoheat/sveltekit-flash-message"
+  },
+  {
+    "name": "SvelteKit Superforms",
+    "context7_path": "/ciscoheat/sveltekit-superforms"
+  },
+  {
+    "name": "Sway",
+    "context7_path": "/FuelLabs/sway"
+  },
+  {
+    "name": "Swift",
+    "context7_path": "/swiftlang/swift"
+  },
+  {
+    "name": "Swift",
+    "context7_path": "/swiftlang/swift-testing"
+  },
+  {
+    "name": "Swiper",
+    "context7_path": "/nolimits4web/swiper"
+  },
+  {
+    "name": "SWR",
+    "context7_path": "/vercel/swr"
+  },
+  {
+    "name": "Sycamore",
+    "context7_path": "/aryn-ai/sycamore"
+  },
+  {
+    "name": "Symfony",
+    "context7_path": "/symfony/symfony-docs"
+  },
+  {
+    "name": "Symfony UX",
+    "context7_path": "/symfony/ux"
+  },
+  {
+    "name": "SynthLang",
+    "context7_path": "/ruvnet/SynthLang"
+  },
+  {
+    "name": "System.css",
+    "context7_path": "/sakofchit/system.css"
+  },
+  {
+    "name": "t3-env",
+    "context7_path": "/t3-oss/t3-env"
+  },
+  {
+    "name": "Tabulator",
+    "context7_path": "/olifolkerd/tabulator"
+  },
+  {
+    "name": "Taiga UI",
+    "context7_path": "/taiga-family/taiga-ui"
+  },
+  {
+    "name": "Tailscale",
+    "context7_path": "/tailscale/tailscale"
+  },
+  {
+    "name": "Tailwind CSS",
+    "context7_path": "/tailwindlabs/tailwindcss.com"
+  },
+  {
+    "name": "Tailwind Variants",
+    "context7_path": "/heroui-inc/tailwind-variants"
+  },
+  {
+    "name": "tailwindcss-animate",
+    "context7_path": "/jamiebuilds/tailwindcss-animate"
+  },
+  {
+    "name": "Tamagui",
+    "context7_path": "/tamagui/tamagui"
+  },
+  {
+    "name": "TanStack Form",
+    "context7_path": "/TanStack/form"
+  },
+  {
+    "name": "TanStack Query",
+    "context7_path": "/TanStack/query"
+  },
+  {
+    "name": "TanStack Query",
+    "context7_path": "/tanstack/query"
+  },
+  {
+    "name": "TanStack Router",
+    "context7_path": "/TanStack/router"
+  },
+  {
+    "name": "TanStack Table",
+    "context7_path": "/TanStack/table"
+  },
+  {
+    "name": "TanStack Virtual",
+    "context7_path": "/tanstack/virtual"
+  },
+  {
+    "name": "Tauri",
+    "context7_path": "/tauri-apps/tauri-docs"
+  },
+  {
+    "name": "TDengine",
+    "context7_path": "/taosdata/TDengine"
+  },
+  {
+    "name": "Telegraf",
+    "context7_path": "/influxdata/telegraf"
+  },
+  {
+    "name": "Telegram Mini Apps",
+    "context7_path": "/Telegram-Mini-Apps/telegram-apps"
+  },
+  {
+    "name": "Telerik UI for WPF and Silverlight",
+    "context7_path": "/telerik/xaml-docs"
+  },
+  {
+    "name": "Telethon",
+    "context7_path": "/LonamiWebs/Telethon"
+  },
+  {
+    "name": "Telnyx WebRTC",
+    "context7_path": "/team-telnyx/webrtc"
+  },
+  {
+    "name": "Tempo",
+    "context7_path": "/grafana/tempo"
+  },
+  {
+    "name": "Temporal",
+    "context7_path": "/temporalio/sdk-typescript"
+  },
+  {
+    "name": "Temporal Python SDK",
+    "context7_path": "/temporalio/sdk-python"
+  },
+  {
+    "name": "Tenacity",
+    "context7_path": "/jd/tenacity"
+  },
+  {
+    "name": "TensorFlow",
+    "context7_path": "/tensorflow/docs"
+  },
+  {
+    "name": "TensorRT",
+    "context7_path": "/NVIDIA/TensorRT"
+  },
+  {
+    "name": "TensorRT-LLM",
+    "context7_path": "/NVIDIA/TensorRT-LLM"
+  },
+  {
+    "name": "Terraform",
+    "context7_path": "/hashicorp/terraform"
+  },
+  {
+    "name": "Terraform AWS Provider",
+    "context7_path": "/hashicorp/terraform-provider-aws"
+  },
+  {
+    "name": "Terraform Provider for Azure Resource Manager",
+    "context7_path": "/hashicorp/terraform-provider-azurerm"
+  },
+  {
+    "name": "Terraform Provider OVH",
+    "context7_path": "/ovh/terraform-provider-ovh"
+  },
+  {
+    "name": "Terragrunt",
+    "context7_path": "/gruntwork-io/terragrunt"
+  },
+  {
+    "name": "Terraspace",
+    "context7_path": "/boltops-tools/terraspace"
+  },
+  {
+    "name": "Testify",
+    "context7_path": "/stretchr/testify"
+  },
+  {
+    "name": "Testing Library",
+    "context7_path": "/testing-library/testing-library-docs"
+  },
+  {
+    "name": "Text Embeddings Inference",
+    "context7_path": "/huggingface/text-embeddings-inference"
+  },
+  {
+    "name": "The Graph",
+    "context7_path": "/graphprotocol/docs"
+  },
+  {
+    "name": "Theatre.js",
+    "context7_path": "/theatre-js/theatre"
+  },
+  {
+    "name": "THEOplayer React Native UI",
+    "context7_path": "/THEOplayer/react-native-theoplayer-ui"
+  },
+  {
+    "name": "Third Party Payments Typescript Starter Kit",
+    "context7_path": "/KiboPartners/ThirdPartyPaymentsTypescriptStarterKit"
+  },
+  {
+    "name": "thirdweb",
+    "context7_path": "/thirdweb-dev/js"
+  },
+  {
+    "name": "Three.js",
+    "context7_path": "/mrdoob/three.js"
+  },
+  {
+    "name": "TigerBeetle",
+    "context7_path": "/tigerbeetle/tigerbeetle"
+  },
+  {
+    "name": "TileDB",
+    "context7_path": "/TileDB-Inc/TileDB"
+  },
+  {
+    "name": "TileDB-SOMA",
+    "context7_path": "/single-cell-data/TileDB-SOMA"
+  },
+  {
+    "name": "TimescaleDB",
+    "context7_path": "/timescale/timescaledb"
+  },
+  {
+    "name": "TinyBase",
+    "context7_path": "/tinyplex/tinybase"
+  },
+  {
+    "name": "TinyMCE",
+    "context7_path": "/tinymce/tinymce-docs"
+  },
+  {
+    "name": "Tiptap",
+    "context7_path": "/ueberdosis/tiptap-docs"
+  },
+  {
+    "name": "tldraw",
+    "context7_path": "/tldraw/tldraw"
+  },
+  {
+    "name": "Toastification",
+    "context7_path": "/payam-zahedi/toastification"
+  },
+  {
+    "name": "Tokio",
+    "context7_path": "/tokio-rs/tokio"
+  },
+  {
+    "name": "Tokio Console",
+    "context7_path": "/tokio-rs/console"
+  },
+  {
+    "name": "TON",
+    "context7_path": "/ton-org/ton"
+  },
+  {
+    "name": "TON HTTP API",
+    "context7_path": "/toncenter/ton-http-api"
+  },
+  {
+    "name": "tqdm",
+    "context7_path": "/tqdm/tqdm"
+  },
+  {
+    "name": "Tracing",
+    "context7_path": "/tokio-rs/tracing"
+  },
+  {
+    "name": "Tradovate API",
+    "context7_path": "/tradovate/example-api-js"
+  },
+  {
+    "name": "Traefik",
+    "context7_path": "/traefik/traefik"
+  },
+  {
+    "name": "Transformers",
+    "context7_path": "/huggingface/transformers"
+  },
+  {
+    "name": "Transformers.js",
+    "context7_path": "/huggingface/transformers.js"
+  },
+  {
+    "name": "Tremor",
+    "context7_path": "/tremorlabs/tremor"
+  },
+  {
+    "name": "Trigger.dev",
+    "context7_path": "/triggerdotdev/trigger.dev"
+  },
+  {
+    "name": "Trivy",
+    "context7_path": "/aquasecurity/trivy"
+  },
+  {
+    "name": "Trongate",
+    "context7_path": "/trongate/trongate-docs"
+  },
+  {
+    "name": "tRPC",
+    "context7_path": "/trpc/trpc"
+  },
+  {
+    "name": "Trubrics",
+    "context7_path": "/trubrics/trubrics-python"
+  },
+  {
+    "name": "TrustCall",
+    "context7_path": "/hinthornw/trustcall"
+  },
+  {
+    "name": "ts-ghost",
+    "context7_path": "/PhilDL/ts-ghost"
+  },
+  {
+    "name": "ts-rest",
+    "context7_path": "/ts-rest/ts-rest"
+  },
+  {
+    "name": "Ts.ED",
+    "context7_path": "/tsedio/tsed"
+  },
+  {
+    "name": "Turbo",
+    "context7_path": "/hotwired/turbo"
+  },
+  {
+    "name": "Turbo",
+    "context7_path": "/vercel/turborepo"
+  },
+  {
+    "name": "Turing",
+    "context7_path": "/TuringLang/Turing.jl"
+  },
+  {
+    "name": "Turnkey",
+    "context7_path": "/tkhq/sdk"
+  },
+  {
+    "name": "Twig",
+    "context7_path": "/twigphp/Twig"
+  },
+  {
+    "name": "Twilight",
+    "context7_path": "/twilight-rs/twilight"
+  },
+  {
+    "name": "Twistail",
+    "context7_path": "/riipandi/twistail"
+  },
+  {
+    "name": "type_plus",
+    "context7_path": "/schultek/type_plus"
+  },
+  {
+    "name": "Typegoose",
+    "context7_path": "/typegoose/typegoose"
+  },
+  {
+    "name": "TypeORM",
+    "context7_path": "/typeorm/typeorm"
+  },
+  {
+    "name": "Typer",
+    "context7_path": "/fastapi/typer.git"
+  },
+  {
+    "name": "TypeScript",
+    "context7_path": "/microsoft/TypeScript-Website"
+  },
+  {
+    "name": "TypeScript ESLint",
+    "context7_path": "/typescript-eslint/typescript-eslint"
+  },
+  {
+    "name": "Typesense",
+    "context7_path": "/typesense/typesense"
+  },
+  {
+    "name": "TYPO3",
+    "context7_path": "/TYPO3-Documentation/TYPO3CMS-Exceptions"
+  },
+  {
+    "name": "TYPO3 CMS",
+    "context7_path": "/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi"
+  },
+  {
+    "name": "TYPO3 CMS",
+    "context7_path": "/TYPO3-Documentation/TYPO3CMS-Reference-TCA"
+  },
+  {
+    "name": "TYPO3 CMS",
+    "context7_path": "/TYPO3-Documentation/TYPO3CMS-Reference-Typoscript"
+  },
+  {
+    "name": "TYPO3 CMS",
+    "context7_path": "/TYPO3-Documentation/TYPO3CMS-Reference-ViewHelper"
+  },
+  {
+    "name": "UI",
+    "context7_path": "/kianbazza/ui"
+  },
+  {
+    "name": "ULID",
+    "context7_path": "/ulid/javascript"
+  },
+  {
+    "name": "ULID",
+    "context7_path": "/ulid/spec"
+  },
+  {
+    "name": "Umbraco CMS",
+    "context7_path": "/umbraco/Umbraco-CMS"
+  },
+  {
+    "name": "Una UI",
+    "context7_path": "/una-ui/una-ui"
+  },
+  {
+    "name": "Unkey",
+    "context7_path": "/unkeyed/unkey"
+  },
+  {
+    "name": "UnoCSS",
+    "context7_path": "/unocss/unocss"
+  },
+  {
+    "name": "Unpic",
+    "context7_path": "/ascorbic/unpic"
+  },
+  {
+    "name": "Unpoly",
+    "context7_path": "/unpoly/unpoly"
+  },
+  {
+    "name": "Unstorage",
+    "context7_path": "/unjs/unstorage"
+  },
+  {
+    "name": "updated",
+    "context7_path": "/updatedotdev/js"
+  },
+  {
+    "name": "UploadThing",
+    "context7_path": "/pingdotgg/uploadthing"
+  },
+  {
+    "name": "Upptime",
+    "context7_path": "/upptime/upptime"
+  },
+  {
+    "name": "Upstash Lock",
+    "context7_path": "/upstash/lock"
+  },
+  {
+    "name": "Upstash QStash",
+    "context7_path": "/upstash/docs"
+  },
+  {
+    "name": "Upstash Ratelimit JS",
+    "context7_path": "/upstash/ratelimit-js"
+  },
+  {
+    "name": "Upstash Ratelimit Python",
+    "context7_path": "/upstash/ratelimit-py"
+  },
+  {
+    "name": "Upstash Redis",
+    "context7_path": "/upstash/docs"
+  },
+  {
+    "name": "Upstash Vector",
+    "context7_path": "/upstash/docs"
+  },
+  {
+    "name": "Upstash Workflow",
+    "context7_path": "/upstash/docs"
+  },
+  {
+    "name": "UserUtils",
+    "context7_path": "/Sv443-Network/UserUtils"
+  },
+  {
+    "name": "uv",
+    "context7_path": "/astral-sh/uv"
+  },
+  {
+    "name": "uv2nix",
+    "context7_path": "/pyproject-nix/uv2nix"
+  },
+  {
+    "name": "Uvicorn",
+    "context7_path": "/encode/uvicorn"
+  },
+  {
+    "name": "V8",
+    "context7_path": "/v8/v8.dev"
+  },
+  {
+    "name": "Valibot",
+    "context7_path": "/fabian-hiller/valibot"
+  },
+  {
+    "name": "Vapi",
+    "context7_path": "/VapiAI/docs"
+  },
+  {
+    "name": "Varnish Cache",
+    "context7_path": "/varnishcache/varnish-cache"
+  },
+  {
+    "name": "Vaul",
+    "context7_path": "/emilkowalski/vaul"
+  },
+  {
+    "name": "Vault",
+    "context7_path": "/hashicorp/vault"
+  },
+  {
+    "name": "VeeValidate",
+    "context7_path": "/logaretm/vee-validate"
+  },
+  {
+    "name": "Vega",
+    "context7_path": "/vega/vega"
+  },
+  {
+    "name": "Vega-Embed",
+    "context7_path": "/vega/vega-embed"
+  },
+  {
+    "name": "Vega-Lite",
+    "context7_path": "/vega/vega-lite"
+  },
+  {
+    "name": "Vello",
+    "context7_path": "/linebender/vello"
+  },
+  {
+    "name": "Vello SVG",
+    "context7_path": "/linebender/vello_svg"
+  },
+  {
+    "name": "Vendure",
+    "context7_path": "/vendure-ecommerce/vendure"
+  },
+  {
+    "name": "Vercel AI Chatbot",
+    "context7_path": "/vercel/ai-chatbot"
+  },
+  {
+    "name": "Vercel AI SDK",
+    "context7_path": "/vercel/ai"
+  },
+  {
+    "name": "Vercel Storage",
+    "context7_path": "/vercel/storage"
+  },
+  {
+    "name": "Vertex AI SDK for JavaScript",
+    "context7_path": "/googleapis/js-genai"
+  },
+  {
+    "name": "VIC",
+    "context7_path": "/UW-Hydro/VIC"
+  },
+  {
+    "name": "Video.js",
+    "context7_path": "/videojs/video.js"
+  },
+  {
+    "name": "viem",
+    "context7_path": "/wevm/viem"
+  },
+  {
+    "name": "ViewComponent",
+    "context7_path": "/ViewComponent/view_component"
+  },
+  {
+    "name": "Vike",
+    "context7_path": "/vikejs/vike"
+  },
+  {
+    "name": "Vine",
+    "context7_path": "/vinejs/vine"
+  },
+  {
+    "name": "Vinxi",
+    "context7_path": "/nksaraf/vinxi"
+  },
+  {
+    "name": "viselect",
+    "context7_path": "/simonwep/viselect"
+  },
+  {
+    "name": "Visual Image Tool",
+    "context7_path": "/killerwolf/visual-image-tool"
+  },
+  {
+    "name": "Visual Studio Code",
+    "context7_path": "/microsoft/vscode-docs"
+  },
+  {
+    "name": "Vite",
+    "context7_path": "/vitejs/vite"
+  },
+  {
+    "name": "Vite Ruby",
+    "context7_path": "/ElMassimo/vite_ruby"
+  },
+  {
+    "name": "Vitest",
+    "context7_path": "/vitest-dev/vitest"
+  },
+  {
+    "name": "Vllm",
+    "context7_path": "/vllm-project/vllm"
+  },
+  {
+    "name": "Volt",
+    "context7_path": "/livewire/volt"
+  },
+  {
+    "name": "Vue.js",
+    "context7_path": "/vuejs/docs"
+  },
+  {
+    "name": "Vue3 Carousel",
+    "context7_path": "/ismail9k/vue3-carousel"
+  },
+  {
+    "name": "Vuetify",
+    "context7_path": "/vuetifyjs/vuetify"
+  },
+  {
+    "name": "VueUse",
+    "context7_path": "/vueuse/vueuse"
+  },
+  {
+    "name": "wagmi",
+    "context7_path": "/wevm/wagmi"
+  },
+  {
+    "name": "Wails",
+    "context7_path": "/wailsapp/wails"
+  },
+  {
+    "name": "wasm-bindgen",
+    "context7_path": "/rustwasm/wasm-bindgen"
+  },
+  {
+    "name": "Wasp",
+    "context7_path": "/wasp-lang/open-saas"
+  },
+  {
+    "name": "Wasp",
+    "context7_path": "/wasp-lang/wasp"
+  },
+  {
+    "name": "WatermelonDB",
+    "context7_path": "/nozbe/watermelondb"
+  },
+  {
+    "name": "WAVS Foundry Template",
+    "context7_path": "/Lay3rLabs/wavs-foundry-template"
+  },
+  {
+    "name": "Wazuh",
+    "context7_path": "/wazuh/wazuh"
+  },
+  {
+    "name": "Weaviate",
+    "context7_path": "/weaviate/typescript-client"
+  },
+  {
+    "name": "WebGoat",
+    "context7_path": "/WebGoat/WebGoat"
+  },
+  {
+    "name": "WebMan",
+    "context7_path": "/webman-php/webman-manual"
+  },
+  {
+    "name": "webpack",
+    "context7_path": "/webpack/webpack"
+  },
+  {
+    "name": "weserv/images",
+    "context7_path": "/weserv/images"
+  },
+  {
+    "name": "whatsapp-web.js",
+    "context7_path": "/pedroslopez/whatsapp-web.js"
+  },
+  {
+    "name": "Whisper",
+    "context7_path": "/openai/whisper"
+  },
+  {
+    "name": "whisper.cpp",
+    "context7_path": "/ggml-org/whisper.cpp"
+  },
+  {
+    "name": "WhisperX",
+    "context7_path": "/m-bain/whisperX"
+  },
+  {
+    "name": "Why Did You Render",
+    "context7_path": "/welldone-software/why-did-you-render"
+  },
+  {
+    "name": "Wikipedia Semantic Search",
+    "context7_path": "/upstash/wikipedia-semantic-search"
+  },
+  {
+    "name": "Windmill",
+    "context7_path": "/windmill-labs/windmill"
+  },
+  {
+    "name": "Windows Subsystem for Linux",
+    "context7_path": "/MicrosoftDocs/WSL"
+  },
+  {
+    "name": "Windows UI Library",
+    "context7_path": "/microsoft/microsoft-ui-xaml"
+  },
+  {
+    "name": "WindRecorder",
+    "context7_path": "/yuka-friends/windrecorder"
+  },
+  {
+    "name": "Wire",
+    "context7_path": "/google/wire"
+  },
+  {
+    "name": "WooCommerce",
+    "context7_path": "/woocommerce/woocommerce"
+  },
+  {
+    "name": "WordPress",
+    "context7_path": "/WordPress/wordpress-develop"
+  },
+  {
+    "name": "WordPress",
+    "context7_path": "/WordPress/wordpress.org"
+  },
+  {
+    "name": "workerd",
+    "context7_path": "/cloudflare/workerd"
+  },
+  {
+    "name": "Workers SDK",
+    "context7_path": "/cloudflare/workers-sdk"
+  },
+  {
+    "name": "World of Warcraft Interface",
+    "context7_path": "/tomrus88/BlizzardInterfaceCode"
+  },
+  {
+    "name": "WunderGraph",
+    "context7_path": "/wundergraph/wundergraph.git"
+  },
+  {
+    "name": "WXT",
+    "context7_path": "/wxt-dev/wxt"
+  },
+  {
+    "name": "XState",
+    "context7_path": "/statelyai/xstate"
+  },
+  {
+    "name": "xUnit.net",
+    "context7_path": "/xunit/assert.xunit"
+  },
+  {
+    "name": "xUnit.net",
+    "context7_path": "/xunit/samples.xunit"
+  },
+  {
+    "name": "xUnit.net",
+    "context7_path": "/xunit/xunit"
+  },
+  {
+    "name": "Yarn",
+    "context7_path": "/yarnpkg/website"
+  },
+  {
+    "name": "Yew",
+    "context7_path": "/yewstack/yew"
+  },
+  {
+    "name": "Yii 2",
+    "context7_path": "/yiisoft/yii2.git"
+  },
+  {
+    "name": "YouTube Transcript API",
+    "context7_path": "/jdepoix/youtube-transcript-api"
+  },
+  {
+    "name": "Yoyo",
+    "context7_path": "/clickfwd/yoyo"
+  },
+  {
+    "name": "yt-dlp",
+    "context7_path": "/yt-dlp/yt-dlp"
+  },
+  {
+    "name": "Yuka",
+    "context7_path": "/Mugen87/yuka"
+  },
+  {
+    "name": "Yup",
+    "context7_path": "/jquense/yup"
+  },
+  {
+    "name": "Zarr",
+    "context7_path": "/zarr-developers/zarr-python"
+  },
+  {
+    "name": "Zed",
+    "context7_path": "/zed-industries/zed"
+  },
+  {
+    "name": "ZenStack",
+    "context7_path": "/zenstackhq/zenstack-docs"
+  },
+  {
+    "name": "Zepp OS",
+    "context7_path": "/zepp-health/zeppos-docs"
+  },
+  {
+    "name": "Zero",
+    "context7_path": "/rocicorp/zero-docs"
+  },
+  {
+    "name": "Zero Vue",
+    "context7_path": "/danielroe/zero-vue"
+  },
+  {
+    "name": "Zerolog",
+    "context7_path": "/rs/zerolog"
+  },
+  {
+    "name": "ZeroMQ",
+    "context7_path": "/zeromq/zeromq.org"
+  },
+  {
+    "name": "Zig",
+    "context7_path": "/ziglang/zig"
+  },
+  {
+    "name": "Ziggy",
+    "context7_path": "/tighten/ziggy"
+  },
+  {
+    "name": "Zod",
+    "context7_path": "/colinhacks/zod"
+  },
+  {
+    "name": "Zuplo",
+    "context7_path": "/zuplo/docs"
+  },
+  {
+    "name": "Zustand",
+    "context7_path": "/pmndrs/zustand"
+  },
+  {
+    "name": "zx",
+    "context7_path": "/google/zx"
+  }
+]

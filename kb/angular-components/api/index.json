@@ -1,0 +1,206 @@
+[
+  {
+    "filename": "angular_cdk_a11y_api_documentation.md",
+    "title": "Angular CDK A11y API Documentation",
+    "summary": "Angular CDK A11y API Documentation (Covers: Implementing LiveAnnouncer Class for Screen Reader Announcements in Angular, Angular CDK A11y Module TypeScript API Declarations, Implementing ListKeyManager Class for Keyboard Navigation in Angular...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_cdk_drag-drop_api_documentation.md",
+    "title": "Angular CDK Drag-Drop API Documentation",
+    "summary": "Angular CDK Drag-Drop API Documentation (Covers: Implementing DragDropRegistry Service in Angular CDK, Implementing moveItemInArray Function in TypeScript, Defining DropListOrientation Type for List Direction...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "angular_cdk_menu_api_documentation.md",
+    "title": "Angular CDK Menu API Documentation",
+    "summary": "Angular CDK Menu API Documentation (Covers: Angular CDK Menu Core Import Declarations)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_portal_api_documentation.md",
+    "title": "Angular CDK Portal API Documentation",
+    "summary": "Angular CDK Portal API Documentation (Covers: Angular CDK Portal Module TypeScript Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_scrolling_api_documentation.md",
+    "title": "Angular CDK Scrolling API Documentation",
+    "summary": "Angular CDK Scrolling API Documentation (Covers: Defining the CdkVirtualForOf Directive, Defining the CdkScrollable Class)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_cdk_stepper_api_documentation.md",
+    "title": "Angular CDK Stepper API Documentation",
+    "summary": "Angular CDK Stepper API Documentation (Covers: Angular CDK Stepper API TypeScript Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cdk_table_api_documentation.md",
+    "title": "Angular CDK Table API Documentation",
+    "summary": "Angular CDK Table API Documentation (Covers: Defining CdkTableDataSourceInput Type in TypeScript, Defining DataSource Abstract Class in TypeScript, Defining CdkTable Component in TypeScript...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "angular_cdk_tree_module_api_documentation.md",
+    "title": "Angular CDK Tree Module API Documentation",
+    "summary": "Angular CDK Tree Module API Documentation (Covers: Implementing CdkTree component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_google_maps_api_documentation.md",
+    "title": "Angular Google Maps API Documentation",
+    "summary": "Angular Google Maps API Documentation (Covers: MapMarker Class Definition in TypeScript, Defining Google Map Component in TypeScript for Angular)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_keycodes_reference.md",
+    "title": "Angular KeyCodes Reference",
+    "summary": "Angular KeyCodes Reference (Covers: Using KeyCode Constants in Angular Directive)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_autocomplete_api_documentation.md",
+    "title": "Angular Material Autocomplete API Documentation",
+    "summary": "Angular Material Autocomplete API Documentation (Covers: Defining MatAutocompleteTrigger Directive, Defining MatAutocomplete Component Class, Defining MatOption Component in TypeScript for Angular Material)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_badge_api_documentation.md",
+    "title": "Angular Material Badge API Documentation",
+    "summary": "Angular Material Badge API Documentation (Covers: Defining Angular Material Badge Components and Types)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_bottom_sheet_api_documentation.md",
+    "title": "Angular Material Bottom Sheet API Documentation",
+    "summary": "Angular Material Bottom Sheet API Documentation (Covers: Defining Angular Material Bottom Sheet API in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_button_toggle_api_documentation.md",
+    "title": "Angular Material Button Toggle API Documentation",
+    "summary": "Angular Material Button Toggle API Documentation (Covers: Angular Material Button Toggle API Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_chips_api_documentation.md",
+    "title": "Angular Material Chips API Documentation",
+    "summary": "Angular Material Chips API Documentation (Covers: Defining MatChipOption Component in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_datepicker_api_documentation.md",
+    "title": "Angular Material Datepicker API Documentation",
+    "summary": "Angular Material Datepicker API Documentation (Covers: DatePicker Module Definition in Angular Material, DatePicker Toggle Button Component in Angular Material, Date Range Picker Component in Angular Material...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_material_icon_api_documentation.md",
+    "title": "Angular Material Icon API Documentation",
+    "summary": "Angular Material Icon API Documentation (Covers: Defining Angular Material Icon API Types and Functions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_input_api.md",
+    "title": "Angular Material Input API",
+    "summary": "Angular Material Input API (Covers: Angular Material Input API Definition)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_matinput_directive.md",
+    "title": "Angular Material matInput Directive",
+    "summary": "Angular Material matInput Directive (Covers: Configuring Global Error State Matcher in Angular Material)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_menu_api_documentation.md",
+    "title": "Angular Material Menu API Documentation",
+    "summary": "Angular Material Menu API Documentation (Covers: Angular Material Menu Component API Type Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_paginator_api_documentation.md",
+    "title": "Angular Material Paginator API Documentation",
+    "summary": "Angular Material Paginator API Documentation (Covers: Defining Angular Material Paginator API in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_radio_api_documentation.md",
+    "title": "Angular Material Radio API Documentation",
+    "summary": "Angular Material Radio API Documentation (Covers: Angular Material Radio Module API Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_select_api_documentation.md",
+    "title": "Angular Material Select API Documentation",
+    "summary": "Angular Material Select API Documentation (Covers: Importing Angular Material Select Dependencies in TypeScript, Implementing MatOption Component in Angular Material, Implementing MatOptgroup Component in Angular Material)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_sidenav_api_documentation.md",
+    "title": "Angular Material Sidenav API Documentation",
+    "summary": "Angular Material Sidenav API Documentation (Covers: Angular Material Sidenav API Types and Classes)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_slide_toggle_api_documentation.md",
+    "title": "Angular Material Slide Toggle API Documentation",
+    "summary": "Angular Material Slide Toggle API Documentation (Covers: Defining Angular Material Slide Toggle API in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_slider_component_api.md",
+    "title": "Angular Material Slider Component API",
+    "summary": "Angular Material Slider Component API (Covers: Defining MatSliderThumb Class)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_stepper_api_documentation.md",
+    "title": "Angular Material Stepper API Documentation",
+    "summary": "Angular Material Stepper API Documentation (Covers: Angular Material Stepper API TypeScript Definitions)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_material_table_api_documentation.md",
+    "title": "Angular Material Table API Documentation",
+    "summary": "Angular Material Table API Documentation (Covers: MatTable Component Definition in TypeScript, MatTableDataSource Implementation in TypeScript, MatTableModule Declaration in TypeScript...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_material_tabs_api_documentation.md",
+    "title": "Angular Material Tabs API Documentation",
+    "summary": "Angular Material Tabs API Documentation (Covers: Implementing MatTabGroup Class, Defining MatPaginatedTabHeader Abstract Class, Defining MatTabNavPanel Class in TypeScript for Angular Material)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_material_tooltip_api_documentation.md",
+    "title": "Angular Material Tooltip API Documentation",
+    "summary": "Angular Material Tooltip API Documentation (Covers: Angular Material Tooltip API Type Definitions and Implementations)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_youtube_player_api_documentation.md",
+    "title": "Angular YouTube Player API Documentation",
+    "summary": "Angular YouTube Player API Documentation (Covers: Angular YouTube Player API Definitions (TypeScript))",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_documentation_for_@angular_cdk_collections.md",
+    "title": "API Documentation for @angular/cdk_collections",
+    "summary": "API Documentation for @angular/cdk_collections (Covers: TypeScript API Definitions for Angular CDK Collections)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_report_for_@angular_material_button.md",
+    "title": "API Report for @angular/material_button",
+    "summary": "API Report for @angular/material_button (Covers: Defining Angular Material Button Components and Interfaces)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_report_for_@angular_material_progress-bar.md",
+    "title": "API Report for @angular/material_progress-bar",
+    "summary": "API Report for @angular/material_progress-bar (Covers: Defining Angular Material Progress Bar APIs in TypeScript)",
+    "snippet_count": 1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "adding_routes_to_angular_application.md",
+    "title": "Adding Routes to Angular Application",
+    "summary": "Adding Routes to Angular Application (Covers: Configuring Router in Angular Bootstrap, Adding RouterModule to Angular Component Imports, Implementing Router Outlet in Angular Component Template)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "adding_search_functionality_to_angular_app.md",
+    "title": "Adding Search Functionality to Angular App",
+    "summary": "Adding Search Functionality to Angular App (Covers: Adding Filtered Results Property in HomeComponent)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_application_build_system_documentation.md",
+    "title": "Angular Application Build System Documentation",
+    "summary": "Angular Application Build System Documentation (Covers: Executing Angular CLI Update for New Build System, Importing SVG Content Using File Extension Loader, Configuring Import Conditions in Package.json for Development/Production...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_built-in_directives_documentation.md",
+    "title": "Angular Built-in Directives Documentation",
+    "summary": "Angular Built-in Directives Documentation (Covers: Importing NgClass in Angular Component, Using NgIf for Conditional Rendering in Angular HTML Template, Using NgClass with an Expression in Angular Template...)",
+    "snippet_count": 16
+  },
+  {
+    "filename": "angular_common_module_api_documentation.md",
+    "title": "Angular Common Module API Documentation",
+    "summary": "Angular Common Module API Documentation (Covers: Implementing NgComponentOutlet Directive in Angular, Defining NgTemplateOutlet Directive in Angular, Defining SlicePipe Class in Angular...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_http_api_documentation.md",
+    "title": "Angular HTTP API Documentation",
+    "summary": "Angular HTTP API Documentation (Covers: Implementing HttpResponse Class in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_internationalization_example_application.md",
+    "title": "Angular Internationalization Example Application",
+    "summary": "Angular Internationalization Example Application (Covers: Defining Angular Component Template with i18n Attributes)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_router_api_documentation.md",
+    "title": "Angular Router API Documentation",
+    "summary": "Angular Router API Documentation (Covers: Defining ROUTES InjectionToken in TypeScript, Implementing Scroll Event Class in TypeScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_zone.js_project_setup_and_release_process.md",
+    "title": "Angular Zone.js Project Setup and Release Process",
+    "summary": "Angular Zone.js Project Setup and Release Process (Covers: Preparing for Zone.js Release)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "building_and_using_attribute_directives_in_angular.md",
+    "title": "Building and Using Attribute Directives in Angular",
+    "summary": "Building and Using Attribute Directives in Angular (Covers: Binding Component Property to Directive, Implementing Mouse Event Handlers, Template with Color Selection Controls...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "building_angular_applications_documentation.md",
+    "title": "Building Angular Applications Documentation",
+    "summary": "Building Angular Applications Documentation (Covers: Configuring CommonJS Dependencies in Angular JSON, Configuring Production Size Budgets in Angular.json)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "creating_a_hello_world_angular_application.md",
+    "title": "Creating a Hello World Angular Application",
+    "summary": "Creating a Hello World Angular Application (Covers: Modifying Angular Component Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_an_interface_in_angular.md",
+    "title": "Creating an Interface in Angular",
+    "summary": "Creating an Interface in Angular (Covers: Defining HousingLocation Interface in TypeScript, Complete HomeComponent TypeScript File)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "debugging_missing_reference_target_in_angular.md",
+    "title": "Debugging Missing Reference Target in Angular",
+    "summary": "Debugging Missing Reference Target in Angular (Covers: Importing and Declaring Required Modules in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "deploying_angular_applications_with_multiple_locales.md",
+    "title": "Deploying Angular Applications with Multiple Locales",
+    "summary": "Deploying Angular Applications with Multiple Locales (Covers: Configuring Angular Workspace with i18n SubPath for Localization)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "implementing_angular_routes_in_a_single-page_application.md",
+    "title": "Implementing Angular Routes in a Single-Page Application",
+    "summary": "Implementing Angular Routes in a Single-Page Application (Covers: Styling Active Route Links, Adding Redirect Route in Angular TypeScript, Defining Angular Routes)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "integrating_http_communication_in_angular_applications.md",
+    "title": "Integrating HTTP Communication in Angular Applications",
+    "summary": "Integrating HTTP Communication in Angular Applications (Covers: Setting API URL in Housing Service, Starting JSON Server)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "managing_public_api_goldens_for_angular_npm_packages.md",
+    "title": "Managing Public API Goldens for Angular NPM Packages",
+    "summary": "Managing Public API Goldens for Angular NPM Packages (Covers: Running Public API Golden Checks and Updates in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "referencing_component_children_with_queries_in_angular.md",
+    "title": "Referencing Component Children with Queries in Angular",
+    "summary": "Referencing Component Children with Queries in Angular (Covers: Implementing View Children Query in Angular Component, Querying for a Single Content Child with @ContentChild in Angular, Using Template Reference Variable in View Query...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "resolving_zone_pollution_in_angular_applications.md",
+    "title": "Resolving Zone Pollution in Angular Applications",
+    "summary": "Resolving Zone Pollution in Angular Applications (Covers: Initializing Third-Party Libraries Outside NgZone in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "rxjs_interop_with_angular_component_and_directive_outputs.md",
+    "title": "RxJS Interop with Angular Component and Directive Outputs",
+    "summary": "RxJS Interop with Angular Component and Directive Outputs (Covers: Creating RxJS Observable from Angular Output using outputToObservable)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "setting_up_angular_router.md",
+    "title": "Setting up Angular Router",
+    "summary": "Setting up Angular Router (Covers: Configuring Router Provider in Angular Application)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_dom_apis_in_angular.md",
+    "title": "Using DOM APIs in Angular",
+    "summary": "Using DOM APIs in Angular (Covers: Accessing Host Element with ElementRef in Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_ngoptimizedimage_directive_in_angular.md",
+    "title": "Using NgOptimizedImage Directive in Angular",
+    "summary": "Using NgOptimizedImage Directive in Angular (Covers: Adding NgOptimizedImage to Component Imports, Customizing Responsive Breakpoints for Image Srcset Generation, Using Fill Mode with NgOptimizedImage...)",
+    "snippet_count": 11
+  }
+]

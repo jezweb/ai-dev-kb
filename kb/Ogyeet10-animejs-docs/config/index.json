@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "anime.js_engine_defaults_configuration.md",
+    "title": "Anime.js Engine Defaults Configuration",
+    "summary": "Anime.js Engine Defaults Configuration (Covers: Importing Engine and Setting Default Duration in Anime.js)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_engine_time_unit_configuration.md",
+    "title": "Anime.js Engine Time Unit Configuration",
+    "summary": "Anime.js Engine Time Unit Configuration (Covers: Toggle Anime.js Time Unit Setting, Set Anime.js Global Time Unit, HTML for Time Unit Display and Controls...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "anime.js_scope_configuration.md",
+    "title": "Anime.js Scope Configuration",
+    "summary": "Anime.js Scope Configuration (Covers: Initializing Anime.js Scope)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "anime.js_timeline_loop_configuration_documentation.md",
+    "title": "Anime.js Timeline Loop Configuration Documentation",
+    "summary": "Anime.js Timeline Loop Configuration Documentation (Covers: Creating Looped Timeline Animation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "configuring_scrollobserver_in_animejs.md",
+    "title": "Configuring ScrollObserver in animejs",
+    "summary": "Configuring ScrollObserver in animejs (Covers: Animating Elements with ScrollObserver in JavaScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "draggable_y-axis_configuration_in_anime.js.md",
+    "title": "Draggable Y-Axis Configuration in Anime.js",
+    "summary": "Draggable Y-Axis Configuration in Anime.js (Covers: Configuring Y-Axis Draggable Behavior with Anime.js)",
+    "snippet_count": 1
+  }
+]

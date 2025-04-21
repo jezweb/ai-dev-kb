@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "angular_material_stepper_documentation.md",
+    "title": "Angular Material Stepper Documentation",
+    "summary": "Angular Material Stepper Documentation (Covers: Displaying Form Validation Errors in Angular Material Stepper, Implementing a Vertical Linear Stepper with Multiple Forms in Angular Material, Implementing a Linear Stepper with Single Form in Angular Material...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "cdk_stepper_documentation.md",
+    "title": "CDK Stepper Documentation",
+    "summary": "CDK Stepper Documentation (Covers: Implementing Linear Stepper with Single Form in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_a_custom_angular_cdk_stepper.md",
+    "title": "Creating a Custom Angular CDK Stepper",
+    "summary": "Creating a Custom Angular CDK Stepper (Covers: Dynamic Step Creation in Custom Stepper, Implementing a Custom Stepper Component in Angular TypeScript, Implementing Linear Mode in Custom Stepper HTML)",
+    "snippet_count": 3
+  }
+]

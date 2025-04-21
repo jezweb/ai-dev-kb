@@ -1,0 +1,608 @@
+[
+  {
+    "filename": "adding_a_form_to_an_angular_app.md",
+    "title": "Adding a Form to an Angular App",
+    "summary": "Adding a Form to an Angular App (Covers: Creating Form Object in Angular Component, Implementing Form Submission Handler in Angular Component)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_animation_transitions_and_triggers_guide.md",
+    "title": "Angular Animation Transitions and Triggers Guide",
+    "summary": "Angular Animation Transitions and Triggers Guide (Covers: Implementing Animation Callbacks in Angular, Double Arrow State Transitions in Angular, Enter/Leave Animation Implementation...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_aot_compilation_guide.md",
+    "title": "Angular AOT Compilation Guide",
+    "summary": "Angular AOT Compilation Guide (Covers: Component with Non-null Assertion Operator)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cli_builders_guide.md",
+    "title": "Angular CLI Builders Guide",
+    "summary": "Angular CLI Builders Guide (Covers: Configuring Angular Builder Target in angular.json)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_coding_style_guide.md",
+    "title": "Angular Coding Style Guide",
+    "summary": "Angular Coding Style Guide (Covers: Demonstrating Bad Practices in Angular Component Structure, Implementing a Filter Text Service in Angular, Implementing OnInit Lifecycle Hook (Correct)...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "angular_complex_animation_sequences_guide.md",
+    "title": "Angular Complex Animation Sequences Guide",
+    "summary": "Angular Complex Animation Sequences Guide (Covers: Implementing Hero List Page Animations with Query and Stagger in Angular, Parallel Group Animations in Angular Hero List, Filter Animation Template in Angular HTML)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_component_host_elements_guide.md",
+    "title": "Angular Component Host Elements Guide",
+    "summary": "Angular Component Host Elements Guide (Covers: Rendered DOM with Angular Component, Binding to Host Element in Angular Component, Defining Host Bindings in Angular Component...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_component_inheritance_guide.md",
+    "title": "Angular Component Inheritance Guide",
+    "summary": "Angular Component Inheritance Guide (Covers: Extending Components with Metadata Inheritance in Angular, Overriding Lifecycle Methods in Angular Component Inheritance, Forwarding Injected Dependencies in Angular Component Inheritance...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_component_lifecycle_hooks_documentation.md",
+    "title": "Angular Component Lifecycle Hooks Documentation",
+    "summary": "Angular Component Lifecycle Hooks Documentation (Covers: Implementing ngOnChanges Hook in Angular TypeScript, Using DestroyRef in Angular TypeScript Component, Implementing Angular Lifecycle Interface...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_component_selectors_guide.md",
+    "title": "Angular Component Selectors Guide",
+    "summary": "Angular Component Selectors Guide (Covers: Using Multiple Comma-Separated Selectors, Combining Multiple Selector Types, Defining Basic Component Selector in Angular...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_component_structure_and_usage_guide.md",
+    "title": "Angular Component Structure and Usage Guide",
+    "summary": "Angular Component Structure and Usage Guide (Covers: Basic Angular Component Structure, Component Composition Example, Component Import and Usage...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_component_testing_guide.md",
+    "title": "Angular Component Testing Guide",
+    "summary": "Angular Component Testing Guide (Covers: Using Jasmine Clock with fakeAsync in Angular Tests, Simulating User Input in Angular Component Tests, Testing Asynchronous Operations with fakeAsync and tick...)",
+    "snippet_count": 17
+  },
+  {
+    "filename": "angular_components_overview.md",
+    "title": "Angular Components Overview",
+    "summary": "Angular Components Overview (Covers: Defining a Basic Angular Component with Inline Template, Defining an Angular Component with Inline Styles)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_control_flow_features.md",
+    "title": "Angular Control Flow Features",
+    "summary": "Angular Control Flow Features (Covers: Implementing List Iteration with @for in Angular Templates, Using Variable Assignment in Angular @if Blocks, Implementing Empty State Handling with @for and @empty...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_core_api_documentation.md",
+    "title": "Angular Core API Documentation",
+    "summary": "Angular Core API Documentation (Covers: Creating Components Programmatically in Angular, Defining a Computed Signal in Angular, Implementing ViewChild and ViewChildren Decorators for Angular Component References...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "angular_custom_events_with_outputs.md",
+    "title": "Angular Custom Events with Outputs",
+    "summary": "Angular Custom Events with Outputs (Covers: Binding to Custom Events in Angular Templates, Customizing Output Event Names in Angular, Emitting Data with Angular Custom Events...)",
+    "snippet_count": 11
+  },
+  {
+    "filename": "angular_dependency_injection_context_guide.md",
+    "title": "Angular Dependency Injection Context Guide",
+    "summary": "Angular Dependency Injection Context Guide (Covers: Running Code in Injection Context using runInInjectionContext in Angular Service, Using inject in Angular Router Guard Function)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_dependency_injection_guide.md",
+    "title": "Angular Dependency Injection Guide",
+    "summary": "Angular Dependency Injection Guide (Covers: Root-Level Service Provider Configuration, Basic Injectable Service Declaration in TypeScript, Creating Injectable Service in Angular TypeScript...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_development_environment_setup_guide.md",
+    "title": "Angular Development Environment Setup Guide",
+    "summary": "Angular Development Environment Setup Guide (Covers: Installing Angular CLI Using Package Managers)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_development_platform_setup_and_documentation.md",
+    "title": "Angular Development Platform Setup and Documentation",
+    "summary": "Angular Development Platform Setup and Documentation (Covers: Installing Angular CLI Globally)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_directive_composition_api_documentation.md",
+    "title": "Angular Directive Composition API Documentation",
+    "summary": "Angular Directive Composition API Documentation (Covers: Binding Host Directive Inputs and Outputs in Angular HTML Template, Aliasing Inputs and Outputs from Host Directives in Angular Component, Including Inputs and Outputs from Host Directives in Angular Component)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_essentials_introduction.md",
+    "title": "Angular Essentials Introduction",
+    "summary": "Angular Essentials Introduction (Covers: Creating Navigation Pill in HTML for Angular Documentation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_event_binding_function_invocation.md",
+    "title": "Angular Event Binding Function Invocation",
+    "summary": "Angular Event Binding Function Invocation (Covers: Correct Function Invocation in Angular Event Binding)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_event_handling_guide.md",
+    "title": "Angular Event Handling Guide",
+    "summary": "Angular Event Handling Guide (Covers: Binding MouseOver Event in Angular Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_export_not_found_error_guide.md",
+    "title": "Angular Export Not Found Error Guide",
+    "summary": "Angular Export Not Found Error Guide (Covers: Importing FormsModule in Angular Module)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_expression_syntax_guide.md",
+    "title": "Angular Expression Syntax Guide",
+    "summary": "Angular Expression Syntax Guide (Covers: Angular Logical and Comparison Operators, Angular RegExp Literals (Unsupported), Angular Object and Array Literals...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_forms_api_documentation.md",
+    "title": "Angular Forms API Documentation",
+    "summary": "Angular Forms API Documentation (Covers: Defining NgForm Class in Angular, NgModel Class Definition)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_forms_overview.md",
+    "title": "Angular Forms Overview",
+    "summary": "Angular Forms Overview (Covers: Importing FormsModule in Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_httpclient_interceptors_guide.md",
+    "title": "Angular HttpClient Interceptors Guide",
+    "summary": "Angular HttpClient Interceptors Guide (Covers: Configuring DI-based Interceptors for Angular HttpClient, Using Dependency Injection in Angular HttpClient Interceptors, Intercepting Response Events in Angular HttpClient...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_i18n_message_implementation_guide.md",
+    "title": "Angular i18n Message Implementation Guide",
+    "summary": "Angular i18n Message Implementation Guide (Covers: Implementing i18n Component Example in TypeScript, i18n String Renderer Implementation in TypeScript, Generating i18n Message in Angular TypeScript...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_inject_function_usage_guidelines.md",
+    "title": "Angular Inject Function Usage Guidelines",
+    "summary": "Angular Inject Function Usage Guidelines (Covers: Proper Usage of inject() in Angular Components, Incorrect Usage of inject() in Angular Lifecycle Hooks)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_inject_migration_guide.md",
+    "title": "Angular Inject Migration Guide",
+    "summary": "Angular Inject Migration Guide (Covers: Basic Inject Migration Example - After)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_injectable_services_guide.md",
+    "title": "Angular Injectable Services Guide",
+    "summary": "Angular Injectable Services Guide (Covers: CLI-Generated Hero Service, Implementing Hero Service with Dependencies, Creating Basic Logging Service in TypeScript...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_input_properties_guide.md",
+    "title": "Angular Input Properties Guide",
+    "summary": "Angular Input Properties Guide (Covers: Input Alias Usage in Template, Basic Input Property Declaration in Angular, Basic Input Binding in Angular Template...)",
+    "snippet_count": 16
+  },
+  {
+    "filename": "angular_installation_guide.md",
+    "title": "Angular Installation Guide",
+    "summary": "Angular Installation Guide (Covers: Installing Angular CLI using package managers, Creating a new Angular project using CLI)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_internationalization_(i18n)_guide_merging_translations.md",
+    "title": "Angular Internationalization (i18n) Guide: Merging Translations",
+    "summary": "Angular Internationalization (i18n) Guide: Merging Translations (Covers: Configuration for Building Production French Version, Building Production Version for a Specific Locale, Enabling Localization for All Defined Locales in angular.json)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_libraries_usage_guide.md",
+    "title": "Angular Libraries Usage Guide",
+    "summary": "Angular Libraries Usage Guide (Covers: Global Library Type Declaration, Installing D3 Library with TypeScript Types)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_package_format_(apf)_specification.md",
+    "title": "Angular Package Format (APF) Specification",
+    "summary": "Angular Package Format (APF) Specification (Covers: ESM Declaration in package.json)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_route_lazy_loading_migration_guide.md",
+    "title": "Angular Route Lazy Loading Migration Guide",
+    "summary": "Angular Route Lazy Loading Migration Guide (Covers: Lazy Loaded Route Configuration Example)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_router_reference_guide.md",
+    "title": "Angular Router Reference Guide",
+    "summary": "Angular Router Reference Guide (Covers: Implementing RouterLink in Angular Application, Using RouterOutlet in Angular Templates)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_security_documentation.md",
+    "title": "Angular Security Documentation",
+    "summary": "Angular Security Documentation (Covers: Minimal Content Security Policy for Angular Applications, Implementing Trust Functions in Angular Component, Creating Trusted Resource URLs for iframes in Angular...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_selector_collision_error_guide.md",
+    "title": "Angular Selector Collision Error Guide",
+    "summary": "Angular Selector Collision Error Guide (Covers: Example Component Selector Declaration in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_server_and_hybrid_rendering_documentation.md",
+    "title": "Angular Server and Hybrid Rendering Documentation",
+    "summary": "Angular Server and Hybrid Rendering Documentation (Covers: Configuring Static Site Generation in Angular.json, Configuring Server Routes in Angular, Creating New SSR Angular Project...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_service_worker_communication_guide.md",
+    "title": "Angular Service Worker Communication Guide",
+    "summary": "Angular Service Worker Communication Guide (Covers: Handling Version Updates with SwUpdate Service in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_service_worker_push_notifications_guide.md",
+    "title": "Angular Service Worker Push Notifications Guide",
+    "summary": "Angular Service Worker Push Notifications Guide (Covers: Configuring Basic Push Notification Payload with Click Action in JSON)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_signal_inputs_migration_guide.md",
+    "title": "Angular Signal Inputs Migration Guide",
+    "summary": "Angular Signal Inputs Migration Guide (Covers: Angular Component Before Signal Input Migration, Executing Signal Input Migration Command in Angular CLI)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_signal_queries_migration_guide.md",
+    "title": "Angular Signal Queries Migration Guide",
+    "summary": "Angular Signal Queries Migration Guide (Covers: Angular Component Before Signal Query Migration, Angular Component After Signal Query Migration)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_signals_usage_in_template_interpolations.md",
+    "title": "Angular Signals Usage in Template Interpolations",
+    "summary": "Angular Signals Usage in Template Interpolations (Covers: Disabling the interpolatedSignalNotInvoked Diagnostic in tsconfig.json)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_standalone_migration_guide.md",
+    "title": "Angular Standalone Migration Guide",
+    "summary": "Angular Standalone Migration Guide (Covers: Example of Angular Modules After NgModule Removal)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_structural_directives_guide.md",
+    "title": "Angular Structural Directives Guide",
+    "summary": "Angular Structural Directives Guide (Covers: Typing Generic Directive Context in Angular with Template Context Guards, Implementing Type Narrowing with a Template Guard Function in Angular, Using Structural Directive Shorthand Syntax in Angular HTML...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "angular_template_suffix_bindings_documentation.md",
+    "title": "Angular Template Suffix Bindings Documentation",
+    "summary": "Angular Template Suffix Bindings Documentation (Covers: Correct Attribute Binding in Angular HTML)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_template_type_checking_guide.md",
+    "title": "Angular Template Type Checking Guide",
+    "summary": "Angular Template Type Checking Guide (Covers: Defining User Interface for Template Type Checking in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_template_whitespace_handling_guide.md",
+    "title": "Angular Template Whitespace Handling Guide",
+    "summary": "Angular Template Whitespace Handling Guide (Covers: Preserving Whitespace in Angular Component, Multiple Whitespace Example in Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_templates_documentation.md",
+    "title": "Angular Templates Documentation",
+    "summary": "Angular Templates Documentation (Covers: HTML Attribute Binding in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_testing_utility_apis_guide.md",
+    "title": "Angular Testing Utility APIs Guide",
+    "summary": "Angular Testing Utility APIs Guide (Covers: Using Custom Predicate with DebugElement in Angular Tests, Using Angular's By Class for Element Selection in Tests)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "angular_typed_forms_documentation.md",
+    "title": "Angular Typed Forms Documentation",
+    "summary": "Angular Typed Forms Documentation (Covers: Creating a Basic Form Group in TypeScript with Angular Forms, Using NonNullableFormBuilder for Non-Nullable Controls, Creating a FormGroup with Non-Nullable Controls...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_workspace_configuration_guide.md",
+    "title": "Angular Workspace Configuration Guide",
+    "summary": "Angular Workspace Configuration Guide (Covers: Configuring Optimization Options in Angular.json, Configuring Styles and Scripts in Angular CLI JSON, Configuring Production Build with Conditional Optimization in Angular)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_zoneless_implementation_guide.md",
+    "title": "Angular Zoneless Implementation Guide",
+    "summary": "Angular Zoneless Implementation Guide (Covers: Configuring Zoneless Bootstrap in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "api_report_for_@angular_core_primitives_signals.md",
+    "title": "API Report for @angular/core_primitives_signals",
+    "summary": "API Report for @angular/core_primitives_signals (Covers: Defining Types and Interfaces for Angular Signals in TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "building_a_template-driven_form_in_angular.md",
+    "title": "Building a Template-Driven Form in Angular",
+    "summary": "Building a Template-Driven Form in Angular (Covers: Toggling Form Visibility in Angular Template, Adding New Actor Method in Angular Component, Implementing Conditional Error Messages in Angular Forms...)",
+    "snippet_count": 13
+  },
+  {
+    "filename": "building_dynamic_forms_in_angular.md",
+    "title": "Building Dynamic Forms in Angular",
+    "summary": "Building Dynamic Forms in Angular (Covers: Implementing DropdownQuestion Control in Angular, Creating QuestionControlService for Dynamic Forms in Angular, Implementing DynamicFormComponent in Angular...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "common_routing_tasks_in_angular.md",
+    "title": "Common Routing Tasks in Angular",
+    "summary": "Common Routing Tasks in Angular (Covers: Implementing Nested Routes in Angular HTML Template, Accessing Route Parameters in Angular Component, Setting Page Titles in Angular Routes...)",
+    "snippet_count": 11
+  },
+  {
+    "filename": "configuring_dependency_providers_in_angular.md",
+    "title": "Configuring Dependency Providers in Angular",
+    "summary": "Configuring Dependency Providers in Angular (Covers: Using useExisting for Alias Providers in Angular, Configuring a Factory Provider in Angular, Creating a Factory Function for HeroService in Angular...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "constructor-based_dependency_injection_in_angular.md",
+    "title": "Constructor-based Dependency Injection in Angular",
+    "summary": "Constructor-based Dependency Injection in Angular (Covers: Implementing Basic Constructor DI in Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "control_flow_in_components_-_using_@if_in_angular_templates.md",
+    "title": "Control Flow in Components - Using @if in Angular Templates",
+    "summary": "Control Flow in Components - Using @if in Angular Templates (Covers: Basic @if Conditional Template Example in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_and_using_angular_services_with_dependency_injection.md",
+    "title": "Creating and Using Angular Services with Dependency Injection",
+    "summary": "Creating and Using Angular Services with Dependency Injection (Covers: Generating an Angular Service Using CLI, Injecting and Using Housing Service in Component, Importing Angular Core in Home Component)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "creating_and_using_template_fragments_with_ng-template_in_angular.md",
+    "title": "Creating and Using Template Fragments with ng-template in Angular",
+    "summary": "Creating and Using Template Fragments with ng-template in Angular (Covers: Declaring Parameters in Angular Template Fragment, Using Structural Directive Syntax in Angular, Querying Multiple Template Fragments in Angular Component)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "debugging_no_provider_found_error_in_angular.md",
+    "title": "Debugging No Provider Found Error in Angular",
+    "summary": "Debugging No Provider Found Error in Angular (Covers: Configuring Injectable Decorator with providedIn for Angular Service)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "dependency_injection_in_angular.md",
+    "title": "Dependency Injection in Angular",
+    "summary": "Dependency Injection in Angular (Covers: Resolving Circular Dependencies with forwardRef in Angular, Injecting Component's DOM Element in Angular Directive, Various Binding Types in Angular DI...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "dependent_state_management_with_linkedsignal_in_angular.md",
+    "title": "Dependent State Management with linkedSignal in Angular",
+    "summary": "Dependent State Management with linkedSignal in Angular (Covers: Using linkedSignal for Dependent State in Angular Shipping Method Selection, Basic Signal Usage for Shipping Method Selection in Angular, Demonstrating linkedSignal Behavior with Changing Options...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "event_listeners_in_angular_templates.md",
+    "title": "Event Listeners in Angular Templates",
+    "summary": "Event Listeners in Angular Templates (Covers: Combining Key Modifiers in Angular Templates, Accessing Event Objects in Angular Templates, Using Key Modifiers in Angular Templates...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "formatting_data_with_pipes_in_angular.md",
+    "title": "Formatting Data with Pipes in Angular",
+    "summary": "Formatting Data with Pipes in Angular (Covers: Using DatePipe with Parameters in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "forms_in_angular.md",
+    "title": "Forms in Angular",
+    "summary": "Forms in Angular (Covers: Implementing Reactive Form Control in Angular TypeScript, Testing View-to-Model Data Flow in Reactive Forms, Visualizing Model-to-View Data Flow in Template-Driven Forms...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "hierarchical_injectors_in_angular.md",
+    "title": "Hierarchical Injectors in Angular",
+    "summary": "Hierarchical Injectors in Angular (Covers: Displaying FlowerService Emoji in ChildComponent Template, Configuring a Custom Location Strategy Provider, Configuring Component-Level Service Providers in Angular...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "httpclient_security_in_angular.md",
+    "title": "HttpClient Security in Angular",
+    "summary": "HttpClient Security in Angular (Covers: Configuring Custom XSRF Cookie and Header Names in Angular HttpClient, Disabling XSRF Protection in Angular HttpClient)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "inject-based_dependency_injection_in_angular.md",
+    "title": "Inject-based Dependency Injection in Angular",
+    "summary": "Inject-based Dependency Injection in Angular (Covers: Injecting a Service in Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "injectable_service_creation_guide_-_angular_typescript.md",
+    "title": "Injectable Service Creation Guide - Angular TypeScript",
+    "summary": "Injectable Service Creation Guide - Angular TypeScript (Covers: Creating Injectable User Service - Angular TypeScript)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "integrating_details_page_with_routing_in_angular.md",
+    "title": "Integrating Details Page with Routing in Angular",
+    "summary": "Integrating Details Page with Routing in Angular (Covers: Adding RouterLink Directive in Angular Component Template, Implementing DetailsComponent Class in Angular, Defining Dynamic Route in Angular...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "introduction_to_angular_animations_guide.md",
+    "title": "Introduction to Angular Animations Guide",
+    "summary": "Introduction to Angular Animations Guide (Covers: Bidirectional Transition Definition in Angular Animation, Importing Animation Functions in Angular Component, Complete Open-Close Component in Angular Animation...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "migrating_angular_projects_to_standalone_components.md",
+    "title": "Migrating Angular Projects to Standalone Components",
+    "summary": "Migrating Angular Projects to Standalone Components (Covers: Converting Angular Component to Standalone (After))",
+    "snippet_count": 1
+  },
+  {
+    "filename": "optimizing_angular_applications_with_lightweight_injection_tokens.md",
+    "title": "Optimizing Angular Applications with Lightweight Injection Tokens",
+    "summary": "Optimizing Angular Applications with Lightweight Injection Tokens (Covers: Using Lightweight Injection Tokens for API Definition in Angular, Using Optional Library Header in Angular Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "preparing_angular_components_for_internationalization_(i18n).md",
+    "title": "Preparing Angular Components for Internationalization (i18n)",
+    "summary": "Preparing Angular Components for Internationalization (i18n) (Covers: Translating Inline Text without HTML Element using ng-container, Marking Text in Angular Component Code with $localize, Marking Element Attributes for Translation in Angular...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "programmatically_rendering_components_in_angular.md",
+    "title": "Programmatically Rendering Components in Angular",
+    "summary": "Programmatically Rendering Components in Angular (Covers: Lazy-Loading Components with Dynamic Import in Angular, Dynamic Component Creation with ViewContainerRef in Angular)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "publishing_guide_for_angular_benchpress_package.md",
+    "title": "Publishing Guide for Angular Benchpress Package",
+    "summary": "Publishing Guide for Angular Benchpress Package (Covers: Publishing Angular Benchpress Package using Bazel)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "reactive_forms_in_angular.md",
+    "title": "Reactive Forms in Angular",
+    "summary": "Reactive Forms in Angular (Covers: Implementing onSubmit Method in ProfileEditor Component, Injecting FormBuilder Service in Angular TypeScript, Displaying FormArray in Angular Template...)",
+    "snippet_count": 23
+  },
+  {
+    "filename": "reusable_angular_animations_guide.md",
+    "title": "Reusable Angular Animations Guide",
+    "summary": "Reusable Angular Animations Guide (Covers: Defining a Reusable Animation in TypeScript, Exporting an Animation Trigger in TypeScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "route_transition_animations_with_view_transitions_api_in_angular.md",
+    "title": "Route Transition Animations with View Transitions API in Angular",
+    "summary": "Route Transition Animations with View Transitions API in Angular (Covers: Customizing View Transitions with CSS)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "setting_up_reactive_forms_in_angular.md",
+    "title": "Setting Up Reactive Forms in Angular",
+    "summary": "Setting Up Reactive Forms in Angular (Covers: Importing ReactiveFormsModule in Angular Component, Creating FormGroup with FormControls in Angular, Handling Form Submission in Angular Component)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "styling_angular_components.md",
+    "title": "Styling Angular Components",
+    "summary": "Styling Angular Components (Covers: Defining Inline Styles in Angular Component, Setting View Encapsulation Mode in Angular Component)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "testing_angular_components.md",
+    "title": "Testing Angular Components",
+    "summary": "Testing Angular Components (Covers: Minimal Component Test Configuration, Debug Element Usage in Tests, Component Creation in Tests...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "testing_angular_pipes_guide.md",
+    "title": "Testing Angular Pipes Guide",
+    "summary": "Testing Angular Pipes Guide (Covers: Testing TitleCase Pipe in Component Context, Unit Testing TitleCase Pipe with Jasmine)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "testing_angular_services_strategies_and_best_practices.md",
+    "title": "Testing Angular Services: Strategies and Best Practices",
+    "summary": "Testing Angular Services: Strategies and Best Practices (Covers: Testing MasterService with TestBed and Spy, Configuring TestBed for ValueService Testing, Testing a Service with Dependencies Using Multiple Approaches...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "testing_attribute_directives_in_angular.md",
+    "title": "Testing Attribute Directives in Angular",
+    "summary": "Testing Attribute Directives in Angular (Covers: Testing Angular HighlightDirective with Various Techniques)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "testing_http_requests_in_angular_applications.md",
+    "title": "Testing HTTP Requests in Angular Applications",
+    "summary": "Testing HTTP Requests in Angular Applications (Covers: Configuring TestBed for HTTP Testing in Angular, Testing Class-based HTTP Interceptor, Testing HTTP Error Responses...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "text_attribute_not_binding_in_angular_templates.md",
+    "title": "Text Attribute Not Binding in Angular Templates",
+    "summary": "Text Attribute Not Binding in Angular Templates (Covers: Incorrect Usage of attr. Prefix in Angular Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_async_resources_in_angular.md",
+    "title": "Using Async Resources in Angular",
+    "summary": "Using Async Resources in Angular (Covers: Creating Basic Resource in Angular TypeScript, Implementing Resource with Request Abortion in Angular, Resource Reload Implementation in Angular)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "using_ng-container_in_angular_templates.md",
+    "title": "Using ng-container in Angular Templates",
+    "summary": "Using ng-container in Angular Templates (Covers: Rendering Template Fragments with NgTemplateOutlet in Angular, Using ng-container for Dependency Injection Context in Angular, Using Structural Directives with ng-container in Angular)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "using_pipes_in_angular_templates.md",
+    "title": "Using Pipes in Angular Templates",
+    "summary": "Using Pipes in Angular Templates (Covers: Passing Format Parameter to DatePipe in Angular Template, Passing Format Parameter to DatePipe in Angular Template, Applying Basic DatePipe in Angular HTML Template...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "using_variables_in_angular_templates.md",
+    "title": "Using Variables in Angular Templates",
+    "summary": "Using Variables in Angular Templates (Covers: Demonstrating @let Variable Scope in Angular Templates, Referencing Directives through exportAs in Angular Templates, Referencing Template Fragments with Variables in Angular...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "validating_form_input_in_angular.md",
+    "title": "Validating Form Input in Angular",
+    "summary": "Validating Form Input in Angular (Covers: Implementing Reactive Form Validation in Angular TypeScript, Implementing Custom Validator Directive in Angular TypeScript, Implementing Template-Driven Form Validation in Angular HTML...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "web_workers_implementation_guide_for_angular_applications.md",
+    "title": "Web Workers Implementation Guide for Angular Applications",
+    "summary": "Web Workers Implementation Guide for Angular Applications (Covers: Generating Web Worker for Root Component)",
+    "snippet_count": 1
+  }
+]

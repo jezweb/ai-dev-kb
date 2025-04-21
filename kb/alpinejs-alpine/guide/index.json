@@ -1,0 +1,86 @@
+[
+  {
+    "filename": "alpine.js_advanced_usage_guide.md",
+    "title": "Alpine.js Advanced Usage Guide",
+    "summary": "Alpine.js Advanced Usage Guide (Covers: Markdown Front Matter Configuration)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_essentials_documentation.md",
+    "title": "Alpine.js Essentials Documentation",
+    "summary": "Alpine.js Essentials Documentation (Covers: YAML Front Matter Configuration for Alpine.js Documentation)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "alpine.js_event_handling_documentation.md",
+    "title": "Alpine.js Event Handling Documentation",
+    "summary": "Alpine.js Event Handling Documentation (Covers: Basic Click Event Handling in Alpine.js, Event Handling with Shorthand Syntax in Alpine.js, Custom Event Handling in Alpine.js...)",
+    "snippet_count": 22
+  },
+  {
+    "filename": "alpine.js_event_handling_guide.md",
+    "title": "Alpine.js Event Handling Guide",
+    "summary": "Alpine.js Event Handling Guide (Covers: Basic Click Event Handling in Alpine.js, Event Shorthand Syntax in Alpine.js, Custom Event Dispatching in Alpine.js...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "alpine.js_installation_guide.md",
+    "title": "Alpine.js Installation Guide",
+    "summary": "Alpine.js Installation Guide (Covers: Including Alpine.js via CDN Script Tag, Installing Alpine.js via NPM, Importing and Initializing Alpine.js as a Module...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "alpine.js_lifecycle_documentation.md",
+    "title": "Alpine.js Lifecycle Documentation",
+    "summary": "Alpine.js Lifecycle Documentation (Covers: Defining init() Method in Alpine.data for Component Initialization, Using x-effect Directive for Reactive State Tracking in Alpine.js, Using $watch Magic to Monitor Data Changes in Alpine.js...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "alpine.js_project_overview_and_contribution_guide.md",
+    "title": "Alpine.js Project Overview and Contribution Guide",
+    "summary": "Alpine.js Project Overview and Contribution Guide (Covers: Running Tests for Alpine.js, Installing Dependencies and Building Alpine.js)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "alpine.js_reactivity_guide.md",
+    "title": "Alpine.js Reactivity Guide",
+    "summary": "Alpine.js Reactivity Guide (Covers: Reactive Data Modification Example, Complete Counter Component Implementation, Alpine.effect() Basic Usage...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "alpine.js_state_management.md",
+    "title": "Alpine.js State Management",
+    "summary": "Alpine.js State Management (Covers: Accessing Global Store from Alpine.js Components, Creating a Global Store with Alpine.store(), Using Alpine.js Data on a Single Element...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "alpine.js_x-for_directive_usage_guide.md",
+    "title": "Alpine.js x-for Directive Usage Guide",
+    "summary": "Alpine.js x-for Directive Usage Guide (Covers: Iterating Through Arrays with x-for in Alpine.js, Using Keys with x-for in Alpine.js, Accessing Indexes in x-for Iterations in Alpine.js...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "alpine.store_global_state_management.md",
+    "title": "Alpine.store: Global State Management",
+    "summary": "Alpine.store: Global State Management (Covers: Registering an Alpine Store using script tag, Registering an Alpine Store from a bundle, Accessing Alpine store data in components...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "asynchronous_functions_in_alpine.js.md",
+    "title": "Asynchronous Functions in Alpine.js",
+    "summary": "Asynchronous Functions in Alpine.js (Covers: Defining Asynchronous Function in JavaScript, Using Asynchronous Function in Alpine.js Without Parentheses, Using Synchronous Function in Alpine.js x-text Directive...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "csp_(content-security_policy)_build_for_alpine.js.md",
+    "title": "CSP (Content-Security Policy) Build for Alpine.js",
+    "summary": "CSP (Content-Security Policy) Build for Alpine.js (Covers: Complete HTML Example with Alpine.js CSP Build and Content-Security-Policy, Valid Component Declaration with Alpine.js CSP Build (HTML), Installing Alpine.js CSP Build via NPM...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "getting_started_with_alpine.js.md",
+    "title": "Getting Started with Alpine.js",
+    "summary": "Getting Started with Alpine.js (Covers: Building a Counter Component with Alpine.js, Creating a Toggle Dropdown with Alpine.js, Setting Up Alpine.js Basic HTML Template...)",
+    "snippet_count": 7
+  }
+]

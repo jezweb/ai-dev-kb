@@ -1,0 +1,266 @@
+[
+  {
+    "filename": "accessibility_in_angular.md",
+    "title": "Accessibility in Angular",
+    "summary": "Accessibility in Angular (Covers: Using ARIA attribute binding in Angular templates)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_@defer_block_documentation.md",
+    "title": "Angular @defer Block Documentation",
+    "summary": "Angular @defer Block Documentation (Covers: Angular Prefetch Configuration for @defer Blocks)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_@for_loop_tracking_expression_documentation.md",
+    "title": "Angular @for Loop Tracking Expression Documentation",
+    "summary": "Angular @for Loop Tracking Expression Documentation (Covers: Optimized Tracking Expression in Angular @for Loop)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_@for_loop_tracking_expression_issue.md",
+    "title": "Angular @for Loop Tracking Expression Issue",
+    "summary": "Angular @for Loop Tracking Expression Issue (Covers: Corrected @for Loop with Unique Keys in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_brand_and_press_kit_documentation.md",
+    "title": "Angular Brand and Press Kit Documentation",
+    "summary": "Angular Brand and Press Kit Documentation (Covers: Custom Card Container Structure in Markdown)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_cli_documentation.md",
+    "title": "Angular CLI Documentation",
+    "summary": "Angular CLI Documentation (Covers: Installing Angular CLI via npm)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_component_harnesses_overview.md",
+    "title": "Angular Component Harnesses Overview",
+    "summary": "Angular Component Harnesses Overview (Covers: Using a Component Harness in a Unit Test)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_elements_overview.md",
+    "title": "Angular Elements Overview",
+    "summary": "Angular Elements Overview (Covers: Defining a Custom Element Component in TypeScript, Implementing a Popup Component and Service in Angular, Installing Angular Elements Package)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_http_client_documentation.md",
+    "title": "Angular HTTP Client Documentation",
+    "summary": "Angular HTTP Client Documentation (Covers: Angular Service Package Reference)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_hydration_documentation.md",
+    "title": "Angular Hydration Documentation",
+    "summary": "Angular Hydration Documentation (Covers: Enabling Hydration in Angular Application with bootstrapApplication, Enabling Event Replay in Angular Application, Setting ngSkipHydration as a Host Binding in Angular TypeScript...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_internationalization_(i18n)_translation_file_management.md",
+    "title": "Angular Internationalization (i18n) Translation File Management",
+    "summary": "Angular Internationalization (i18n) Translation File Management (Covers: Multiple Translation Units in XLIFF Format, French Translation Unit Before Translation in XLIFF Format, Extracting i18n Translations with Different Format Options in Angular CLI...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "angular_ivy_renderer_data_layout_documentation.md",
+    "title": "Angular Ivy Renderer Data Layout Documentation",
+    "summary": "Angular Ivy Renderer Data Layout Documentation (Covers: Component Definition with DOM Elements in Angular Ivy, Component with Child Components and Directives in Angular Ivy, Implementing the Factory System for Angular Dependency Injection)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "angular_ngmodules_documentation.md",
+    "title": "Angular NgModules Documentation",
+    "summary": "Angular NgModules Documentation (Covers: Importing Dependencies in NgModule, Exporting Components from NgModule, Specifying Providers in NgModules...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "angular_pipes_documentation.md",
+    "title": "Angular Pipes Documentation",
+    "summary": "Angular Pipes Documentation (Covers: Implementing PipeTransform Interface for Custom Pipe, Creating Parameterized Angular Pipe, Using Built-in Pipes in Angular Component...)",
+    "snippet_count": 7
+  },
+  {
+    "filename": "angular_schematics_documentation.md",
+    "title": "Angular Schematics Documentation",
+    "summary": "Angular Schematics Documentation (Covers: Basic Schema Definition for Schematic Options)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_signals_documentation.md",
+    "title": "Angular Signals Documentation",
+    "summary": "Angular Signals Documentation (Covers: Creating a Computed Signal in TypeScript, Creating an Effect with Injector in TypeScript, Creating a Conditional Computed Signal in TypeScript...)",
+    "snippet_count": 10
+  },
+  {
+    "filename": "angular_signals_implementation.md",
+    "title": "Angular Signals Implementation",
+    "summary": "Angular Signals Implementation (Covers: Creating and Updating Writable Signals in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "angular_workspace_and_project_file_structure.md",
+    "title": "Angular Workspace and Project File Structure",
+    "summary": "Angular Workspace and Project File Structure (Covers: Generating Angular Application and Library in Workspace)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "binding_dynamic_text,_properties,_and_attributes_in_angular.md",
+    "title": "Binding Dynamic Text, Properties, and Attributes in Angular",
+    "summary": "Binding Dynamic Text, Properties, and Attributes in Angular (Covers: Rendering Dynamic Text with Text Interpolation in Angular, Binding to Native Element Properties in Angular, Binding CSS Classes in Angular Templates...)",
+    "snippet_count": 6
+  },
+  {
+    "filename": "component_communication_with_@input_in_angular.md",
+    "title": "Component Communication with @Input in Angular",
+    "summary": "Component Communication with @Input in Angular (Covers: Using @Input Property in Angular Template, Defining @Input Property in TypeScript)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "component_communication_with_@output_in_angular.md",
+    "title": "Component Communication with @Output in Angular",
+    "summary": "Component Communication with @Output in Angular (Covers: Declaring an Output Property in Angular Component, Listening to Child Component Events in Angular Templates)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "content_projection_in_angular_using_ng-content.md",
+    "title": "Content Projection in Angular using ng-content",
+    "summary": "Content Projection in Angular using ng-content (Covers: Content Projection Usage Example, Fallback Content Implementation, Multiple Content Placeholders with Selectors)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "creating_and_packaging_angular_library_schematics.md",
+    "title": "Creating and Packaging Angular Library Schematics",
+    "summary": "Creating and Packaging Angular Library Schematics (Covers: Chaining Rules in Schematic Factory, Complete Schematic Factory Implementation, Setting Path for Schematic Output)",
+    "snippet_count": 3
+  },
+  {
+    "filename": "creating_and_using_custom_pipes_in_angular.md",
+    "title": "Creating and Using Custom Pipes in Angular",
+    "summary": "Creating and Using Custom Pipes in Angular (Covers: Adding @Pipe Decorator to ReversePipe in TypeScript, Using ReversePipe in Angular Component Template)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "creating_component_test_harnesses_in_angular.md",
+    "title": "Creating Component Test Harnesses in Angular",
+    "summary": "Creating Component Test Harnesses in Angular (Covers: Installing Angular CDK for Component Harnesses, Creating a Minimal Component Harness, Implementing User Interaction Methods in a Component Harness...)",
+    "snippet_count": 4
+  },
+  {
+    "filename": "creating_custom_pipes_in_angular.md",
+    "title": "Creating Custom Pipes in Angular",
+    "summary": "Creating Custom Pipes in Angular (Covers: Marking a Class as a Pipe in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "creating_the_housinglocation_component_in_angular.md",
+    "title": "Creating the HousingLocation Component in Angular",
+    "summary": "Creating the HousingLocation Component in Angular (Covers: Generating a New Angular Component with CLI, Adding HousingLocationComponent to HomeComponent Imports Array)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "deferred_loading_with_@defer_in_angular.md",
+    "title": "Deferred Loading with @defer in Angular",
+    "summary": "Deferred Loading with @defer in Angular (Covers: Implementing Timer-based Defer Loading in Angular, Basic @defer Block Usage in Angular HTML, Implementing hover Trigger with @defer in Angular HTML...)",
+    "snippet_count": 11
+  },
+  {
+    "filename": "defining_routes_in_angular.md",
+    "title": "Defining Routes in Angular",
+    "summary": "Defining Routes in Angular (Covers: Defining Basic Routes in Angular Router)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "generating_and_enforcing_code_coverage_in_angular.md",
+    "title": "Generating and Enforcing Code Coverage in Angular",
+    "summary": "Generating and Enforcing Code Coverage in Angular (Covers: Generating Code Coverage Report with Angular CLI)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "generating_code_with_angular_schematics.md",
+    "title": "Generating Code with Angular Schematics",
+    "summary": "Generating Code with Angular Schematics (Covers: Updating Angular Material Library)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "hydration_unsupported_projection_of_dom_nodes_in_angular.md",
+    "title": "Hydration Unsupported Projection of DOM Nodes in Angular",
+    "summary": "Hydration Unsupported Projection of DOM Nodes in Angular (Covers: Demonstrating Unsupported DOM Node Projection in Angular Components)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "implementing_deferrable_views_in_angular.md",
+    "title": "Implementing Deferrable Views in Angular",
+    "summary": "Implementing Deferrable Views in Angular (Covers: Viewport-Triggered Defer Block in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "making_http_requests_with_angular_httpclient.md",
+    "title": "Making HTTP Requests with Angular HttpClient",
+    "summary": "Making HTTP Requests with Angular HttpClient (Covers: Fetching JSON Data with HttpClient GET Method in TypeScript, Creating a Reusable User Service with HttpClient in Angular, Mutating Server State with HttpClient POST Method in TypeScript...)",
+    "snippet_count": 9
+  },
+  {
+    "filename": "managing_marked_text_with_custom_ids_in_angular_internationalization.md",
+    "title": "Managing Marked Text with Custom IDs in Angular Internationalization",
+    "summary": "Managing Marked Text with Custom IDs in Angular Internationalization (Covers: Using Meaning, Custom ID, and Description with $localize in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "optimizing_images_with_ngoptimizedimage_in_angular.md",
+    "title": "Optimizing Images with NgOptimizedImage in Angular",
+    "summary": "Optimizing Images with NgOptimizedImage in Angular (Covers: Prioritizing Important Images with NgOptimizedImage)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "separate_compilation_design_doc_for_angular_ivy.md",
+    "title": "Separate Compilation Design Doc for Angular Ivy",
+    "summary": "Separate Compilation Design Doc for Angular Ivy (Covers: Component Metadata JSON for Ivy, Compiled Directive in JavaScript with Ivy)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "two-way_data_binding_in_angular.md",
+    "title": "Two-way Data Binding in Angular",
+    "summary": "Two-way Data Binding in Angular (Covers: Simplified Parent Component with Two-way Binding in Angular, Implementing Two-way Binding with Form Controls in Angular, Parent Component Setup for Two-way Binding in Angular...)",
+    "snippet_count": 5
+  },
+  {
+    "filename": "unwrapping_observable_data_in_angular.md",
+    "title": "Unwrapping Observable Data in Angular",
+    "summary": "Unwrapping Observable Data in Angular (Covers: Using AsyncPipe with Observable Data Stream in Angular Component)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_@loading,_@error,_and_@placeholder_blocks_in_angular_deferrable_views.md",
+    "title": "Using @loading, @error, and @placeholder Blocks in Angular Deferrable Views",
+    "summary": "Using @loading, @error, and @placeholder Blocks in Angular Deferrable Views (Covers: Adding @placeholder Block in Angular Deferrable View)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_component_harnesses_in_angular_tests.md",
+    "title": "Using Component Harnesses in Angular Tests",
+    "summary": "Using Component Harnesses in Angular Tests (Covers: Manual Change Detection Control in Angular Tests, Using Harness Loader to Get Component Harnesses in Angular)",
+    "snippet_count": 2
+  },
+  {
+    "filename": "using_deferrable_views_in_angular.md",
+    "title": "Using Deferrable Views in Angular",
+    "summary": "Using Deferrable Views in Angular (Covers: Implementing Defer Block in Angular Template)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_ng-content_for_content_projection_in_angular.md",
+    "title": "Using ng-content for Content Projection in Angular",
+    "summary": "Using ng-content for Content Projection in Angular (Covers: Defining a BaseButton Component with ng-content in Angular)",
+    "snippet_count": 1
+  },
+  {
+    "filename": "using_signals_in_angular.md",
+    "title": "Using Signals in Angular",
+    "summary": "Using Signals in Angular (Covers: Implementing Signals in Angular Components, Creating and Manipulating Signals in TypeScript)",
+    "snippet_count": 2
+  }
+]

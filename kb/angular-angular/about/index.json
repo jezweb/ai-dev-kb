@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "angular_13.3.11_changelog.md",
+    "title": "Angular 13.3.11 Changelog",
+    "summary": "Angular 13.3.11 Changelog (Covers: Optimizing Directive/Pipe Reference Emission in Angular Compiler, Adding Support for TypeScript 3.8, Adding style=\"{{exp}}\" based interpolation in Angular Core...)",
+    "snippet_count": 8
+  },
+  {
+    "filename": "zone.js_release_notes.md",
+    "title": "Zone.js Release Notes",
+    "summary": "Zone.js Release Notes (Covers: Upgrading Zone.js to Angular Package Format (APF))",
+    "snippet_count": 1
+  }
+]

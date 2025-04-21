@@ -1,0 +1,125 @@
+[
+  {
+    "category": "about",
+    "index_file": "about/index.json",
+    "file_count": 2,
+    "keywords": [
+      "initializing",
+      "draggable",
+      "element",
+      "release",
+      "html",
+      "structure",
+      "elements"
+    ]
+  },
+  {
+    "category": "api",
+    "index_file": "api/index.json",
+    "file_count": 74,
+    "keywords": [
+      "configuring",
+      "draggable",
+      "settings",
+      "animejs",
+      "elements",
+      "containerfriction",
+      "timeline",
+      "playback",
+      "adding",
+      "animations",
+      "timers",
+      "functions",
+      "html",
+      "structure",
+      "getter"
+    ]
+  },
+  {
+    "category": "config",
+    "index_file": "config/index.json",
+    "file_count": 6,
+    "keywords": [
+      "creating",
+      "looped",
+      "timeline",
+      "animation",
+      "initializing",
+      "animejs",
+      "scope",
+      "animating",
+      "elements",
+      "scrollobserver",
+      "configuring",
+      "yaxis",
+      "draggable",
+      "behavior",
+      "toggle"
+    ]
+  },
+  {
+    "category": "examples",
+    "index_file": "examples/index.json",
+    "file_count": 3,
+    "keywords": [
+      "animejs",
+      "scrollobserver",
+      "onleave",
+      "callback",
+      "html",
+      "structure",
+      "example",
+      "pausing",
+      "resuming",
+      "engine",
+      "animation",
+      "creating",
+      "timeline",
+      "stagger"
+    ]
+  },
+  {
+    "category": "guide",
+    "index_file": "guide/index.json",
+    "file_count": 77,
+    "keywords": [
+      "importing",
+      "animate",
+      "creating",
+      "complex",
+      "animations",
+      "keyframes",
+      "waapi",
+      "installing",
+      "animejs",
+      "npm",
+      "es6",
+      "modules",
+      "methods",
+      "umd",
+      "global"
+    ]
+  },
+  {
+    "category": "misc",
+    "index_file": "misc/index.json",
+    "file_count": 110,
+    "keywords": [
+      "manipulating",
+      "timeline",
+      "animejs",
+      "creating",
+      "html",
+      "structure",
+      "animation",
+      "react",
+      "component",
+      "integration",
+      "importing",
+      "es",
+      "modules",
+      "initializing",
+      "animatable"
+    ]
+  }
+]

@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "Accelerate",
+    "context7_path": "/huggingface/accelerate"
+  },
+  {
+    "name": "Agent Development Kit",
+    "context7_path": "/google/adk-docs"
+  },
+  {
+    "name": "Agent Development Kit Python",
+    "context7_path": "/google/adk-python"
+  },
+  {
+    "name": "Agent2Agent Protocol",
+    "context7_path": "/google/A2A"
+  },
+  {
+    "name": "AI Agents for Beginners",
+    "context7_path": "/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "name": "Alpine.js",
+    "context7_path": "/alpinejs/alpine"
+  },
+  {
+    "name": "Angular",
+    "context7_path": "/angular/angular"
+  },
+  {
+    "name": "Angular Components",
+    "context7_path": "/angular/components"
+  },
+  {
+    "name": "Anime.js",
+    "context7_path": "/Ogyeet10/animejs-docs"
+  },
+  {
+    "name": "Ant Design",
+    "context7_path": "/ant-design/ant-design"
+  },
+  {
+    "name": "Anthropic",
+    "context7_path": "/anthropics/anthropic-cookbook"
+  },
+  {
+    "name": "Anthropic TypeScript SDK",
+    "context7_path": "/anthropics/anthropic-sdk-typescript"
+  },
+  {
+    "name": "Apache Arrow",
+    "context7_path": "/apache/arrow"
+  },
+  {
+    "name": "Apache Arrow",
+    "context7_path": "/apache/arrow-site"
+  },
+  {
+    "name": "Arco Design",
+    "context7_path": "/arco-design/arco-design"
+  },
+  {
+    "name": "ASP.NET Core",
+    "context7_path": "/dotnet/aspnetcore"
+  },
+  {
+    "name": "Astro",
+    "context7_path": "/withastro/docs"
+  },
+  {
+    "name": "AutoGen",
+    "context7_path": "/microsoft/autogen"
+  },
+  {
+    "name": "AWS Amplify",
+    "context7_path": "/aws-amplify/amplify-js"
+  },
+  {
+    "name": "AWS Cloud Development Kit",
+    "context7_path": "/aws/aws-cdk"
+  },
+  {
+    "name": "AWS Lambda Rust Runtime",
+    "context7_path": "/awslabs/aws-lambda-rust-runtime"
+  },
+  {
+    "name": "AWS SDK",
+    "context7_path": "/awsdocs/aws-doc-sdk-examples"
+  },
+  {
+    "name": "AWS SDK for Go v2",
+    "context7_path": "/aws/aws-sdk-go-v2"
+  },
+  {
+    "name": "AWS SDK for JavaScript v3",
+    "context7_path": "/aws/aws-sdk-js-v3"
+  },
+  {
+    "name": "AWS SDK for Rust",
+    "context7_path": "/awslabs/aws-sdk-rust"
+  },
+  {
+    "name": "Axum",
+    "context7_path": "/tokio-rs/axum"
+  },
+  {
+    "name": "Azure Pipelines Tasks",
+    "context7_path": "/microsoft/azure-pipelines-tasks"
+  },
+  {
+    "name": "Azure SDK for Go",
+    "context7_path": "/Azure/azure-sdk-for-go"
+  },
+  {
+    "name": "Biome",
+    "context7_path": "/biomejs/biome"
+  },
+  {
+    "name": "Bits UI",
+    "context7_path": "/huntabyte/bits-ui"
+  },
+  {
+    "name": "Bootstrap",
+    "context7_path": "/twbs/bootstrap"
+  },
+  {
+    "name": "Candle",
+    "context7_path": "/huggingface/candle"
+  },
+  {
+    "name": "Chart.js",
+    "context7_path": "/chartjs/Chart.js"
+  },
+  {
+    "name": "Clerk",
+    "context7_path": "/clerk/clerk-docs"
+  },
+  {
+    "name": "Clerk Python SDK",
+    "context7_path": "/clerk/clerk-sdk-python"
+  },
+  {
+    "name": "Cloudflare",
+    "context7_path": "/cloudflare/cloudflare-docs"
+  },
+  {
+    "name": "Cloudflare Agents",
+    "context7_path": "/cloudflare/agents"
+  },
+  {
+    "name": "Cloudflare API Client for TypeScript",
+    "context7_path": "/cloudflare/cloudflare-typescript"
+  },
+  {
+    "name": "Codex",
+    "context7_path": "/openai/codex"
+  },
+  {
+    "name": "Compose Multiplatform",
+    "context7_path": "/JetBrains/compose-multiplatform"
+  },
+  {
+    "name": "Convex",
+    "context7_path": "/get-convex/convex-backend"
+  },
+  {
+    "name": "Coolify",
+    "context7_path": "/coollabsio/coolify"
+  },
+  {
+    "name": "Crawl4AI",
+    "context7_path": "/unclecode/crawl4ai"
+  },
+  {
+    "name": "D3",
+    "context7_path": "/d3/d3"
+  },
+  {
+    "name": "dbt",
+    "context7_path": "/dbt-labs/docs.getdbt.com"
+  },
+  {
+    "name": "Datasets",
+    "context7_path": "/huggingface/datasets"
+  },
+  {
+    "name": "Diffusers",
+    "context7_path": "/huggingface/diffusers"
+  },
+  {
+    "name": "Directus",
+    "context7_path": "/directus/docs"
+  },
+  {
+    "name": "Django",
+    "context7_path": "/django/django"
+  },
+  {
+    "name": "Django Ninja",
+    "context7_path": "/vitalik/django-ninja"
+  },
+  {
+    "name": "Django REST framework",
+    "context7_path": "/encode/django-rest-framework"
+  },
+  {
+    "name": "Docker",
+    "context7_path": "/docker/docs"
+  },
+  {
+    "name": "Docusaurus",
+    "context7_path": "/facebook/docusaurus"
+  },
+  {
+    "name": "Elastic Cloud on Kubernetes",
+    "context7_path": "/elastic/cloud-on-k8s"
+  },
+  {
+    "name": "Elasticsearch",
+    "context7_path": "/elastic/elasticsearch"
+  },
+  {
+    "name": "Elasticsearch .NET Client",
+    "context7_path": "/elastic/elasticsearch-net"
+  },
+  {
+    "name": "Entity Framework Core",
+    "context7_path": "/dotnet/efcore"
+  },
+  {
+    "name": "ESLint",
+    "context7_path": "/eslint/eslint"
+  },
+  {
+    "name": "ESLint Plugin React",
+    "context7_path": "/jsx-eslint/eslint-plugin-react"
+  },
+  {
+    "name": "ExcelJS",
+    "context7_path": "/exceljs/exceljs"
+  },
+  {
+    "name": "Expo",
+    "context7_path": "/expo/expo"
+  },
+  {
+    "name": "FastAPI",
+    "context7_path": "/tiangolo/fastapi"
+  },
+  {
+    "name": "Firebase",
+    "context7_path": "/firebase/firebase-ios-sdk"
+  },
+  {
+    "name": "Firebase JavaScript SDK",
+    "context7_path": "/firebase/firebase-js-sdk"
+  },
+  {
+    "name": "FireCrawl",
+    "context7_path": "/mendableai/firecrawl"
+  },
+  {
+    "name": "Flask",
+    "context7_path": "/pallets/flask"
+  },
+  {
+    "name": "Flutter",
+    "context7_path": "/flutter/flutter"
+  },
+  {
+    "name": "Flutter",
+    "context7_path": "/flutter/website"
+  },
+  {
+    "name": "FlutterFire",
+    "context7_path": "/firebase/flutterfire"
+  },
+  {
+    "name": "Frappe",
+    "context7_path": "/frappe/frappe"
+  },
+  {
+    "name": "Frappe HRMS",
+    "context7_path": "/frappe/hrms"
+  },
+  {
+    "name": "Gemini",
+    "context7_path": "/google-gemini/gemini-image-editing-nextjs-quickstart"
+  },
+  {
+    "name": "Genkit",
+    "context7_path": "/firebase/genkit"
+  },
+  {
+    "name": "GitHub",
+    "context7_path": "/github/docs"
+  },
+  {
+    "name": "Go",
+    "context7_path": "/golang/go"
+  },
+  {
+    "name": "Google AI",
+    "context7_path": "/googleapis/python-genai"
+  },
+  {
+    "name": "Google Cloud Rust",
+    "context7_path": "/googleapis/google-cloud-rust"
+  },
+  {
+    "name": "Google Cloud Rust",
+    "context7_path": "/mozilla-services/google-cloud-rust"
+  },
+  {
+    "name": "Google Gemini",
+    "context7_path": "/google-gemini/generative-ai-js"
+  },
+  {
+    "name": "Grafana",
+    "context7_path": "/grafana/grafana"
+  },
+  {
+    "name": "Grafana Alloy",
+    "context7_path": "/grafana/alloy"
+  },
+  {
+    "name": "Grafana LGTM",
+    "context7_path": "/grafana/docker-otel-lgtm"
+  },
+  {
+    "name": "Grafana Mimir",
+    "context7_path": "/grafana/mimir"
+  },
+  {
+    "name": "GraphQL",
+    "context7_path": "/graphql/graphql.github.io"
+  },
+  {
+    "name": "gRPC for .NET",
+    "context7_path": "/grpc/grpc-dotnet"
+  },
+  {
+    "name": "Gym",
+    "context7_path": "/openai/gym"
+  },
+  {
+    "name": "Headless UI",
+    "context7_path": "/tailwindlabs/headlessui"
+  },
+  {
+    "name": "HTTPX",
+    "context7_path": "/encode/httpx"
+  },
+  {
+    "name": "jQuery",
+    "context7_path": "/jquery/jquery"
+  },
+  {
+    "name": "Kubernetes",
+    "context7_path": "/kubernetes/website"
+  },
+  {
+    "name": "LangChain",
+    "context7_path": "/langchain-ai/langchain"
+  },
+  {
+    "name": "LangChain.js",
+    "context7_path": "/langchain-ai/langchainjs"
+  },
+  {
+    "name": "LangGraph",
+    "context7_path": "/langchain-ai/langgraph"
+  },
+  {
+    "name": "LangSmith",
+    "context7_path": "/langchain-ai/langsmith-sdk"
+  },
+  {
+    "name": "Laravel",
+    "context7_path": "/laravel/docs"
+  },
+  {
+    "name": "Laravel Activity Log",
+    "context7_path": "/spatie/laravel-activitylog"
+  },
+  {
+    "name": "Laravel Analytics",
+    "context7_path": "/spatie/laravel-analytics"
+  },
+  {
+    "name": "Laravel Backup",
+    "context7_path": "/spatie/laravel-backup"
+  },
+  {
+    "name": "Laravel Data",
+    "context7_path": "/spatie/laravel-data"
+  },
+  {
+    "name": "Laravel Media Library",
+    "context7_path": "/spatie/laravel-medialibrary"
+  },
+  {
+    "name": "Laravel Permission",
+    "context7_path": "/spatie/laravel-permission"
+  },
+  {
+    "name": "Lexical",
+    "context7_path": "/facebook/lexical"
+  },
+  {
+    "name": "Llama",
+    "context7_path": "/meta-llama/llama-cookbook"
+  },
+  {
+    "name": "Llama Models",
+    "context7_path": "/meta-llama/llama-models"
+  },
+  {
+    "name": "LlamaIndex",
+    "context7_path": "/run-llama/llama_index"
+  },
+  {
+    "name": "LlamaIndex.TS",
+    "context7_path": "/run-llama/LlamaIndexTS.git"
+  },
+  {
+    "name": "Loki",
+    "context7_path": "/grafana/loki"
+  },
+  {
+    "name": "Lucide",
+    "context7_path": "/lucide-icons/lucide"
+  },
+  {
+    "name": "Magento 2",
+    "context7_path": "/magento/magento2"
+  },
+  {
+    "name": "MagicUI",
+    "context7_path": "/magicuidesign/magicui"
+  },
+  {
+    "name": "Mermaid",
+    "context7_path": "/mermaid-js/mermaid"
+  },
+  {
+    "name": "MetaGPT",
+    "context7_path": "/geekan/MetaGPT"
+  },
+  {
+    "name": "Microsoft Authentication Library for JS",
+    "context7_path": "/azuread/microsoft-authentication-library-for-js"
+  },
+  {
+    "name": "Microsoft Graph JavaScript SDK",
+    "context7_path": "/microsoftgraph/msgraph-sdk-javascript"
+  },
+  {
+    "name": "Microsoft Graph SDK for Python",
+    "context7_path": "/microsoftgraph/msgraph-sdk-python"
+  },
+  {
+    "name": "Microsoft Orleans",
+    "context7_path": "/dotnet/orleans"
+  },
+  {
+    "name": "Mistral AI",
+    "context7_path": "/mistralai/client-python"
+  },
+  {
+    "name": "Model Context Protocol",
+    "context7_path": "/modelcontextprotocol/modelcontextprotocol"
+  },
+  {
+    "name": "MongoDB",
+    "context7_path": "/mongodb/docs"
+  },
+  {
+    "name": "MongoDB C# Driver",
+    "context7_path": "/mongodb/mongo-csharp-driver"
+  },
+  {
+    "name": "Mongoose",
+    "context7_path": "/Automattic/mongoose"
+  },
+  {
+    "name": "Motor",
+    "context7_path": "/mongodb/motor"
+  },
+  {
+    "name": "MSBuild",
+    "context7_path": "/dotnet/msbuild"
+  },
+  {
+    "name": "MUI",
+    "context7_path": "/mui/material-ui"
+  },
+  {
+    "name": "MUI Base",
+    "context7_path": "/mui/base-ui"
+  },
+  {
+    "name": "n8n",
+    "context7_path": "/n8n-io/n8n-docs"
+  },
+  {
+    "name": "Neon",
+    "context7_path": "/neondatabase/website"
+  },
+  {
+    "name": "NestJS",
+    "context7_path": "/nestjs/docs.nestjs.com"
+  },
+  {
+    "name": "Next.js",
+    "context7_path": "/vercel/next.js"
+  },
+  {
+    "name": "NextAuth.js",
+    "context7_path": "/nextauthjs/next-auth"
+  },
+  {
+    "name": "Node.js",
+    "context7_path": "/nodejs/nodejs.org"
+  },
+  {
+    "name": "Odoo",
+    "context7_path": "/odoo/documentation"
+  },
+  {
+    "name": "Ollama",
+    "context7_path": "/ollama/ollama"
+  },
+  {
+    "name": "Open WebUI",
+    "context7_path": "/open-webui/docs"
+  },
+  {
+    "name": "OpenAI Agents",
+    "context7_path": "/openai/openai-agents-python"
+  },
+  {
+    "name": "OpenAI API",
+    "context7_path": "/openai/openai-cookbook"
+  },
+  {
+    "name": "OpenAI Realtime Agents",
+    "context7_path": "/openai/openai-realtime-agents"
+  },
+  {
+    "name": "Optimum-Quanto",
+    "context7_path": "/huggingface/optimum-quanto"
+  },
+  {
+    "name": "pandas",
+    "context7_path": "/pandas-dev/pandas"
+  },
+  {
+    "name": "PandasAI",
+    "context7_path": "/sinaptik-ai/pandas-ai"
+  },
+  {
+    "name": "Playwright",
+    "context7_path": "/microsoft/playwright"
+  },
+  {
+    "name": "Playwright",
+    "context7_path": "/microsoft/playwright-python"
+  },
+  {
+    "name": "Plotly",
+    "context7_path": "/plotly/graphing-library-docs"
+  },
+  {
+    "name": "pnpm",
+    "context7_path": "/pnpm/pnpm"
+  },
+  {
+    "name": "PostgreSQL",
+    "context7_path": "/postgres/postgres"
+  },
+  {
+    "name": "PowerShell",
+    "context7_path": "/MicrosoftDocs/PowerShell-Docs"
+  },
+  {
+    "name": "Prettier",
+    "context7_path": "/prettier/prettier"
+  },
+  {
+    "name": "Prometheus",
+    "context7_path": "/prometheus/docs"
+  },
+  {
+    "name": "Prometheus",
+    "context7_path": "/prometheus/prometheus"
+  },
+  {
+    "name": "Puppeteer",
+    "context7_path": "/puppeteer/puppeteer"
+  },
+  {
+    "name": "Pydantic",
+    "context7_path": "/pydantic/pydantic"
+  },
+  {
+    "name": "Pydantic Logfire",
+    "context7_path": "/pydantic/logfire"
+  },
+  {
+    "name": "Pydantic Settings",
+    "context7_path": "/pydantic/pydantic-settings"
+  },
+  {
+    "name": "PydanticAI",
+    "context7_path": "/pydantic/pydantic-ai"
+  },
+  {
+    "name": "PyMuPDF",
+    "context7_path": "/pymupdf/PyMuPDF"
+  },
+  {
+    "name": "PyO3",
+    "context7_path": "/PyO3/pyo3"
+  },
+  {
+    "name": "pytest",
+    "context7_path": "/pytest-dev/pytest"
+  },
+  {
+    "name": "Python",
+    "context7_path": "/python/cpython"
+  },
+  {
+    "name": "PyTorch",
+    "context7_path": "/pytorch/tutorials"
+  },
+  {
+    "name": "PyTorch Lightning",
+    "context7_path": "/Lightning-AI/pytorch-lightning"
+  },
+  {
+    "name": "Qdrant",
+    "context7_path": "/qdrant/qdrant"
+  },
+  {
+    "name": "R2R",
+    "context7_path": "/SciPhi-AI/R2R.git"
+  },
+  {
+    "name": "Radix UI",
+    "context7_path": "/radix-ui/primitives"
+  },
+  {
+    "name": "Radix UI",
+    "context7_path": "/radix-ui/website"
+  },
+  {
+    "name": "Ragas",
+    "context7_path": "/explodinggradients/ragas"
+  },
+  {
+    "name": "RAGflow",
+    "context7_path": "/infiniflow/ragflow"
+  },
+  {
+    "name": "React",
+    "context7_path": "/reactjs/react.dev"
+  },
+  {
+    "name": "React Flow",
+    "context7_path": "/xyflow/web"
+  },
+  {
+    "name": "React Native",
+    "context7_path": "/facebook/react-native"
+  },
+  {
+    "name": "React Native Paper",
+    "context7_path": "/callstack/react-native-paper"
+  },
+  {
+    "name": "React Native Reanimated",
+    "context7_path": "/software-mansion/react-native-reanimated"
+  },
+  {
+    "name": "React Native Skia",
+    "context7_path": "/Shopify/react-native-skia"
+  },
+  {
+    "name": "React Router",
+    "context7_path": "/remix-run/react-router"
+  },
+  {
+    "name": "React Testing Library",
+    "context7_path": "/testing-library/react-testing-library"
+  },
+  {
+    "name": "React Three Fiber",
+    "context7_path": "/pmndrs/react-three-fiber"
+  },
+  {
+    "name": "Redis",
+    "context7_path": "/redis/redis-doc"
+  },
+  {
+    "name": "redis-py",
+    "context7_path": "/redis/redis-py"
+  },
+  {
+    "name": "Redux",
+    "context7_path": "/reduxjs/redux"
+  },
+  {
+    "name": "Redux Toolkit",
+    "context7_path": "/reduxjs/redux-toolkit"
+  },
+  {
+    "name": "Reflex",
+    "context7_path": "/reflex-dev/reflex"
+  },
+  {
+    "name": "Remix",
+    "context7_path": "/remix-run/remix"
+  },
+  {
+    "name": "Roslyn",
+    "context7_path": "/dotnet/roslyn"
+  },
+  {
+    "name": "Ruff",
+    "context7_path": "/astral-sh/ruff"
+  },
+  {
+    "name": "Rust",
+    "context7_path": "/rust-lang/book"
+  },
+  {
+    "name": "Rust",
+    "context7_path": "/rust-lang/rust"
+  },
+  {
+    "name": "RxJS",
+    "context7_path": "/ReactiveX/rxjs"
+  },
+  {
+    "name": "scikit-learn",
+    "context7_path": "/scikit-learn/scikit-learn"
+  },
+  {
+    "name": "SciPy",
+    "context7_path": "/scipy/scipy"
+  },
+  {
+    "name": "Scrapy",
+    "context7_path": "/scrapy/scrapy"
+  },
+  {
+    "name": "Selenium",
+    "context7_path": "/SeleniumHQ/seleniumhq.github.io"
+  },
+  {
+    "name": "Semantic Kernel",
+    "context7_path": "/microsoft/semantic-kernel"
+  },
+  {
+    "name": "Semantic Router",
+    "context7_path": "/aurelio-labs/semantic-router"
+  },
+  {
+    "name": "Sentence Transformers",
+    "context7_path": "/UKPLab/sentence-transformers"
+  },
+  {
+    "name": "Sentry",
+    "context7_path": "/getsentry/sentry-docs"
+  },
+  {
+    "name": "Sequelize",
+    "context7_path": "/sequelize/website"
+  },
+  {
+    "name": "shadcn-svelte",
+    "context7_path": "/huntabyte/shadcn-svelte"
+  },
+  {
+    "name": "shadcn-vue",
+    "context7_path": "/unovue/shadcn-vue"
+  },
+  {
+    "name": "shadcn/ui",
+    "context7_path": "/magicpatterns/shadcdn"
+  },
+  {
+    "name": "shadcn/ui",
+    "context7_path": "/shadcn-ui/ui"
+  },
+  {
+    "name": "Shiki",
+    "context7_path": "/shikijs/shiki"
+  },
+  {
+    "name": "Shopify App",
+    "context7_path": "/Shopify/shopify-app-js"
+  },
+  {
+    "name": "Shopify UI Extensions",
+    "context7_path": "/Shopify/ui-extensions"
+  },
+  {
+    "name": "SignalR",
+    "context7_path": "/SignalR/SignalR"
+  },
+  {
+    "name": "spaCy",
+    "context7_path": "/explosion/spaCy"
+  },
+  {
+    "name": "Spring Boot",
+    "context7_path": "/spring-projects/spring-boot"
+  },
+  {
+    "name": "Spring Cloud AWS",
+    "context7_path": "/awspring/spring-cloud-aws"
+  },
+  {
+    "name": "Spring Framework",
+    "context7_path": "/spring-projects/spring-framework"
+  },
+  {
+    "name": "SQLAlchemy",
+    "context7_path": "/sqlalchemy/sqlalchemy"
+  },
+  {
+    "name": "SQLModel",
+    "context7_path": "/fastapi/sqlmodel"
+  },
+  {
+    "name": "Starlette",
+    "context7_path": "/encode/starlette"
+  },
+  {
+    "name": "Storybook",
+    "context7_path": "/storybookjs/storybook"
+  },
+  {
+    "name": "Streamlit",
+    "context7_path": "/streamlit/docs"
+  },
+  {
+    "name": "Stripe",
+    "context7_path": "/stripe/stripe-php"
+  },
+  {
+    "name": "Stripe.js",
+    "context7_path": "/stripe/stripe-js"
+  },
+  {
+    "name": "styled-components",
+    "context7_path": "/styled-components/styled-components.git"
+  },
+  {
+    "name": "StyleX",
+    "context7_path": "/facebook/stylex"
+  },
+  {
+    "name": "Supabase",
+    "context7_path": "/supabase/supabase"
+  },
+  {
+    "name": "Supabase Flutter",
+    "context7_path": "/supabase/supabase-flutter"
+  },
+  {
+    "name": "Supabase Swift",
+    "context7_path": "/supabase/supabase-swift"
+  },
+  {
+    "name": "Svelte",
+    "context7_path": "/sveltejs/svelte"
+  },
+  {
+    "name": "Svelte Testing Library",
+    "context7_path": "/testing-library/svelte-testing-library"
+  },
+  {
+    "name": "SvelteKit",
+    "context7_path": "/sveltejs/kit"
+  },
+  {
+    "name": "SvelteKit Superforms",
+    "context7_path": "/ciscoheat/sveltekit-superforms"
+  },
+  {
+    "name": "Swift",
+    "context7_path": "/swiftlang/swift"
+  },
+  {
+    "name": "Swift",
+    "context7_path": "/swiftlang/swift-testing"
+  },
+  {
+    "name": "SWR",
+    "context7_path": "/vercel/swr"
+  },
+  {
+    "name": "Symfony",
+    "context7_path": "/symfony/symfony-docs"
+  },
+  {
+    "name": "Symfony UX",
+    "context7_path": "/symfony/ux"
+  },
+  {
+    "name": "Tailwind CSS",
+    "context7_path": "/tailwindlabs/tailwindcss.com"
+  },
+  {
+    "name": "Tailwind Variants",
+    "context7_path": "/heroui-inc/tailwind-variants"
+  },
+  {
+    "name": "tailwindcss-animate",
+    "context7_path": "/jamiebuilds/tailwindcss-animate"
+  },
+  {
+    "name": "Tamagui",
+    "context7_path": "/tamagui/tamagui"
+  },
+  {
+    "name": "TanStack Form",
+    "context7_path": "/TanStack/form"
+  },
+  {
+    "name": "TanStack Query",
+    "context7_path": "/TanStack/query"
+  },
+  {
+    "name": "TanStack Query",
+    "context7_path": "/tanstack/query"
+  },
+  {
+    "name": "TanStack Router",
+    "context7_path": "/TanStack/router"
+  },
+  {
+    "name": "TanStack Table",
+    "context7_path": "/TanStack/table"
+  },
+  {
+    "name": "TanStack Virtual",
+    "context7_path": "/tanstack/virtual"
+  },
+  {
+    "name": "Tempo",
+    "context7_path": "/grafana/tempo"
+  },
+  {
+    "name": "Temporal",
+    "context7_path": "/temporalio/sdk-typescript"
+  },
+  {
+    "name": "Temporal Python SDK",
+    "context7_path": "/temporalio/sdk-python"
+  },
+  {
+    "name": "TensorFlow",
+    "context7_path": "/tensorflow/docs"
+  },
+  {
+    "name": "TensorRT",
+    "context7_path": "/NVIDIA/TensorRT"
+  },
+  {
+    "name": "TensorRT-LLM",
+    "context7_path": "/NVIDIA/TensorRT-LLM"
+  },
+  {
+    "name": "Terraform",
+    "context7_path": "/hashicorp/terraform"
+  },
+  {
+    "name": "Terraform AWS Provider",
+    "context7_path": "/hashicorp/terraform-provider-aws"
+  },
+  {
+    "name": "Terraform Provider for Azure Resource Manager",
+    "context7_path": "/hashicorp/terraform-provider-azurerm"
+  },
+  {
+    "name": "Testing Library",
+    "context7_path": "/testing-library/testing-library-docs"
+  },
+  {
+    "name": "Text Embeddings Inference",
+    "context7_path": "/huggingface/text-embeddings-inference"
+  },
+  {
+    "name": "Theatre.js",
+    "context7_path": "/theatre-js/theatre"
+  },
+  {
+    "name": "thirdweb",
+    "context7_path": "/thirdweb-dev/js"
+  },
+  {
+    "name": "Three.js",
+    "context7_path": "/mrdoob/three.js"
+  },
+  {
+    "name": "Tiptap",
+    "context7_path": "/ueberdosis/tiptap-docs"
+  },
+  {
+    "name": "Tokio",
+    "context7_path": "/tokio-rs/tokio"
+  },
+  {
+    "name": "Tokio Console",
+    "context7_path": "/tokio-rs/console"
+  },
+  {
+    "name": "Tracing",
+    "context7_path": "/tokio-rs/tracing"
+  },
+  {
+    "name": "Transformers",
+    "context7_path": "/huggingface/transformers"
+  },
+  {
+    "name": "Transformers.js",
+    "context7_path": "/huggingface/transformers.js"
+  },
+  {
+    "name": "Trigger.dev",
+    "context7_path": "/triggerdotdev/trigger.dev"
+  },
+  {
+    "name": "tRPC",
+    "context7_path": "/trpc/trpc"
+  },
+  {
+    "name": "Turbo",
+    "context7_path": "/hotwired/turbo"
+  },
+  {
+    "name": "Turbo",
+    "context7_path": "/vercel/turborepo"
+  },
+  {
+    "name": "TypeORM",
+    "context7_path": "/typeorm/typeorm"
+  },
+  {
+    "name": "Typer",
+    "context7_path": "/fastapi/typer.git"
+  },
+  {
+    "name": "TypeScript",
+    "context7_path": "/microsoft/TypeScript-Website"
+  },
+  {
+    "name": "TypeScript ESLint",
+    "context7_path": "/typescript-eslint/typescript-eslint"
+  },
+  {
+    "name": "uv",
+    "context7_path": "/astral-sh/uv"
+  },
+  {
+    "name": "Uvicorn",
+    "context7_path": "/encode/uvicorn"
+  },
+  {
+    "name": "Vercel AI SDK",
+    "context7_path": "/vercel/ai"
+  },
+  {
+    "name": "Vertex AI SDK for JavaScript",
+    "context7_path": "/googleapis/js-genai"
+  },
+  {
+    "name": "Vite",
+    "context7_path": "/vitejs/vite"
+  },
+  {
+    "name": "Vitest",
+    "context7_path": "/vitest-dev/vitest"
+  },
+  {
+    "name": "Vllm",
+    "context7_path": "/vllm-project/vllm"
+  },
+  {
+    "name": "Vue.js",
+    "context7_path": "/vuejs/docs"
+  },
+  {
+    "name": "VueUse",
+    "context7_path": "/vueuse/vueuse"
+  },
+  {
+    "name": "Whisper",
+    "context7_path": "/openai/whisper"
+  },
+  {
+    "name": "whisper.cpp",
+    "context7_path": "/ggml-org/whisper.cpp"
+  },
+  {
+    "name": "WordPress",
+    "context7_path": "/WordPress/wordpress-develop"
+  },
+  {
+    "name": "WordPress",
+    "context7_path": "/WordPress/wordpress.org"
+  },
+  {
+    "name": "workerd",
+    "context7_path": "/cloudflare/workerd"
+  },
+  {
+    "name": "Workers SDK",
+    "context7_path": "/cloudflare/workers-sdk"
+  },
+  {
+    "name": "XState",
+    "context7_path": "/statelyai/xstate"
+  },
+  {
+    "name": "Yarn",
+    "context7_path": "/yarnpkg/website"
+  },
+  {
+    "name": "Zod",
+    "context7_path": "/colinhacks/zod"
+  },
+  {
+    "name": "Zustand",
+    "context7_path": "/pmndrs/zustand"
+  }
+]
